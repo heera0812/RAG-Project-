@@ -49,7 +49,7 @@ class Settings(BaseSettings):
     RETRIEVAL_TOP_K: int = 4
     SIMILARITY_HIGH_CONFIDENCE: float = 0.78
     SIMILARITY_MEDIUM_CONFIDENCE: float = 0.65
-    SIMILARITY_MIN_THRESHOLD: float = 0.52
+    SIMILARITY_MIN_THRESHOLD: float = 0.48
 
     # Chunking Defaults
     CHUNK_TARGET_CHARS: int = 1500

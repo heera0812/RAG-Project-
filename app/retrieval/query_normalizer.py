@@ -137,9 +137,20 @@ TERM_GLOSSARY: Dict[str, List[str]] = {
     "snake bite": ["सर्प-विष", "हवन भस्म"],
     "daridrata": ["दरिद्रता", "कर्ज", "श्रीं बीज"],
     "poverty": ["दरिद्रता", "कर्ज", "श्रीं बीज"],
-    "debt": ["ऋण", "कर्ज", "दरिद्रता"],
-    "disease": ["रोग", "अस्वस्थता", "आरोग्य"],
-    "court case": ["मुकदमा", "शत्रु-भय", "क्लीं बीज"],
+    # Shaap Vimochan (Curse Removal myth & reality)
+    "sapvimochan": ["शाप विमोचन", "शापोद्धार", "गायत्री शाप", "shaap vimochan", "curse removal"],
+    "shapvimochan": ["शाप विमोचन", "शापोद्धार", "गायत्री शाप", "shaap vimochan", "curse removal"],
+    "shaap vimochan": ["शाप विमोचन", "शापोद्धार", "गायत्री शाप", "curse removal"],
+    "shapa vimochana": ["शाप विमोचन", "शापोद्धार", "गायत्री शाप", "curse removal"],
+    "curse removal": ["शाप विमोचन", "शापोद्धार", "shaap vimochan"],
+
+    # Self-Introspection & Sadhana Pillars
+    "spect ourselves": ["आत्म-निरीक्षण", "आत्म-सुधार", "आत्म-परीक्षण", "introspect", "self examination"],
+    "spect": ["आत्म-निरीक्षण", "आत्म-सुधार", "introspect", "introspection"],
+    "introspect": ["आत्म-निरीक्षण", "आत्म-समीक्षा", "आत्म-सुधार", "self-introspection"],
+    "introspection": ["आत्म-निरीक्षण", "आत्म-सुधार", "आत्म-विकास", "self-reflection"],
+    "self examination": ["आत्म-निरीक्षण", "आत्म-समीक्षा", "introspection"],
+    "atma nirikshan": ["आत्म-निरीक्षण", "आत्म-सुधार", "आत्म-विकास", "आत्म-निर्माण", "introspection"],
 }
 
 
