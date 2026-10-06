@@ -37,6 +37,8 @@ class Settings(BaseSettings):
     FALLBACK_MODELS: list = [
         "google/gemma-4-26b-a4b-it:free",
         "nvidia/nemotron-3.5-lightning:free",
+        "meta-llama/llama-3.3-70b-instruct:free",
+        "mistralai/mistral-small-24b-instruct-2501:free",
         "google/gemma-4-31b-it:free",
     ]
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")

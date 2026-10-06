@@ -63,6 +63,7 @@ class AnswerGenerator:
                     ],
                     temperature=0.1,
                     response_format={"type": "json_object"},
+                    timeout=20.0,
                 )
                 raw_content = (response.choices[0].message.content or "{}").strip()
                 clean_json = raw_content
