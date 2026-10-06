@@ -1,0 +1,1334 @@
+{
+  "hinglish": {
+    "language": "Hinglish",
+    "total_queries": 60,
+    "answerable_queries": 60,
+    "hit_at_1": 59,
+    "hit_at_1_rate": 0.9833,
+    "hit_at_3": 59,
+    "hit_at_3_rate": 0.9833,
+    "hit_at_5": 59,
+    "hit_at_5_rate": 0.9833,
+    "mrr": 0.9833,
+    "avg_latency_sec": 0.5744,
+    "correct_abstentions": 0,
+    "details": [
+      {
+        "id": "H_Q001",
+        "question": "Gayatri Mantra ke har ek shabd ka WhatsApp-style simplified meaning kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "80a626a4-21e7-5d8e-af5b-a9d0b33320ca",
+        "top_score": 0.8501,
+        "latency_sec": 1.2754
+      },
+      {
+        "id": "H_Q002",
+        "question": "Gayatri Mantra ke 24 akshar human body se kaise connected hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "ed70b664-44b0-5ff3-b5a5-5869a6f1491d",
+        "top_score": 0.8057,
+        "latency_sec": 0.7985
+      },
+      {
+        "id": "H_Q003",
+        "question": "Pehle akshar 'Tat' (तत्) ka gland, power aur message kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "25e7bc24-2771-5f17-b393-02168606763d",
+        "top_score": 0.8211,
+        "latency_sec": 0.6179
+      },
+      {
+        "id": "H_Q004",
+        "question": "'Sa' (स) akshar se konsi gland aur power active hoti hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "8d2c85c9-4e60-52f6-a545-4ad6181f30f5",
+        "top_score": 0.7709,
+        "latency_sec": 0.6661
+      },
+      {
+        "id": "H_Q005",
+        "question": "'Vi' (वि) akshar money aur wealth ke baare me kya seekh deta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "0e31ed05-f60b-5473-8edf-fac60d724769",
+        "top_score": 0.7689,
+        "latency_sec": 0.5733
+      },
+      {
+        "id": "H_Q006",
+        "question": "'Tu' (तु) akshar ka kya message hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "9655f0c3-b4ec-53d4-857f-bbd5ff151c37",
+        "top_score": 0.706,
+        "latency_sec": 0.6511
+      },
+      {
+        "id": "H_Q007",
+        "question": "'Va' (व) akshar ka women empowerment se kya connection hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "d1347b77-748d-59ed-928a-e0febe9e61f8",
+        "top_score": 0.8442,
+        "latency_sec": 0.5936
+      },
+      {
+        "id": "H_Q008",
+        "question": "'Re' (रे) akshar ka main lesson kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "9c4fc7b0-e840-5d64-b9f5-48a2425b0963",
+        "top_score": 0.7557,
+        "latency_sec": 0.5826
+      },
+      {
+        "id": "H_Q009",
+        "question": "'Ni' (णि) akshar kis gland ko trigger karta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "d85f79f1-b90c-525d-ae38-301b95c5a805",
+        "top_score": 0.771,
+        "latency_sec": 0.5956
+      },
+      {
+        "id": "H_Q010",
+        "question": "'Yam' (यं) akshar kya sikhata hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "c3910114-25db-5b0c-b00f-be7bb0dc12e8",
+        "top_score": 0.7167,
+        "latency_sec": 0.633
+      },
+      {
+        "id": "H_Q011",
+        "question": "'Bhar' (भर्) akshar se kya milta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "569e768b-04a8-5b1b-a4e9-ab9be76607f7",
+        "top_score": 0.7715,
+        "latency_sec": 0.5675
+      },
+      {
+        "id": "H_Q012",
+        "question": "'Go' (गो) akshar kis nature ko develop karta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "94171f7a-d571-5ca1-bf32-340ee81f1645",
+        "top_score": 0.7874,
+        "latency_sec": 0.5457
+      },
+      {
+        "id": "H_Q013",
+        "question": "'De' (दे) akshar ka kya matlab hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "f1b73737-c85c-57d5-bb85-4735ffef0692",
+        "top_score": 0.69,
+        "latency_sec": 0.6668
+      },
+      {
+        "id": "H_Q014",
+        "question": "'Va' (Devasya ka Va) kya sikhaata hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "ed29aebc-add2-59cd-8b7e-ef9e038cb257",
+        "top_score": 0.7166,
+        "latency_sec": 0.5093
+      },
+      {
+        "id": "H_Q015",
+        "question": "'Sya' (स्य) akshar ka social message kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "48a3ce9c-de32-52fc-b1d3-7eb9c0eb6398",
+        "top_score": 0.7306,
+        "latency_sec": 0.579
+      },
+      {
+        "id": "H_Q016",
+        "question": "Human soul ke 5 layers (Pancha-Kosha) kaunse hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "6d8fce0a-81bc-588d-9683-0a5fa3e2dd20",
+        "top_score": 0.8299,
+        "latency_sec": 0.554
+      },
+      {
+        "id": "H_Q017",
+        "question": "Annamaya Kosha ko clean aur strong kaise karein?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "74d92936-60dc-54af-a650-4ce2fd67adaa",
+        "top_score": 0.7994,
+        "latency_sec": 0.5988
+      },
+      {
+        "id": "H_Q018",
+        "question": "Pranamaya Kosha ko activate karne ka tareeqa kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "9e7d1eed-007c-54e4-a4ba-d0a4ea39824b",
+        "top_score": 0.8265,
+        "latency_sec": 0.615
+      },
+      {
+        "id": "H_Q019",
+        "question": "Manomaya Kosha kaise purify hota hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "0a081c78-e1a9-5e9d-9415-4907f907c447",
+        "top_score": 0.7969,
+        "latency_sec": 0.5515
+      },
+      {
+        "id": "H_Q020",
+        "question": "Vigyanamaya Kosha ke jaagrit hone se kya milta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "8ed72f5c-b625-580e-8621-011e6257f38b",
+        "top_score": 0.7285,
+        "latency_sec": 0.6119
+      },
+      {
+        "id": "H_Q021",
+        "question": "Anandamaya Kosha kaise realize hota hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "d7a76e3d-d640-5d1c-bea0-bc247f0aeb8b",
+        "top_score": 0.8103,
+        "latency_sec": 0.5477
+      },
+      {
+        "id": "H_Q022",
+        "question": "7 Vyahritiyan kaunsi hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "e2351fce-3435-581e-a2db-482b4a946759",
+        "top_score": 0.7201,
+        "latency_sec": 0.5539
+      },
+      {
+        "id": "H_Q023",
+        "question": "Spinal cord ke paas 3 main Nadis kaunsi hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "3ae55dd6-ee74-5d0b-8522-df4fec9d67df",
+        "top_score": 0.771,
+        "latency_sec": 0.5501
+      },
+      {
+        "id": "H_Q024",
+        "question": "6 Chakras (Shat-Chakra) ke naam aur unke exact locations kya hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "ecbfd9e4-ddb2-5c02-9fba-23690f51efb7",
+        "top_score": 0.7697,
+        "latency_sec": 0.5856
+      },
+      {
+        "id": "H_Q025",
+        "question": "Muladhara Chakra ka seed mantra aur element kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "f277bc08-e58c-5c9d-af02-bbf19ccb7770",
+        "top_score": 0.8206,
+        "latency_sec": 0.5603
+      },
+      {
+        "id": "H_Q026",
+        "question": "Manipura Chakra ka focus area kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "dca4ed71-c555-55d1-a14d-43f8ec44702a",
+        "top_score": 0.7838,
+        "latency_sec": 0.5308
+      },
+      {
+        "id": "H_Q027",
+        "question": "Ajna Chakra ka kya importance hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "16a9ea6d-e5fe-5868-924d-0c6474306e61",
+        "top_score": 0.7337,
+        "latency_sec": 0.5544
+      },
+      {
+        "id": "H_Q028",
+        "question": "Sahasrara Chakra kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "8dbe33f5-4102-553e-86fc-b6243b6070e9",
+        "top_score": 0.8024,
+        "latency_sec": 0.6676
+      },
+      {
+        "id": "H_Q029",
+        "question": "[Test Case] Buri aadatein, bad company ya addictions kaise chhootein?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "278c9a3e-87b4-5d83-b1e3-ec953b00295c",
+        "top_score": 0.6678,
+        "latency_sec": 0.6002
+      },
+      {
+        "id": "H_Q030",
+        "question": "[Test Case] Overthinking, anxiety aur mind restlessness ko kaise handle karein?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "645010a2-971c-518e-9acc-733e0986bb77",
+        "top_score": 0.7125,
+        "latency_sec": 0.5481
+      },
+      {
+        "id": "H_Q031",
+        "question": "Suffering aur dukho ke 3 main reasons kya hain aur Gayatri unhe kaise mitati hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "424ed7fe-d4cb-5e6e-892d-6699402b185e",
+        "top_score": 0.7749,
+        "latency_sec": 0.546
+      },
+      {
+        "id": "H_Q032",
+        "question": "Kya Gayatri Sadhana se memory aur IQ badhta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "bcec12da-bc4f-5cf5-9949-1bb8b028d822",
+        "top_score": 0.7933,
+        "latency_sec": 0.5791
+      },
+      {
+        "id": "H_Q033",
+        "question": "Gayatri ko \"Kamadhenu\" kyu bolte hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "1d45fd79-f2eb-552d-9eb1-b168c0d30f04",
+        "top_score": 0.8334,
+        "latency_sec": 0.5391
+      },
+      {
+        "id": "H_Q034",
+        "question": "Mantra Jap ke 3 types kaunse hain aur sabse best konsa hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "0cc245f2-ab93-591c-baa2-736e2ee0f390",
+        "top_score": 0.8198,
+        "latency_sec": 0.573
+      },
+      {
+        "id": "H_Q035",
+        "question": "Pooja ke waqt kis direction me baithna chahiye?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "e60f9bc7-14e2-508d-8ebe-c102ad7ef721",
+        "top_score": 0.6969,
+        "latency_sec": 0.5347
+      },
+      {
+        "id": "H_Q036",
+        "question": "Gayatri Jap ke liye best timing kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "89171175-3ad6-5c39-89de-43d9b215177f",
+        "top_score": 0.7718,
+        "latency_sec": 0.5323
+      },
+      {
+        "id": "H_Q037",
+        "question": "Kaisa Asana use karna chahiye?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "1e74e223-e2e9-5246-889f-61bfcedd39e9",
+        "top_score": 0.6984,
+        "latency_sec": 0.5226
+      },
+      {
+        "id": "H_Q038",
+        "question": "Konsi Mala use karni chahiye?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "278a385d-3bc5-5b86-818d-bf1daaeb2fb8",
+        "top_score": 0.8151,
+        "latency_sec": 0.5082
+      },
+      {
+        "id": "H_Q039",
+        "question": "Sick ya bedridden condition me Sadhana kaise karein?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "893f501a-e270-5339-84af-bb40c46b78e7",
+        "top_score": 0.7583,
+        "latency_sec": 0.5569
+      },
+      {
+        "id": "H_Q040",
+        "question": "Sandhyavandan ke 5 steps (Panch-Karma) kya hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "0743eade-0181-577b-9b62-1b3a56faa49d",
+        "top_score": 0.8167,
+        "latency_sec": 0.6022
+      },
+      {
+        "id": "H_Q041",
+        "question": "Shikha (Choti) baandhne ka scientific reason kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "d76d56f3-d231-5c49-841c-6a500da29f57",
+        "top_score": 0.8271,
+        "latency_sec": 0.5689
+      },
+      {
+        "id": "H_Q042",
+        "question": "Book me diye gaye 10 Tapas kaunse hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "d11b5afa-fd55-51ed-9eac-6abe2c2ba17c",
+        "top_score": 0.7112,
+        "latency_sec": 0.5396
+      },
+      {
+        "id": "H_Q043",
+        "question": "'Aswada Tapa' kya hota hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "176e108e-19a3-5ebf-993b-0161ed43f79a",
+        "top_score": 0.7866,
+        "latency_sec": 0.5288
+      },
+      {
+        "id": "H_Q044",
+        "question": "'Titiksha Tapa' kise kehte hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "daba8201-4833-5e03-a8cb-6abadbbae984",
+        "top_score": 0.8437,
+        "latency_sec": 0.5142
+      },
+      {
+        "id": "H_Q045",
+        "question": "'Pradatavya Tapa' ka matlab kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "8a838eed-06d5-5b14-8c9d-f77ef0379db9",
+        "top_score": 0.8108,
+        "latency_sec": 0.5378
+      },
+      {
+        "id": "H_Q046",
+        "question": "'Chandrayana Tapa' kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "bb2afabf-f04c-574b-bf91-35bd38e61d91",
+        "top_score": 0.8023,
+        "latency_sec": 0.5569
+      },
+      {
+        "id": "H_Q047",
+        "question": "Gayatri aur Yajna ka aapas me kya connection hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "6eb8fc05-6216-5462-b23d-70fd33acf355",
+        "top_score": 0.8054,
+        "latency_sec": 0.5167
+      },
+      {
+        "id": "H_Q048",
+        "question": "Janeu (Yagyopaveet) ki 3 strings kiska symbol hain?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "1a38f1db-c89c-5880-aaa1-db1f3675b4b3",
+        "top_score": 0.8018,
+        "latency_sec": 0.5282
+      },
+      {
+        "id": "H_Q049",
+        "question": "Yajna se environment par kya effect padta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "5b3b78c6-a3a9-53ab-9415-9921f7bcf4f9",
+        "top_score": 0.8291,
+        "latency_sec": 0.5182
+      },
+      {
+        "id": "H_Q050",
+        "question": "[Test Case] Kya women ko Gayatri Mantra jaap aur Veda padhne ka right hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "3af6e018-214f-5e9a-a257-a9e9c7596fd2",
+        "top_score": 0.8034,
+        "latency_sec": 0.5629
+      },
+      {
+        "id": "H_Q051",
+        "question": "Ancient time ki kaunsi female Rishis (Rishikas) Vedic scholars thi?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "79553b07-65a4-502c-9d26-0dfb97b9de8d",
+        "top_score": 0.7682,
+        "latency_sec": 0.5611
+      },
+      {
+        "id": "H_Q052",
+        "question": "Middle ages me women par restrictions kyu lage the?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "d07ca021-bab6-500e-82cc-aed35b23935d",
+        "top_score": 0.8317,
+        "latency_sec": 0.5371
+      },
+      {
+        "id": "H_Q053",
+        "question": "Mahamana Madan Mohan Malaviya ji ka women rights par kya decision tha?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "b4259bf8-8573-59a9-9bc6-54dfc2016521",
+        "top_score": 0.8857,
+        "latency_sec": 0.5264
+      },
+      {
+        "id": "H_Q054",
+        "question": "[Test Case] Gharelu klesh aur family fights ko Gayatri Sadhana kaise thik karti hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "fd4a03fd-b20b-5e93-836b-60e85422048a",
+        "top_score": 0.8903,
+        "latency_sec": 0.4881
+      },
+      {
+        "id": "H_Q055",
+        "question": "[Test Case] Husband-Wife relationship me conflict ho toh kya karein?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "83b62cfb-d918-56b8-96ae-2050c9310233",
+        "top_score": 0.7527,
+        "latency_sec": 0.4983
+      },
+      {
+        "id": "H_Q056",
+        "question": "Children ki upbringing aur sharp memory ke liye parents kya karein?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "9811d959-b657-5b87-9a06-81eae897aa4b",
+        "top_score": 0.7195,
+        "latency_sec": 0.5057
+      },
+      {
+        "id": "H_Q057",
+        "question": "[Test Case] Severe illness ya health issues me Gayatri ka use kaise karein?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "b2cffc68-5d40-52c0-b75e-ec3de4b70fd8",
+        "top_score": 0.829,
+        "latency_sec": 0.4988
+      },
+      {
+        "id": "H_Q058",
+        "question": "[Test Case] Debt (Karza) aur Financial Crises door karne ka vishesh prayog kya hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "8c64b512-73ef-5f73-baef-67c55587a3b0",
+        "top_score": 0.6755,
+        "latency_sec": 0.4957
+      },
+      {
+        "id": "H_Q059",
+        "question": "[Test Case] Court cases, false litigation aur enemy fear se bachne ke liye kya karein?",
+        "answerable": true,
+        "found_rank": null,
+        "confidence": "insufficient_evidence",
+        "top_chunk_id": null,
+        "top_score": 0.0,
+        "latency_sec": 0.4758
+      },
+      {
+        "id": "H_Q060",
+        "question": "Gayatri Raksha-Kavach kaise banta hai?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "6e450c28-a7c9-5ba3-a59a-eb7440565ad8",
+        "top_score": 0.7684,
+        "latency_sec": 0.5232
+      }
+    ]
+  },
+  "english": {
+    "language": "English",
+    "total_queries": 70,
+    "answerable_queries": 70,
+    "hit_at_1": 69,
+    "hit_at_1_rate": 0.9857,
+    "hit_at_3": 69,
+    "hit_at_3_rate": 0.9857,
+    "hit_at_5": 69,
+    "hit_at_5_rate": 0.9857,
+    "mrr": 0.9857,
+    "avg_latency_sec": 0.4969,
+    "correct_abstentions": 0,
+    "details": [
+      {
+        "id": "EN_Q001",
+        "question": "What is the literal and spiritual word-by-word meaning of the Gayatri Mantra?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "e6aaf078-732d-5877-b57e-0a7d8e2cca23",
+        "top_score": 0.8767,
+        "latency_sec": 0.495
+      },
+      {
+        "id": "EN_Q002",
+        "question": "How do the 24 syllables of the Gayatri Mantra connect to human anatomy and subtle energy?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "2b9df6a1-599f-5c89-a053-8a5da9219b15",
+        "top_score": 0.9176,
+        "latency_sec": 0.5058
+      },
+      {
+        "id": "EN_Q003",
+        "question": "What energy center, power, and message correspond to the first syllable 'Tat' (तत्)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "70aeb927-39b6-5f10-8e11-6c3f068fb89d",
+        "top_score": 0.8422,
+        "latency_sec": 0.5684
+      },
+      {
+        "id": "EN_Q004",
+        "question": "What energy center is activated by the syllable 'Sa' (स)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "e29a9ac7-b598-5fe3-8034-bf99fefd92aa",
+        "top_score": 0.8795,
+        "latency_sec": 0.5145
+      },
+      {
+        "id": "EN_Q005",
+        "question": "What principle regarding wealth is conveyed by the syllable 'Vi' (वि)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "eab1492d-624f-5b48-a0e7-2be59377b9d2",
+        "top_score": 0.8457,
+        "latency_sec": 0.6178
+      },
+      {
+        "id": "EN_Q006",
+        "question": "What is the gland and message associated with the syllable 'Tu' (तु)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "6fe9c5bf-9f33-5089-8c6e-807cfb545387",
+        "top_score": 0.8609,
+        "latency_sec": 0.5828
+      },
+      {
+        "id": "EN_Q007",
+        "question": "How does the syllable 'Va' (व) relate to women and human development?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "6b41b640-1d9c-5979-accb-ed0af9bf7946",
+        "top_score": 0.9123,
+        "latency_sec": 0.5333
+      },
+      {
+        "id": "EN_Q008",
+        "question": "What energy center is activated by the syllable 'Re' (रे)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "811c2d45-0950-5f80-bc9d-348be3b5ec74",
+        "top_score": 0.857,
+        "latency_sec": 0.5587
+      },
+      {
+        "id": "EN_Q009",
+        "question": "What gland and power correspond to the syllable 'Ni' (णि)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "c7ccc379-a60d-5d01-be35-19dcf5b4ae0e",
+        "top_score": 0.8774,
+        "latency_sec": 0.5381
+      },
+      {
+        "id": "EN_Q010",
+        "question": "What is the gland, power, and significance of the syllable 'Yam' (यं)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "633571c1-cfee-5649-80bf-a06031ab82eb",
+        "top_score": 0.8686,
+        "latency_sec": 0.6736
+      },
+      {
+        "id": "EN_Q011",
+        "question": "What energy center is activated by the syllable 'Bhar' (भर्)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "91688e46-3c67-5c50-b7e8-2a1f668c7665",
+        "top_score": 0.8866,
+        "latency_sec": 0.5639
+      },
+      {
+        "id": "EN_Q012",
+        "question": "What gland and attitude are associated with the syllable 'Go' (गो)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "b6d0f8bd-e79b-5048-9297-3d3344490d69",
+        "top_score": 0.8828,
+        "latency_sec": 0.5147
+      },
+      {
+        "id": "EN_Q013",
+        "question": "What gland and self-restraint principle correspond to 'De' (दे)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "fc8ebc19-610c-5ae9-91c0-0a9b40200823",
+        "top_score": 0.8936,
+        "latency_sec": 0.5272
+      },
+      {
+        "id": "EN_Q014",
+        "question": "What gland and virtue are activated by 'Va' (व - Devasya)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "02edce34-cc13-5704-b35d-2789f8375935",
+        "top_score": 0.9015,
+        "latency_sec": 0.5504
+      },
+      {
+        "id": "EN_Q015",
+        "question": "What gland and altruistic message correspond to 'Sya' (स्य)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "242f692b-2481-551a-b8f8-901f624b4144",
+        "top_score": 0.9003,
+        "latency_sec": 0.5503
+      },
+      {
+        "id": "EN_Q016",
+        "question": "What glands and powers correspond to 'Dhee' (धी), 'Ma' (म), 'Hi' (हि), and 'Dhi' (धि)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "894cc5eb-ae48-5816-bac7-b0ab165d7f70",
+        "top_score": 0.9081,
+        "latency_sec": 0.5153
+      },
+      {
+        "id": "EN_Q017",
+        "question": "What glands correspond to 'Yo', 'Yo', 'Nah', 'Pra', 'Cho', 'Da', and 'Yaat'?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "55988f8b-bf55-562e-aeef-234eb58df742",
+        "top_score": 0.8746,
+        "latency_sec": 0.5451
+      },
+      {
+        "id": "EN_Q018",
+        "question": "What are the seven Vyahritis (व्याहृतियाँ) and what cosmic realms do they represent?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "f37a1135-4a87-5f4f-b151-69eab180d923",
+        "top_score": 0.906,
+        "latency_sec": 0.5413
+      },
+      {
+        "id": "EN_Q019",
+        "question": "What are the Five Sheaths (Pancha-Koshas) of human existence?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "4c0fc243-e3f6-58e1-b3d6-b18c92b23329",
+        "top_score": 0.8807,
+        "latency_sec": 0.5399
+      },
+      {
+        "id": "EN_Q020",
+        "question": "What is the Annamaya Kosha and how is it purified?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "870e4c36-0fd6-5902-82c2-e4a841c6f136",
+        "top_score": 0.8663,
+        "latency_sec": 0.5257
+      },
+      {
+        "id": "EN_Q021",
+        "question": "What practices activate and strengthen the Pranamaya Kosha?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "8305532a-8b9b-5834-b2aa-4c56e08ff82d",
+        "top_score": 0.8175,
+        "latency_sec": 0.511
+      },
+      {
+        "id": "EN_Q022",
+        "question": "How is the Manomaya Kosha cleansed and cultivated?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "44bde9e0-10d8-587a-b20e-c8f0fb1b8828",
+        "top_score": 0.8524,
+        "latency_sec": 0.4749
+      },
+      {
+        "id": "EN_Q023",
+        "question": "What spiritual practices lead to the awakening of the Vigyanamaya Kosha?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "4fd98bbf-c0bd-53ab-82e3-d44c7f288062",
+        "top_score": 0.8557,
+        "latency_sec": 0.488
+      },
+      {
+        "id": "EN_Q024",
+        "question": "How is the Anandamaya Kosha realized?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "6b972871-a8b8-5a14-98d2-6b0c7acbb611",
+        "top_score": 0.8368,
+        "latency_sec": 0.5215
+      },
+      {
+        "id": "EN_Q025",
+        "question": "What is the symbolic meaning of Panchamukhi Gayatri (Five-faced Gayatri)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "f064ddcf-4854-5b4a-8a60-c00117f2b635",
+        "top_score": 0.8995,
+        "latency_sec": 0.5204
+      },
+      {
+        "id": "EN_Q026",
+        "question": "What are the three primary energy channels (Nadis) along the spine?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "860c1f02-667e-52cc-9a41-09bc6b13babc",
+        "top_score": 0.9242,
+        "latency_sec": 0.5039
+      },
+      {
+        "id": "EN_Q027",
+        "question": "What is the significance of the 33 vertebrae of the spinal column?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "3c26dc7d-71fd-5b3b-8f6b-199d00f75838",
+        "top_score": 0.8133,
+        "latency_sec": 0.5052
+      },
+      {
+        "id": "EN_Q028",
+        "question": "What are the six primary Chakras (Shat-Chakra) and their exact locations?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "dce18840-83cb-5d4f-a12f-5fa2e56f1612",
+        "top_score": 0.8984,
+        "latency_sec": 0.5233
+      },
+      {
+        "id": "EN_Q029",
+        "question": "What are the qualities, seed mantra, and element of Muladhara Chakra?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "01433f2f-b1c9-57fb-bc9b-a9881d75e5b6",
+        "top_score": 0.9227,
+        "latency_sec": 0.4967
+      },
+      {
+        "id": "EN_Q030",
+        "question": "What are the features and element of Swadhisthana Chakra?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "60c531e5-bfec-5601-807e-3bededbf380b",
+        "top_score": 0.8737,
+        "latency_sec": 0.5283
+      },
+      {
+        "id": "EN_Q031",
+        "question": "What are the features, element, and benefits of meditating on Manipura Chakra?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "0d760cdf-897e-535f-95f4-a5f829a226de",
+        "top_score": 0.9315,
+        "latency_sec": 0.545
+      },
+      {
+        "id": "EN_Q032",
+        "question": "What are the characteristics and element of Anahata Chakra?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "c64e0131-ab60-5adc-820b-5bcc288d5a67",
+        "top_score": 0.8632,
+        "latency_sec": 0.5181
+      },
+      {
+        "id": "EN_Q033",
+        "question": "What are the properties and element of Vishuddha Chakra?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "ead85f6b-95e5-5496-8a60-d02c1b1269fd",
+        "top_score": 0.8629,
+        "latency_sec": 0.5231
+      },
+      {
+        "id": "EN_Q034",
+        "question": "What is the location, seed mantra, and significance of Ajna Chakra?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "8d6ffcbd-3738-579d-86fd-612f62b6319b",
+        "top_score": 0.857,
+        "latency_sec": 0.5283
+      },
+      {
+        "id": "EN_Q035",
+        "question": "What is Sahasrara (the Crown Center) and how does it relate to Kundalini awakening?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "b9f85df2-88ac-5235-948a-ecf01fb57d44",
+        "top_score": 0.9162,
+        "latency_sec": 0.5235
+      },
+      {
+        "id": "EN_Q036",
+        "question": "How does Gayatri Sadhana transform the sub-conscious mind (Manobhoomi)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "31d331c7-b096-5f7d-8026-54f395c92c48",
+        "top_score": 0.9121,
+        "latency_sec": 0.5274
+      },
+      {
+        "id": "EN_Q037",
+        "question": "How does Gayatri Sadhana assist someone struggling with addictions and vices?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "f2872b66-6750-57b7-b499-b59c3fba580b",
+        "top_score": 0.9146,
+        "latency_sec": 0.5189
+      },
+      {
+        "id": "EN_Q038",
+        "question": "What are the three root causes of human suffering and how does Gayatri eliminate them?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "9bf3d2bb-1396-5100-9d2a-8a933b6f551d",
+        "top_score": 0.8992,
+        "latency_sec": 0.5163
+      },
+      {
+        "id": "EN_Q039",
+        "question": "What is the difference between Nishkam (Selfless) and Sakam (Desire-oriented) Sadhana?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "e77cd072-f953-507f-8333-53084e2977a3",
+        "top_score": 0.9198,
+        "latency_sec": 0.5264
+      },
+      {
+        "id": "EN_Q040",
+        "question": "How does Gayatri Sadhana alter a person's experience of negative Prarabdha (Destiny)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "7c89bd2d-3ba8-531c-a6f8-8133ccd764c7",
+        "top_score": 0.9469,
+        "latency_sec": 0.5008
+      },
+      {
+        "id": "EN_Q041",
+        "question": "What visible personality changes occur in a regular practitioner of Gayatri Sadhana?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "90ea40ff-e27a-5eef-a19f-1a00df113188",
+        "top_score": 0.9315,
+        "latency_sec": 0.4724
+      },
+      {
+        "id": "EN_Q042",
+        "question": "How does Gayatri Upasana enhance intelligence, memory, and concentration?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "67a3f920-a39e-528b-8179-5553cbb3e5be",
+        "top_score": 0.9071,
+        "latency_sec": 0.5065
+      },
+      {
+        "id": "EN_Q043",
+        "question": "Why is Gayatri described as \"Kamadhenu\" (the wish-fulfilling cosmic cow)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "f11b6b6f-843f-5e77-a337-3e4a475883f5",
+        "top_score": 0.9204,
+        "latency_sec": 0.4991
+      },
+      {
+        "id": "EN_Q044",
+        "question": "Why is sincerity and faith (Shraddha) crucial for Mantra Sadhana?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "55a186a3-0dfe-5ab8-9757-d0647ac31d99",
+        "top_score": 0.9371,
+        "latency_sec": 0.4661
+      },
+      {
+        "id": "EN_Q045",
+        "question": "How does Gayatri Upasana cultivate Satoguna (Purity) over Rajoguna and Tamoguna?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "c95a31f5-62ec-5aa3-81f2-0711b3d10039",
+        "top_score": 0.9197,
+        "latency_sec": 0.4939
+      },
+      {
+        "id": "EN_Q046",
+        "question": "What are the three modes of Mantra Japa and which is the most powerful?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "2e656552-f8db-5cb6-a0f1-b5efd3168422",
+        "top_score": 0.8941,
+        "latency_sec": 0.4731
+      },
+      {
+        "id": "EN_Q047",
+        "question": "What directions should a practitioner face during morning and evening worship?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "76ece3c7-6b1d-5a32-be32-127116f96601",
+        "top_score": 0.8414,
+        "latency_sec": 0.4881
+      },
+      {
+        "id": "EN_Q048",
+        "question": "What is the best timing (Muhurta) for daily Gayatri Upasana?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "013ffc96-bfbe-5515-9f3d-6161ecd41843",
+        "top_score": 0.9106,
+        "latency_sec": 0.5033
+      },
+      {
+        "id": "EN_Q049",
+        "question": "What type of seat (Asana) should be used during meditation and why?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "ad31d5c8-7b74-55c0-b2f4-84925da52dff",
+        "top_score": 0.8417,
+        "latency_sec": 0.5035
+      },
+      {
+        "id": "EN_Q050",
+        "question": "What type of rosary (Mala) is recommended for Gayatri Japa?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "4598eeaf-d772-59c8-a3a6-d26a45c6a1f7",
+        "top_score": 0.9132,
+        "latency_sec": 0.4698
+      },
+      {
+        "id": "EN_Q051",
+        "question": "What dietary rules (Aahar) must be observed during Sadhana?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "bacddd1f-5219-5117-8b0c-baf37e59b891",
+        "top_score": 0.9073,
+        "latency_sec": 0.4815
+      },
+      {
+        "id": "EN_Q052",
+        "question": "How can someone perform Gayatri Upasana during illness, bedridden states, or travel?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "4d1d0eb0-a81c-54ab-90d2-8c89e7a1a0cc",
+        "top_score": 0.9101,
+        "latency_sec": 0.5099
+      },
+      {
+        "id": "EN_Q053",
+        "question": "What are the five preparatory steps (Panch-Karma) of Gayatri Sandhyavandan?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "a7346b2c-434a-5e17-a02a-c4e6d6174d8d",
+        "top_score": 0.8517,
+        "latency_sec": 0.5191
+      },
+      {
+        "id": "EN_Q054",
+        "question": "What is the spiritual and scientific significance of Shikha-Bandhan (tying the tuft)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "0b717731-8b0a-5bd0-b180-cf62fa986c0e",
+        "top_score": 0.9055,
+        "latency_sec": 0.4986
+      },
+      {
+        "id": "EN_Q055",
+        "question": "What is the meaning and practice of Nyasa in Sandhyavandan?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "75f0797a-11f1-52df-9046-ae3e02a590e1",
+        "top_score": 0.9034,
+        "latency_sec": 0.5045
+      },
+      {
+        "id": "EN_Q056",
+        "question": "What are the 10 Tapas (austerities) outlined in Gayatri Mahavigyan?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "a46a3cd7-fc6d-57c0-b7dc-f80b631c3458",
+        "top_score": 0.9104,
+        "latency_sec": 0.4968
+      },
+      {
+        "id": "EN_Q057",
+        "question": "What is Aswada Tapa (अस्वाद तप) and what is its objective?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "4e69640b-d103-5bad-a8ff-a52322306c9e",
+        "top_score": 0.8475,
+        "latency_sec": 0.5017
+      },
+      {
+        "id": "EN_Q058",
+        "question": "What is Titiksha Tapa (तितिक्षा तप) and how is it practiced?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "a45245c0-2362-514a-9f14-908954d66527",
+        "top_score": 0.8868,
+        "latency_sec": 0.4712
+      },
+      {
+        "id": "EN_Q059",
+        "question": "What is Karshan Tapa (कर्षण तप) and how does it build discipline?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "cefd8f88-bdfe-57d2-9411-8e6591f6067d",
+        "top_score": 0.9116,
+        "latency_sec": 0.4931
+      },
+      {
+        "id": "EN_Q060",
+        "question": "What is Chandrayana Tapa and how does it cleanse accumulated karmic impurities?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "4c9fc5ef-a95a-509a-a8c2-2d60f261be3d",
+        "top_score": 0.9322,
+        "latency_sec": 0.5406
+      },
+      {
+        "id": "EN_Q061",
+        "question": "What is the relationship between Gayatri and Yajna (Fire Ritual)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "485801e8-8d16-510b-b573-bf139e3fd157",
+        "top_score": 0.9261,
+        "latency_sec": 0.5058
+      },
+      {
+        "id": "EN_Q062",
+        "question": "What do the three strands and knots of the Yagyopaveet (Janeu) symbolize?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "f9334e25-3c65-51e7-a7c3-823fe81544d2",
+        "top_score": 0.8979,
+        "latency_sec": 0.4693
+      },
+      {
+        "id": "EN_Q063",
+        "question": "What is the book's position on women's right to chant Gayatri and study the Vedas?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "551220ae-e0dc-50e6-b639-c3e0a6328a27",
+        "top_score": 0.9359,
+        "latency_sec": 0.424
+      },
+      {
+        "id": "EN_Q064",
+        "question": "Who are some of the prominent ancient female Rishis (Rishikas) cited in the book?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "bf0125e8-ced8-5a62-8e1d-43400603ce58",
+        "top_score": 0.8942,
+        "latency_sec": 0.3662
+      },
+      {
+        "id": "EN_Q065",
+        "question": "What was the historic resolution passed by Mahamana Madan Mohan Malaviya regarding women's Vedic rights?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "babb03e5-9e59-5e5b-8e04-f8b43015a30c",
+        "top_score": 0.9086,
+        "latency_sec": 0.3484
+      },
+      {
+        "id": "EN_Q066",
+        "question": "Test Case: How can Gayatri Sadhana be applied for severe illness and health recovery?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "2701d31d-4794-5d88-bc3d-01d33f3bf99c",
+        "top_score": 0.8389,
+        "latency_sec": 0.3438
+      },
+      {
+        "id": "EN_Q067",
+        "question": "Test Case: What specific ritual variation removes poverty, debt, and financial hardship?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "low",
+        "top_chunk_id": "85abe374-a598-50ca-b2e8-b1948a851107",
+        "top_score": 0.7031,
+        "latency_sec": 0.3381
+      },
+      {
+        "id": "EN_Q068",
+        "question": "Test Case: What variation is recommended for protection against enemies, false lawsuits, and fear?",
+        "answerable": true,
+        "found_rank": null,
+        "confidence": "insufficient_evidence",
+        "top_chunk_id": null,
+        "top_score": 0.0,
+        "latency_sec": 0.288
+      },
+      {
+        "id": "EN_Q069",
+        "question": "Test Case: How can Gayatri Sadhana resolve severe domestic conflicts (Grah-Klesh)?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "medium",
+        "top_chunk_id": "bd25c30f-6990-520b-b459-9aeae6a30dc5",
+        "top_score": 0.7777,
+        "latency_sec": 0.2865
+      },
+      {
+        "id": "EN_Q070",
+        "question": "How is a Gayatri Raksha-Kavach (protective amulet) created and used?",
+        "answerable": true,
+        "found_rank": 1,
+        "confidence": "high",
+        "top_chunk_id": "a76f2580-49fd-54c1-a2f6-58d0af68ef0d",
+        "top_score": 0.9117,
+        "latency_sec": 0.2599
+      }
+    ]
+  }
+}

@@ -1,0 +1,836 @@
+# Shantikunj AI — Project Rules and Engineering Context
+
+## 1. Product identity
+
+You are working on **Shantikunj AI**.
+
+Shantikunj AI is a source-grounded, multilingual Retrieval-Augmented Generation
+(RAG) knowledge assistant for verified and authorized literature associated with:
+
+- Shantikunj
+- Gayatri Pariwar
+- Pandit Shriram Sharma Acharya (Gurudev)
+- Authorized publications, books, speeches, discourses, and articles
+
+This project is NOT a generic spirituality chatbot.
+
+The system's primary purpose is:
+
+> Retrieve relevant verified source material and generate a clear, respectful,
+> evidence-grounded answer with traceable citations.
+
+The system must prioritize:
+
+1. Authenticity of source material
+2. Retrieval quality
+3. Grounded answers
+4. Source traceability
+5. Citation correctness
+6. User experience
+7. Speed and advanced features
+
+Never optimize for fluent answers at the expense of correctness, evidence,
+or citation accuracy.
+
+---
+
+## 2. Non-negotiable behavior
+
+The application MUST NOT:
+
+- Invent quotes attributed to Gurudev
+- Invent books, chapter names, sections, or page numbers
+- Present general spiritual knowledge as verified Shantikunj/Gurudev teaching
+- Use random internet content as primary source material
+- Answer from model memory when retrieval evidence is weak
+- Pretend that a source was retrieved when it was not
+- Display citations not linked to actual retrieved chunks
+- Embed or expose API keys in frontend code
+- Treat OCR output as trustworthy without validation
+- Add advanced RAG features before baseline retrieval works
+- Delete, overwrite, or alter raw source documents during ingestion
+- Ingest unverified documents without an explicit review/approval workflow
+
+If relevant verified evidence is not found, the system must safely abstain.
+
+Preferred abstention wording:
+
+> “I could not find sufficient supporting material in the currently indexed
+> Shantikunj knowledge base to answer this reliably.”
+
+For Hindi:
+
+> “वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न
+> का विश्वसनीय उत्तर देने के लिए पर्याप्त आधार नहीं मिला।”
+
+---
+
+## 3. Architecture boundaries
+
+### Core RAG backend
+
+Use Python + FastAPI for:
+
+- PDF ingestion
+- Digital PDF text extraction
+- OCR fallback for scanned PDFs
+- Hindi/English text normalization
+- Metadata extraction
+- Quality checks
+- Structure-aware chunking
+- Embedding generation
+- Vector retrieval
+- Keyword retrieval
+- Hybrid retrieval
+- Reranking
+- Query normalization
+- Context construction
+- LLM answer generation
+- Citation validation
+- Retrieval and answer evaluation
+
+### Database
+
+Use this migration approach:
+
+- Local development/prototype: ChromaDB is acceptable
+- Production target: Supabase PostgreSQL + pgvector
+- Keep the database model compatible with PostgreSQL from the beginning
+
+Use PostgreSQL/Supabase for:
+
+- Documents
+- Document pages
+- Document chunks
+- Embeddings
+- Metadata
+- Ingestion runs
+- Users
+- Conversations
+- Messages
+- Feedback
+- Audit logs
+- Evaluation data
+
+### n8n
+
+Use n8n only for orchestration and automation:
+
+- Google Drive new-document triggers
+- Calling FastAPI ingestion endpoints
+- Admin notifications
+- Scheduled jobs
+- WhatsApp/channel integration
+- Workflow logging
+- Admin automation
+
+Do NOT implement core RAG logic, OCR, chunking, embeddings, retrieval,
+reranking, or citation validation inside n8n.
+
+### Frontend
+
+Use Next.js/React or the existing frontend stack for:
+
+- Chat UI
+- Source/citation display
+- Source viewer
+- Conversation history
+- Language controls
+- Feedback UI
+- Admin document status UI
+
+Never put provider API keys, database secrets, OCR credentials, or backend
+service credentials in frontend code.
+
+---
+
+## 4. Required source-of-truth design
+
+Every stored chunk MUST have stable traceable provenance.
+
+Never store anonymous text chunks.
+
+Every chunk must contain metadata equivalent to:
+
+```json
+{
+  "chunk_id": "stable UUID",
+  "document_id": "stable UUID",
+  "document_version": "string or hash",
+  "content": "cleaned source content",
+  "book": "book title if available",
+  "author": "Pandit Shriram Sharma Acharya or verified author",
+  "chapter": "chapter title if available",
+  "section": "section title if available",
+  "page_start": 1,
+  "page_end": 1,
+  "language": "hi | en | mixed",
+  "source_type": "book | speech | discourse | article",
+  "edition": "optional",
+  "publication": "optional",
+  "source_url": "optional verified URL",
+  "copyright_status": "approved | pending | restricted",
+  "quality_status": "pending | approved | rejected",
+  "extraction_method": "pdf_text | ocr",
+  "ocr_confidence": "optional numeric value",
+  "content_hash": "hash",
+  "parser_version": "version",
+  "chunker_version": "version",
+  "embedding_model": "model name"
+}
+```
+
+The system must preserve:
+
+- Raw original PDF
+- Extracted page text
+- OCR output where applicable
+- Cleaned text
+- Page numbers
+- Metadata
+- Chunk IDs
+- Document version
+- Ingestion logs
+- Quality status
+
+Never lose the connection between a chunk and its original source page(s).
+
+---
+
+## 5. Ingestion rules
+
+### Required ingestion flow
+
+```text
+Authorized PDF
+    ↓
+Create document record and ingestion run
+    ↓
+Extract text page by page
+    ↓
+Assess extraction quality
+    ├── Good digital text → use it
+    └── Missing/poor text → OCR fallback
+    ↓
+Store raw extracted/OCR text
+    ↓
+Normalize and clean text
+    ↓
+Detect language
+    ↓
+Detect title/chapter/section structure where possible
+    ↓
+Run quality checks
+    ↓
+Create page-aware, section-aware chunks
+    ↓
+Embed approved chunks
+    ↓
+Store chunks and embeddings
+    ↓
+Mark document ingestion status
+```
+
+### OCR requirements
+
+Hindi OCR is a high-risk area.
+
+Before indexing OCR output:
+
+- Preserve OCR output page by page
+- Flag low-confidence or suspicious pages
+- Detect broken Unicode, garbage characters, missing matras, repeated text,
+  malformed Devanagari, and excessive symbols
+- Compare representative extracted pages with the original PDF visually
+- Do not automatically mark low-quality OCR as approved
+- Support manual document/page review when needed
+
+Bad OCR must never silently enter the production index.
+
+### Quality checks
+
+Implement checks for:
+
+- Empty pages
+- Empty chunks
+- Chunks that are too short to be meaningful
+- Duplicate chunks
+- Duplicate pages
+- Excessive OCR garbage
+- Broken Unicode
+- Repeated headers and footers
+- Page number contamination
+- Missing document ID
+- Missing page range
+- Unsupported language
+- Unapproved copyright/access status
+- Missing or invalid metadata
+
+Only chunks with `quality_status = approved` can be retrieved by default.
+
+---
+
+## 6. Chunking rules
+
+Chunk content according to semantic structure whenever possible:
+
+```text
+Book
+  → Chapter
+    → Section
+      → Paragraph group
+        → Chunk
+```
+
+Use recursive text splitting only as a fallback inside a meaningful section.
+
+Initial chunking experiment range:
+
+- Chunk size: approximately 500–1,000 tokens
+- Overlap: approximately 50–150 tokens
+
+These are experimental defaults, not permanent values.
+
+Chunking rules:
+
+- Preserve chapter and section boundaries
+- Preserve page ranges
+- Avoid joining unrelated paragraphs
+- Avoid cutting a quotation from its explanatory context
+- Avoid including repetitive headers/footers
+- Do not create chunks without source metadata
+- Do not mix unrelated source documents in one chunk
+- When a chunk spans pages, retain both `page_start` and `page_end`
+- Preserve heading context where it helps retrieval and citations
+
+The application must display a page range when a chunk spans multiple pages.
+Never claim a single page when content came from multiple pages.
+
+---
+
+## 7. Multilingual and Hinglish requirements
+
+Initial target query languages:
+
+- Hindi
+- English
+- Hinglish / mixed Hindi-English in Latin script
+
+Examples:
+
+- “गुस्सा कैसे नियंत्रित करें?”
+- “What does Gurudev say about self-discipline?”
+- “gussa control kaise karein?”
+- “brahmacharya daily life me kaise follow karein?”
+
+The pipeline must:
+
+1. Preserve the user's original question.
+2. Detect or infer likely language.
+3. Normalize Hinglish only for retrieval.
+4. Search in Hindi and English when appropriate.
+5. Answer primarily in the user's language.
+6. Never treat generated query rewrites as evidence.
+7. Log query rewrites for evaluation and debugging.
+
+Initially, prefer a small transparent glossary for important terms over
+uncontrolled LLM rewriting.
+
+Example concepts:
+
+```python
+TERM_GLOSSARY = {
+    "gussa": ["गुस्सा", "क्रोध", "krodh", "anger"],
+    "self control": ["आत्मसंयम", "संयम", "manonigrah", "मनोनिग्रह"],
+    "meditation": ["ध्यान", "साधना", "उपासना"],
+    "discipline": ["अनुशासन", "संयम", "आत्मसंयम"],
+    "brahmacharya": ["ब्रह्मचर्य", "brahmacharya"],
+    "yagya": ["यज्ञ", "यज्ञीय", "yagya", "yajna"]
+}
+```
+
+Do not assume a glossary is correct without testing it against retrieval results.
+
+---
+
+## 8. Retrieval requirements
+
+### Baseline first
+
+Start with vector retrieval only.
+
+Before implementing advanced retrieval, prove baseline retrieval quality using
+a documented evaluation dataset.
+
+Initial behavior:
+
+- Retrieve 8–12 candidate chunks
+- Filter to approved and authorized chunks only
+- Deduplicate near-identical chunks
+- Select 3–5 best chunks for LLM context
+- Preserve retrieval score and chunk IDs
+- Log retrieval results for evaluation
+- Never retrieve from restricted or unapproved documents by default
+
+### Hybrid search later
+
+After baseline evaluation, implement hybrid retrieval:
+
+```text
+Vector retrieval
++
+Keyword / lexical retrieval
+↓
+Fusion
+↓
+Optional reranker
+↓
+Final answer context
+```
+
+Hybrid search is important for exact terms, book titles, Sanskrit terms,
+Devanagari terms, phrases, and names.
+
+Potential later methods:
+
+- PostgreSQL full-text search
+- BM25-style keyword search
+- Reciprocal Rank Fusion (RRF)
+- Weighted rank fusion
+- Metadata filtering
+- Cross-encoder reranking
+
+Do not add all techniques at once.
+
+Each advanced feature must be enabled only when evaluation demonstrates a
+measurable improvement in retrieval quality, citation correctness, answer
+faithfulness, acceptable latency, and cost.
+
+### Retrieval confidence
+
+Implement a retrieval-confidence decision layer.
+
+Possible evidence states:
+
+```text
+high_confidence
+medium_confidence
+low_confidence
+insufficient_evidence
+```
+
+A weak similarity match is not sufficient evidence.
+
+If retrieval confidence is low or evidence does not support a response,
+return an abstention rather than generating an answer from model knowledge.
+
+---
+
+## 9. Answer generation rules
+
+The answer generator must be evidence-first.
+
+Use a strict system prompt equivalent to:
+
+```text
+You are Shantikunj AI, a source-grounded knowledge assistant.
+
+Answer only from the verified source passages provided in context.
+
+Do not use outside knowledge, general spiritual advice, model memory,
+or personal interpretation as if it were a verified teaching.
+
+Do not fabricate quotations, teachings, book titles, chapters, sections,
+page numbers, or citations.
+
+If the context does not contain enough supporting evidence, clearly state
+that sufficient verified material was not found in the current knowledge base.
+
+Use the user's language where possible.
+
+Only cite source IDs supplied in the context.
+
+Use quotation marks only for exact words present in the source text.
+```
+
+The LLM response must be structured, for example:
+
+```json
+{
+  "answer": "string",
+  "evidence_status": "supported | partial_support | insufficient_evidence",
+  "used_source_ids": ["chunk_id_1"],
+  "direct_quotes": [],
+  "limitations": "string or null"
+}
+```
+
+### Mandatory citation validation
+
+Never display raw source citations generated by the LLM without backend validation.
+
+The backend must:
+
+1. Build `allowed_source_ids` from the retrieved context.
+2. Check that every source ID returned by the model exists in
+   `allowed_source_ids`.
+3. Resolve book/chapter/page data directly from the database.
+4. Reject unsupported or fabricated source IDs.
+5. Return a safe abstention if output validation fails.
+6. Log citation-validation failures for debugging.
+
+The model must not be allowed to independently create page numbers,
+book names, or chapter names.
+
+---
+
+## 10. Conversation memory rules
+
+Conversation history may help interpret follow-up questions, but it is NOT
+evidence.
+
+Use history only to rewrite an ambiguous follow-up into a standalone retrieval
+query.
+
+Example:
+
+```text
+User: “गुरुदेव ने ब्रह्मचर्य के बारे में क्या कहा?”
+User: “इसे daily life में कैसे follow करें?”
+
+Rewritten retrieval query:
+“गुरुदेव के अनुसार ब्रह्मचर्य के सिद्धांतों को दैनिक जीवन में कैसे अपनाया जा सकता है?”
+```
+
+Then retrieve fresh source material.
+
+Never answer a follow-up solely from chat history if retrieval does not find
+supporting source material.
+
+For production:
+
+- Store conversation data persistently
+- Link messages to conversation IDs and users where appropriate
+- Define retention and deletion behavior
+- Do not represent chat history as permanent user identity or spiritual profile
+- Avoid storing sensitive personal information unless required and consented to
+
+---
+
+## 11. API requirements
+
+Implement or maintain these FastAPI endpoints:
+
+```text
+GET  /api/health
+POST /api/ingest
+POST /api/search
+POST /api/chat
+GET  /api/documents
+GET  /api/documents/{document_id}
+GET  /api/documents/{document_id}/pages/{page_number}
+```
+
+### POST /api/chat request
+
+```json
+{
+  "question": "गुस्सा नियंत्रित करने के बारे में गुरुदेव ने क्या कहा है?",
+  "conversation_id": "optional UUID",
+  "language": "hi"
+}
+```
+
+### POST /api/chat response
+
+```json
+{
+  "answer": "string",
+  "evidence_status": "supported | partial_support | insufficient_evidence",
+  "retrieval_confidence": "high | medium | low",
+  "sources": [
+    {
+      "chunk_id": "uuid",
+      "document_id": "uuid",
+      "book": "string",
+      "chapter": "string or null",
+      "section": "string or null",
+      "page_start": 42,
+      "page_end": 43,
+      "source_type": "book"
+    }
+  ],
+  "conversation_id": "uuid or null"
+}
+```
+
+The API must not return a citation if it cannot verify the cited chunk exists
+and belongs to the retrieved context.
+
+---
+
+## 12. Evaluation is mandatory
+
+Do not evaluate quality by manually asking a few questions.
+
+Create and maintain an evaluation dataset, for example:
+
+```text
+evals/
+  golden_questions.json
+  retrieval_results.json
+  answer_results.json
+```
+
+Each test question should include:
+
+```json
+{
+  "id": "q001",
+  "question": "क्रोध को नियंत्रित करने के बारे में क्या उपाय बताए गए हैं?",
+  "language": "hi",
+  "answerable": true,
+  "expected_document_id": "uuid",
+  "expected_pages":,[42][43]
+  "expected_topic": "क्रोध और आत्मसंयम"
+}
+```
+
+Include:
+
+- Hindi questions
+- English questions
+- Hinglish questions
+- Exact keyword questions
+- Conceptual questions
+- Ambiguous questions
+- Follow-up questions
+- Questions requiring abstention
+- Questions that have only partial support
+- Questions across different books and source types
+
+Measure at minimum:
+
+- Hit@1
+- Hit@3
+- Hit@5
+- MRR
+- Context relevance
+- Context recall
+- Citation correctness
+- Answer faithfulness
+- Abstention correctness
+- OCR quality acceptance rate
+- Latency
+- Cost per query
+
+Never claim an advanced feature improves the product without comparing it
+against a saved baseline evaluation result.
+
+Run relevant tests and evaluations after changes to parsing, cleaning,
+chunking, embeddings, retrieval, prompts, reranking, or answer generation.
+
+---
+
+## 13. Development phases
+
+### Phase 1: Clean, evidence-first baseline
+
+Goal:
+A user asks questions over one authorized clean PDF and receives only
+source-supported answers with correct page citations.
+
+Build:
+
+- One clean, authorized source PDF
+- Page-by-page extraction
+- OCR fallback if needed
+- Metadata storage
+- Page-aware chunks
+- Embeddings
+- ChromaDB/local vector retrieval
+- Strict grounded answer generation
+- Citation validation
+- Basic FastAPI endpoints
+- 20–50 gold evaluation questions
+
+Do NOT build n8n, WhatsApp, multi-query, RRF, reranking, or a complex frontend
+before this phase is demonstrably reliable.
+
+### Phase 2: Reliable Hindi ingestion
+
+Add:
+
+- Better Hindi OCR
+- OCR review workflow
+- Unicode and garbage detection
+- Heading/chapter detection
+- Metadata improvements
+- Better chunking experiments
+- More documents
+- Ingestion logs and versioning
+
+### Phase 3: Retrieval improvements
+
+Add only after baseline measurement:
+
+- Keyword search
+- Hybrid vector + keyword search
+- Query normalization
+- MMR if useful
+- RRF if useful
+- Reranking if useful
+- Selective multi-query retrieval if useful
+
+### Phase 4: Production foundation
+
+Add:
+
+- Supabase PostgreSQL + pgvector
+- Persistent documents/chunks/conversations
+- Role-based admin access
+- Access controls
+- Re-indexing workflow
+- Source-viewing endpoint/UI
+- Monitoring and audit logs
+
+### Phase 5: Product integrations
+
+Add:
+
+- Frontend chat UI
+- User accounts if needed
+- Feedback loop
+- n8n ingestion automation
+- Google Drive integration
+- WhatsApp integration
+- Notifications
+- Scheduled indexing jobs
+
+---
+
+## 14. Code quality and operational rules
+
+When making changes:
+
+1. Inspect the existing codebase before proposing a large refactor.
+2. Explain the plan briefly before making destructive or broad changes.
+3. Make small, reviewable changes.
+4. Preserve backward compatibility where feasible.
+5. Add tests for new behavior.
+6. Run formatters, static checks, unit tests, and relevant integration tests.
+7. Do not declare work complete until tests pass or clearly state why they could not run.
+8. Use environment variables for secrets.
+9. Add `.env.example` but never commit real secrets.
+10. Add structured logs for ingestion, retrieval, citation validation, and failures.
+11. Avoid unneeded libraries and unnecessary framework complexity.
+12. Pin important dependency versions.
+13. Add migrations for schema changes.
+14. Add clear error messages without exposing sensitive internal details.
+15. Never silently discard ingestion errors or citation-validation errors.
+
+For every implementation task, report:
+
+- Files created or changed
+- What behavior changed
+- Tests run and results
+- Known limitations
+- Suggested next smallest task
+
+---
+
+## 15. Required project structure
+
+Prefer a maintainable structure similar to:
+
+```text
+shantikunj_ai/
+├── AGENTS.md
+├── README.md
+├── .env.example
+├── pyproject.toml or requirements.txt
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   ├── api/
+│   │   ├── chat.py
+│   │   ├── ingest.py
+│   │   ├── search.py
+│   │   ├── documents.py
+│   │   └── health.py
+│   │
+│   ├── ingestion/
+│   │   ├── pdf_parser.py
+│   │   ├── ocr.py
+│   │   ├── cleaner.py
+│   │   ├── language.py
+│   │   ├── metadata.py
+│   │   ├── chunker.py
+│   │   └── quality_checks.py
+│   │
+│   ├── retrieval/
+│   │   ├── embeddings.py
+│   │   ├── vector_search.py
+│   │   ├── keyword_search.py
+│   │   ├── hybrid_search.py
+│   │   ├── reranker.py
+│   │   └── query_normalizer.py
+│   │
+│   ├── generation/
+│   │   ├── prompts.py
+│   │   ├── answer_generator.py
+│   │   ├── citation_validator.py
+│   │   └── abstention.py
+│   │
+│   ├── db/
+│   │   ├── models.py
+│   │   ├── repositories.py
+│   │   └── migrations/
+│   │
+│   └── evaluation/
+│       ├── golden_questions.json
+│       ├── retrieval_eval.py
+│       └── answer_eval.py
+│
+├── data/
+│   ├── raw/
+│   ├── extracted/
+│   ├── cleaned/
+│   └── review/
+│
+├── tests/
+└── scripts/
+```
+
+Adapt this structure to the current repository rather than rewriting working
+code without need.
+
+---
+
+## 16. Current immediate objective
+
+The immediate objective is NOT to create the full production platform.
+
+The immediate objective is:
+
+> Ingest one authorized Hindi or bilingual Shantikunj PDF correctly,
+> preserve page-level provenance, retrieve correct evidence for 20–50
+> realistic questions, generate only source-supported answers, and display
+> backend-verified citations.
+
+Completion criteria for the first milestone:
+
+- One authorized PDF ingested
+- Every chunk has stable source metadata and page range
+- Hindi text extraction is manually verified on representative pages
+- Poor OCR content is blocked or flagged
+- At least 20–50 evaluation questions exist
+- Retrieval quality is measured at Hit@1, Hit@3, and Hit@5
+- Unsupported questions result in safe abstention
+- Answers cite only retrieved and validated chunks
+- The API returns book/chapter/section/page source information
+- No secrets are exposed in frontend or source control
+
+Always select the smallest next task that moves the system toward this
+milestone. Do not expand scope prematurely.3

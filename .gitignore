@@ -1,0 +1,42 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Testing & Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment Variables & Secrets (NEVER COMMIT)
+.env
+*.env.*
+!*.env.example
+
+# IDE & OS Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Large Raw PDFs & Temporary OCR extraction
+docs/*.pdf
+data/raw/*.pdf
+data/extracted/
+data/cleaned/
+data/review/
+
+# Logs & Scratch artifacts
+*.log
+.tempmediaStorage/
+scratch/

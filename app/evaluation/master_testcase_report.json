@@ -1,0 +1,214 @@
+{
+  "total_test_cases": 105,
+  "average_retrieval_latency": 0.2388,
+  "confidence_distribution": {
+    "high": 34,
+    "medium": 65,
+    "insufficient_evidence": 6
+  },
+  "section_breakdown": {
+    "खण्ड १: गायत्री मन्त्र पदच्छेद, शब्दार्थ एवं २४ अक्षर महाविज्ञान (Section 1: Words & 24 Akshars)": {
+      "total": 25,
+      "high": 4,
+      "medium": 20,
+      "insufficient": 1
+    },
+    "खण्ड २: महाव्याहृतियाँ एवं पञ्चकोश साधना (Section 2: Vyahritis & Pancha-Kosh)": {
+      "total": 10,
+      "high": 4,
+      "medium": 6,
+      "insufficient": 0
+    },
+    "खण्ड ३: षट्चक्र, नाड़ी एवं कुण्डलिनी विज्ञान (Section 3: Shat-Chakra & Kundalini)": {
+      "total": 10,
+      "high": 0,
+      "medium": 10,
+      "insufficient": 0
+    },
+    "खण्ड ४: व्यक्तिगत विकास, मनोभूमि एवं दुर्गुण निवारण (Section 4: Personal & Vices)": {
+      "total": 10,
+      "high": 6,
+      "medium": 4,
+      "insufficient": 0
+    },
+    "खण्ड ५: जीवनशैली, जप-विधान एवं नियम (Section 5: Lifestyle & Upasana Rules)": {
+      "total": 10,
+      "high": 5,
+      "medium": 5,
+      "insufficient": 0
+    },
+    "खण्ड ६: १० प्रकार के तप एवं आत्मशोधन (Section 6: The 10 Tapas)": {
+      "total": 10,
+      "high": 2,
+      "medium": 7,
+      "insufficient": 1
+    },
+    "खण्ड ७: यज्ञ विधि एवं यज्ञोपवीत विज्ञान (Section 7: Yajna & Yagyopaveet)": {
+      "total": 8,
+      "high": 4,
+      "medium": 2,
+      "insufficient": 2
+    },
+    "खण्ड ८: नारी अधिकार एवं ऐतिहासिक प्रमाण (Section 8: Women's Vedic Rights)": {
+      "total": 8,
+      "high": 5,
+      "medium": 3,
+      "insufficient": 0
+    },
+    "खण्ड ९: पारिवारिक, सामाजिक एवं दाम्पत्य जीवन (Section 9: Family & Relationships)": {
+      "total": 6,
+      "high": 3,
+      "medium": 3,
+      "insufficient": 0
+    },
+    "खण्ड १०: आपत्ति-निवारण एवं विशिष्ट प्रयोग Test Cases (Section 10: Specific Applications)": {
+      "total": 8,
+      "high": 1,
+      "medium": 5,
+      "insufficient": 2
+    }
+  },
+  "chat_evaluation": {
+    "evaluated_count": 15,
+    "safe_abstentions": 15,
+    "valid_citations": 0,
+    "hallucinated_citations": 0,
+    "sample_details": [
+      {
+        "id": "Q001",
+        "question": "गायत्री महामन्त्र के प्रत्येक पद का शाब्दिक एवं आध्यात्मिक अ...",
+        "section": "खण्ड १: गायत्री मन्त्र पदच्छेद, शब्दार्थ...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q008",
+        "question": "'रे' अक्षर की ग्रन्थि एवं शक्ति का नाम क्या है?...",
+        "section": "खण्ड १: गायत्री मन्त्र पदच्छेद, शब्दार्थ...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "insufficient_evidence",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q015",
+        "question": "'स्य' अक्षर का ग्रन्थि नाम, शक्ति तथा परमार्थ सन्देश क्या है...",
+        "section": "खण्ड १: गायत्री मन्त्र पदच्छेद, शब्दार्थ...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q022",
+        "question": "'नः' अक्षर किस ग्रन्थि को उदीप्त करता है?...",
+        "section": "खण्ड १: गायत्री मन्त्र पदच्छेद, शब्दार्थ...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q029",
+        "question": "अन्नमय कोश का आधार क्या है और इसकी साधना कैसे की जाती है?...",
+        "section": "खण्ड २: महाव्याहृतियाँ एवं पञ्चकोश साधना...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q036",
+        "question": "मेरुदण्ड में स्थित तीन मुख्य नाड़ियाँ कौन-सी हैं?...",
+        "section": "खण्ड ३: षट्चक्र, नाड़ी एवं कुण्डलिनी विज...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q043",
+        "question": "विशुद्धाख्य चक्र का स्थान एवं तत्व क्या है?...",
+        "section": "खण्ड ३: षट्चक्र, नाड़ी एवं कुण्डलिनी विज...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q050",
+        "question": "निष्काम साधना और सकाम साधना में क्या अन्तर है?...",
+        "section": "खण्ड ४: व्यक्तिगत विकास, मनोभूमि एवं दुर...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "insufficient_evidence",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q057",
+        "question": "साधना के समय बैठने की दिशा का क्या नियम है?...",
+        "section": "खण्ड ५: जीवनशैली, जप-विधान एवं नियम (Sec...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "insufficient_evidence",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q064",
+        "question": "गायत्री सन्ध्यावन्दन के पञ्च-कर्म कौन-से हैं?...",
+        "section": "खण्ड ५: जीवनशैली, जप-विधान एवं नियम (Sec...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "insufficient_evidence",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q071",
+        "question": "'गव्य कल्प तप' क्या है?...",
+        "section": "खण्ड ६: १० प्रकार के तप एवं आत्मशोधन (Se...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "insufficient_evidence",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q078",
+        "question": "यज्ञ कुण्ड/वेदी निर्माण के शास्त्रीय माप क्या हैं?...",
+        "section": "खण्ड ७: यज्ञ विधि एवं यज्ञोपवीत विज्ञान ...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "low",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q085",
+        "question": "प्राचीन काल की कौन-सी विदुषी नारियाँ ब्रह्मवादिनी एवं वेद-मन...",
+        "section": "खण्ड ८: नारी अधिकार एवं ऐतिहासिक प्रमाण ...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "high",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q092",
+        "question": "Test Case: पारिवारिक कलह और मनमुटाव (गृह-कलह) को दूर करने मे...",
+        "section": "खण्ड ९: पारिवारिक, सामाजिक एवं दाम्पत्य ...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      },
+      {
+        "id": "Q099",
+        "question": "Test Case: भारी कर्ज, दरिद्रता व व्यापार में घाटे से मुक्ति ...",
+        "section": "खण्ड १०: आपत्ति-निवारण एवं विशिष्ट प्रयो...",
+        "evidence_status": "insufficient_evidence",
+        "confidence": "medium",
+        "citations_count": 0,
+        "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय ..."
+      }
+    ]
+  }
+}

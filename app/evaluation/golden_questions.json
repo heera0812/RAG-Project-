@@ -1,0 +1,227 @@
+[
+  {
+    "id": "q001",
+    "question": "वेद के कितने भेद हैं और उनका क्या स्वरूप है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [1, 2],
+    "expected_topic": "वेदमाता गायत्री की उत्पत्ति",
+    "keywords": ["वेद", "ऋक्", "यजुः", "साम", "अथर्व"]
+  },
+  {
+    "id": "q002",
+    "question": "गायत्री को चारों वेदों की माता क्यों कहा जाता है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [1, 2],
+    "expected_topic": "वेदमाता गायत्री",
+    "keywords": ["वेदमाता", "ब्रह्माजी", "स्फुरण"]
+  },
+  {
+    "id": "q003",
+    "question": "ब्रह्माजी के चार मुख किन चार ज्ञान धाराओं का प्रतीक हैं?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [1, 2],
+    "expected_topic": "ब्रह्माजी के चार मुख",
+    "keywords": ["ऋक्", "यजुः", "साम", "अथर्व", "चतुर्मुख"]
+  },
+  {
+    "id": "q004",
+    "question": "गायत्री मन्त्र के चौबीस अक्षरों का क्या महत्व है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [1, 2, 3],
+    "expected_topic": "चौबीस अक्षर बीज",
+    "keywords": ["चौबीस अक्षर", "बीज", "वट वृक्ष"]
+  },
+  {
+    "id": "q005",
+    "question": "व्याकरण शास्त्र का उद्गम कैसे हुआ था?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [1, 2],
+    "expected_topic": "व्याकरण शास्त्र और महेश्वर सूत्र",
+    "keywords": ["डमरू", "पाणिनि", "चौदह सूत्र"]
+  },
+  {
+    "id": "q006",
+    "question": "गायत्री को कामधेनु क्यों कहा गया है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [10],
+    "expected_topic": "गायत्री ही कामधेनु है",
+    "keywords": ["कामधेनु", "मनोकामना", "दुग्ध"]
+  },
+  {
+    "id": "q007",
+    "question": "गायत्री और ब्रह्म की एकता का क्या तात्पर्य है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [11, 12, 13],
+    "expected_topic": "गायत्री और ब्रह्म की एकता",
+    "keywords": ["ब्रह्म", "एकता", "परमात्मा"]
+  },
+  {
+    "id": "q008",
+    "question": "गायत्री साधना से सतोगुण की वृद्धि के क्या लाभ बताए गए हैं?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [14, 15],
+    "expected_topic": "सतोगुण वृद्धि",
+    "keywords": ["सतोगुण", "दिव्य लाभ", "सुख"]
+  },
+  {
+    "id": "q009",
+    "question": "महापुरुषों ने गायत्री की महिमा का क्या वर्णन किया है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [16, 17, 18, 19],
+    "expected_topic": "महापुरुषों द्वारा गायत्री महिमा",
+    "keywords": ["महिमा", "ऋषि", "महापुरुष"]
+  },
+  {
+    "id": "q010",
+    "question": "क्या स्त्रियों को गायत्री साधना और वेद का अधिकार है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [37, 38, 39, 43],
+    "expected_topic": "स्त्रियों को गायत्री का अधिकार",
+    "keywords": ["स्त्रियों", "अधिकार", "वेद", "माता"]
+  },
+  {
+    "id": "q011",
+    "question": "स्त्रियों के गायत्री जप के विषय में पं० मदनमोहन मालवीय जी का क्या निर्णय था?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [50],
+    "expected_topic": "मालवीय जी द्वारा निर्णय",
+    "keywords": ["मालवीय जी", "निर्णय", "स्त्रियाँ"]
+  },
+  {
+    "id": "q012",
+    "question": "gayatri ko vedmata kyu kaha jata hai?",
+    "language": "mixed",
+    "answerable": true,
+    "expected_pages": [1, 2],
+    "expected_topic": "वेदमाता",
+    "keywords": ["वेदमाता", "गायत्री"]
+  },
+  {
+    "id": "q013",
+    "question": "kya women gayatri sadhana kar sakti hain?",
+    "language": "mixed",
+    "answerable": true,
+    "expected_pages": [37, 38, 50],
+    "expected_topic": "स्त्रियों का अधिकार",
+    "keywords": ["स्त्रियों", "अधिकार"]
+  },
+  {
+    "id": "q014",
+    "question": "gayatri sadhana se satogun kaise badhta hai?",
+    "language": "mixed",
+    "answerable": true,
+    "expected_pages": [14, 15],
+    "expected_topic": "सतोगुण वृद्धि",
+    "keywords": ["सतोगुण", "साधना"]
+  },
+  {
+    "id": "q015",
+    "question": "Why is Gayatri worshipped as Vedmata according to Gurudev?",
+    "language": "en",
+    "answerable": true,
+    "expected_pages": [1, 2],
+    "expected_topic": "Vedmata Gayatri",
+    "keywords": ["Vedmata", "Vedas", "Brahma"]
+  },
+  {
+    "id": "q016",
+    "question": "What are the four branches of spiritual knowledge described in Gayatri Mahavigyan?",
+    "language": "en",
+    "answerable": true,
+    "expected_pages": [1, 2],
+    "expected_topic": "Four Vedas",
+    "keywords": ["Rig", "Yajur", "Sam", "Atharva"]
+  },
+  {
+    "id": "q017",
+    "question": "Do women have the full right to practice Gayatri worship according to the book?",
+    "language": "en",
+    "answerable": true,
+    "expected_pages": [37, 38, 50, 51],
+    "expected_topic": "Women spiritual rights",
+    "keywords": ["women", "rights", "Gayatri", "Malviya"]
+  },
+  {
+    "id": "q018",
+    "question": "गायत्री साधना से आपत्तियों का निवारण किस प्रकार होता है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [28, 29, 30],
+    "expected_topic": "आपत्तियों का निवारण",
+    "keywords": ["आपत्तियों", "निवारण", "संकट"]
+  },
+  {
+    "id": "q019",
+    "question": "देवियों द्वारा गायत्री साधना के क्या नियम हैं?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [32, 33, 34],
+    "expected_topic": "देवियों की गायत्री साधना",
+    "keywords": ["देवियों", "साधना", "नियम"]
+  },
+  {
+    "id": "q020",
+    "question": "गायत्री साधना से शक्ति-कोशों का उद्भव कैसे होता है?",
+    "language": "hi",
+    "answerable": true,
+    "expected_pages": [6, 7, 8],
+    "expected_topic": "शक्ति-कोशों का उद्भव",
+    "keywords": ["शक्ति-कोश", "उद्भव", "चेतना"]
+  },
+  {
+    "id": "q021",
+    "question": "How to deploy a Docker container on Kubernetes cluster?",
+    "language": "en",
+    "answerable": false,
+    "expected_pages": [],
+    "expected_topic": "abstention_out_of_domain",
+    "keywords": []
+  },
+  {
+    "id": "q022",
+    "question": "गूगल और माइक्रोसॉफ्ट के शेयर आज कितने रुपये के हैं?",
+    "language": "hi",
+    "answerable": false,
+    "expected_pages": [],
+    "expected_topic": "abstention_out_of_domain",
+    "keywords": []
+  },
+  {
+    "id": "q023",
+    "question": "who won the 2023 cricket world cup final?",
+    "language": "en",
+    "answerable": false,
+    "expected_pages": [],
+    "expected_topic": "abstention_out_of_domain",
+    "keywords": []
+  },
+  {
+    "id": "q024",
+    "question": "गुस्सा शांत करने के लिए कौन सी एलोपैथिक दवाई सबसे असरदार है?",
+    "language": "hi",
+    "answerable": false,
+    "expected_pages": [],
+    "expected_topic": "abstention_medical_advice",
+    "keywords": []
+  },
+  {
+    "id": "q025",
+    "question": "What is the capital city of Australia and its population?",
+    "language": "en",
+    "answerable": false,
+    "expected_pages": [],
+    "expected_topic": "abstention_geography",
+    "keywords": []
+  }
+]

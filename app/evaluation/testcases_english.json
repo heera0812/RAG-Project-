@@ -1,0 +1,967 @@
+[
+  {
+    "id": "EN_Q001",
+    "q_num": 1,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What is the literal and spiritual word-by-word meaning of the Gayatri Mantra?",
+    "expected_answer": "* **ॐ (Om):** The Supreme God / Eternal Cosmic Sound (Param-Brahma).\n  * **भूः (Bhooh):** Embodiment of vital life-force and dispeller of physical pain.\n  * **भुवः (Bhuvah):** Destroyer of sorrows and grief.\n  * **स्वः (Swah):** Embodiment of supreme bliss, peace, and inner stability.\n  * **तत् (Tat):** That Supreme Lord.\n  * **सवितुः (Savituh):** Luminous, radiant creator, like the sun.\n  * **वरेण्यम् (Varenyam):** Most worthy of acceptance and choice.\n  * **भर्गः (Bhargah):** Destroyer of sins and spiritual impurities.\n  * **देवस्य (Devasya):** Of the Divine Lord.\n  * **धीमहि (Dheemahi):** We imbibe, meditate upon, and establish in our inner self.\n  * **धियो (Dhiyo):** Intellect and thought power.\n  * **यो (Yo):** Who / Which.\n  * **नः (Nah):** Our.\n  * **प्रचोदयात् (Prachodayat):** May inspire and guide toward the righteous path.",
+    "expected_answer_raw": "* **Answer:**\n  * **ॐ (Om):** The Supreme God / Eternal Cosmic Sound (Param-Brahma)[1].\n  * **भूः (Bhooh):** Embodiment of vital life-force and dispeller of physical pain[1].\n  * **भुवः (Bhuvah):** Destroyer of sorrows and grief[1].\n  * **स्वः (Swah):** Embodiment of supreme bliss, peace, and inner stability[1].\n  * **तत् (Tat):** That Supreme Lord[1].\n  * **सवितुः (Savituh):** Luminous, radiant creator, like the sun[1].\n  * **वरेण्यम् (Varenyam):** Most worthy of acceptance and choice[1].\n  * **भर्गः (Bhargah):** Destroyer of sins and spiritual impurities[1].\n  * **देवस्य (Devasya):** Of the Divine Lord[1].\n  * **धीमहि (Dheemahi):** We imbibe, meditate upon, and establish in our inner self[1].\n  * **धियो (Dhiyo):** Intellect and thought power[1].\n  * **यो (Yo):** Who / Which[1].\n  * **नः (Nah):** Our[1].\n  * **प्रचोदयात् (Prachodayat):** May inspire and guide toward the righteous path[1].",
+    "bold_concepts": [
+      "ॐ (Om):",
+      "भूः (Bhooh):",
+      "भुवः (Bhuvah):",
+      "स्वः (Swah):",
+      "तत् (Tat):",
+      "सवितुः (Savituh):",
+      "वरेण्यम् (Varenyam):",
+      "भर्गः (Bhargah):",
+      "देवस्य (Devasya):",
+      "धीमहि (Dheemahi):",
+      "धियो (Dhiyo):",
+      "यो (Yo):",
+      "नः (Nah):",
+      "प्रचोदयात् (Prachodayat):"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q002",
+    "q_num": 2,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "How do the 24 syllables of the Gayatri Mantra connect to human anatomy and subtle energy?",
+    "expected_answer": "The 24 letters correspond to **24 subtle nerve glands (yogic granthis)** in the human body. When chanted, the acoustic vibrations strike specific parts of the mouth (palate, throat, tongue, lips), triggering resonance in these 24 glands and awakening dormant powers.",
+    "expected_answer_raw": "* **Answer:** The 24 letters correspond to **24 subtle nerve glands (yogic granthis)** in the human body[4][5]. When chanted, the acoustic vibrations strike specific parts of the mouth (palate, throat, tongue, lips), triggering resonance in these 24 glands and awakening dormant powers[4].",
+    "bold_concepts": [
+      "24 subtle nerve glands (yogic granthis)"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q003",
+    "q_num": 3,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What energy center, power, and message correspond to the first syllable 'Tat' (तत्)?",
+    "expected_answer": "**Gland:** *Tapini* (तापिनी). **Power:** *S सफलता* (Success). **Message:** Soul-realization and spiritual wisdom are the ultimate goals of human existence.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Tapini* (तापिनी)[5]. **Power:** *S सफलता* (Success)[5]. **Message:** Soul-realization and spiritual wisdom are the ultimate goals of human existence[5].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q004",
+    "q_num": 4,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What energy center is activated by the syllable 'Sa' (स)?",
+    "expected_answer": "**Gland:** *Saphala* (सफला). **Power:** *Parakram* (Valor). **Message:** Protect the weak and fight bravely against injustice and evil tendencies.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Saphala* (सफला)[5]. **Power:** *Parakram* (Valor)[5]. **Message:** Protect the weak and fight bravely against injustice and evil tendencies[5].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q005",
+    "q_num": 5,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What principle regarding wealth is conveyed by the syllable 'Vi' (वि)?",
+    "expected_answer": "**Gland:** *Vishwa* (विश्वा). **Power:** *Palan* (Nourishment). **Message:** Earn wealth through honest means and use it for essential needs and noble causes, avoiding vanity or wasteful expenditure.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Vishwa* (विश्वा)[5]. **Power:** *Palan* (Nourishment)[5]. **Message:** Earn wealth through honest means and use it for essential needs and noble causes, avoiding vanity or wasteful expenditure[5][6].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q006",
+    "q_num": 6,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What is the gland and message associated with the syllable 'Tu' (तु)?",
+    "expected_answer": "**Gland:** *Tushti* (तुष्टि). **Power:** *Kalyan* (Welfare/Courage). **Message:** Abandon laziness and fulfill duty with courage, hard work, and perseverance.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Tushti* (तुष्टि)[5]. **Power:** *Kalyan* (Welfare/Courage)[5]. **Message:** Abandon laziness and fulfill duty with courage, hard work, and perseverance[5][6].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q007",
+    "q_num": 7,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "How does the syllable 'Va' (व) relate to women and human development?",
+    "expected_answer": "**Gland:** *Varada* (वरदा). **Power:** *Yoga*. **Message:** Woman is the primary builder of humanity; educating and elevating women is essential for society's progress.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Varada* (वरदा)[5]. **Power:** *Yoga*[5]. **Message:** Woman is the primary builder of humanity; educating and elevating women is essential for society's progress[5][7].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q008",
+    "q_num": 8,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What energy center is activated by the syllable 'Re' (रे)?",
+    "expected_answer": "**Gland:** *Revati* (रेवती). **Power:** *Prem* (Love). **Message:** Treat women with respect and reverence as living representations of divine energy.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Revati* (रेवती)[5]. **Power:** *Prem* (Love)[5]. **Message:** Treat women with respect and reverence as living representations of divine energy[5][7].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q009",
+    "q_num": 9,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What gland and power correspond to the syllable 'Ni' (णि)?",
+    "expected_answer": "**Gland:** *Sookshma* (सूक्ष्मा). **Power:** *Dhan* (Prosperity/Abundance).",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Sookshma* (सूक्ष्मा)[5]. **Power:** *Dhan* (Prosperity/Abundance)[5].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q010",
+    "q_num": 10,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What is the gland, power, and significance of the syllable 'Yam' (यं)?",
+    "expected_answer": "**Gland:** *Gyana* (ज्ञाना). **Power:** *Tej* (Radiance). **Message:** Maintain mental equilibrium and avoid emotional reactivity.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Gyana* (ज्ञाना)[5]. **Power:** *Tej* (Radiance)[5]. **Message:** Maintain mental equilibrium and avoid emotional reactivity[5][8].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q011",
+    "q_num": 11,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What energy center is activated by the syllable 'Bhar' (भर्)?",
+    "expected_answer": "**Gland:** *Bharga* (भर्गा). **Power:** *Raksha* (Protection).",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Bharga* (भर्गा)[5]. **Power:** *Raksha* (Protection)[5].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q012",
+    "q_num": 12,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What gland and attitude are associated with the syllable 'Go' (गो)?",
+    "expected_answer": "**Gland:** *Gomati* (गोमती). **Power:** *Buddhi* (Intellect). **Message:** Practice honesty and open-mindedness, adjusting behavior according to truth rather than deceit.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Gomati* (गोमती)[5]. **Power:** *Buddhi* (Intellect)[5]. **Message:** Practice honesty and open-mindedness, adjusting behavior according to truth rather than deceit[5][8].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q013",
+    "q_num": 13,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What gland and self-restraint principle correspond to 'De' (दे)?",
+    "expected_answer": "**Gland:** *Devika* (देविका). **Power:** *Daman* (Self-control). **Message:** Exercise mastery over sensory organs and desires.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Devika* (देविका)[5]. **Power:** *Daman* (Self-control)[5]. **Message:** Exercise mastery over sensory organs and desires[5][9].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q014",
+    "q_num": 14,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What gland and virtue are activated by 'Va' (व - Devasya)?",
+    "expected_answer": "**Gland:** *Varahi* (वराही). **Power:** *Nishtha* (Devotion/Cleanliness). **Message:** Maintain both internal and external purity.",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Varahi* (वराही)[5]. **Power:** *Nishtha* (Devotion/Cleanliness)[5]. **Message:** Maintain both internal and external purity[5][9].",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q015",
+    "q_num": 15,
+    "section": "Theme 1: Word-by-Word Meaning & 24 Syllables (24 Akshar Mahavigyan)",
+    "question": "What gland and altruistic message correspond to 'Sya' (स्य)?",
+    "expected_answer": "**Gland:** *Simhani* (सिंहनी). **Power:** *Dharana* (Retention). **Message:** Overcome selfishness and dedicate energy to altruism and social service.\n\n---",
+    "expected_answer_raw": "* **Answer:** **Gland:** *Simhani* (सिंहनी)[5]. **Power:** *Dharana* (Retention)[5]. **Message:** Overcome selfishness and dedicate energy to altruism and social service[5].\n\n---",
+    "bold_concepts": [
+      "Gland:",
+      "Power:",
+      "Message:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q016",
+    "q_num": 16,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What glands and powers correspond to 'Dhee' (धी), 'Ma' (म), 'Hi' (हि), and 'Dhi' (धि)?",
+    "expected_answer": "* **धी (Dhee):** Gland *Dhyana*, Power *Pran* (Vital force).\n  * **म (Ma):** Gland *Maryada*, Power *Sanyam* (Restraint).\n  * **हि (Hi):** Gland *Sphuta*, Power *Tapa* (Penance).\n  * **धि (Dhi):** Gland *Medha*, Power *Doordarshita* (Foresight).",
+    "expected_answer_raw": "* **Answer:**\n  * **धी (Dhee):** Gland *Dhyana*, Power *Pran* (Vital force)[5].\n  * **म (Ma):** Gland *Maryada*, Power *Sanyam* (Restraint)[10].\n  * **हि (Hi):** Gland *Sphuta*, Power *Tapa* (Penance)[10].\n  * **धि (Dhi):** Gland *Medha*, Power *Doordarshita* (Foresight)[10].",
+    "bold_concepts": [
+      "धी (Dhee):",
+      "म (Ma):",
+      "हि (Hi):",
+      "धि (Dhi):"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q017",
+    "q_num": 17,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What glands correspond to 'Yo', 'Yo', 'Nah', 'Pra', 'Cho', 'Da', and 'Yaat'?",
+    "expected_answer": "* **यो (Yo - 1st):** Gland *Yogamaya*, Power *Jagriti* (Awakening).\n  * **यो (Yo - 2nd):** Gland *Yogini*, Power *Utpadan* (Production).\n  * **नः (Nah):** Gland *Dharini*, Power *Sarasata* (Sweetness).\n  * **प्र (Pra):** Gland *Prabhava*, Power *Aadarsh* (Idealism).\n  * **चो (Cho):** Gland *Ooshma*, Power *Sahas* (Courage).\n  * **द (Da):** Gland *Drishya*, Power *Vivek* (Wisdom).\n  * **यात् (Yaat):** Gland *Niranjana*, Power *Sewa* (Service).",
+    "expected_answer_raw": "* **Answer:**\n  * **यो (Yo - 1st):** Gland *Yogamaya*, Power *Jagriti* (Awakening)[10].\n  * **यो (Yo - 2nd):** Gland *Yogini*, Power *Utpadan* (Production)[10].\n  * **नः (Nah):** Gland *Dharini*, Power *Sarasata* (Sweetness)[10].\n  * **प्र (Pra):** Gland *Prabhava*, Power *Aadarsh* (Idealism)[10].\n  * **चो (Cho):** Gland *Ooshma*, Power *Sahas* (Courage)[10].\n  * **द (Da):** Gland *Drishya*, Power *Vivek* (Wisdom)[10].\n  * **यात् (Yaat):** Gland *Niranjana*, Power *Sewa* (Service)[10].",
+    "bold_concepts": [
+      "यो (Yo - 1st):",
+      "यो (Yo - 2nd):",
+      "नः (Nah):",
+      "प्र (Pra):",
+      "चो (Cho):",
+      "द (Da):",
+      "यात् (Yaat):"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q018",
+    "q_num": 18,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What are the seven Vyahritis (व्याहृतियाँ) and what cosmic realms do they represent?",
+    "expected_answer": "The seven Vyahritis are **Bhooh, Bhuvah, Swah, Mahah, Janah, Tapah, Satyam**. They represent the seven cosmic planes of existence (Physical Earth, Atmosphere, Heavenly Realm, Higher Spiritual Spheres) and subtle layers of human consciousness.",
+    "expected_answer_raw": "* **Answer:** The seven Vyahritis are **Bhooh, Bhuvah, Swah, Mahah, Janah, Tapah, Satyam**[3][11]. They represent the seven cosmic planes of existence (Physical Earth, Atmosphere, Heavenly Realm, Higher Spiritual Spheres) and subtle layers of human consciousness[3][11].",
+    "bold_concepts": [
+      "Bhooh, Bhuvah, Swah, Mahah, Janah, Tapah, Satyam"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q019",
+    "q_num": 19,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What are the Five Sheaths (Pancha-Koshas) of human existence?",
+    "expected_answer": "1. **Annamaya Kosha** (Physical Sheath).\n  2. **Pranamaya Kosha** (Vital Energy Sheath).\n  3. **Manomaya Kosha** (Mental Sheath).\n  4. **Vigyanamaya Kosha** (Wisdom/Intellectual Sheath).\n  5. **Anandamaya Kosha** (Bliss Sheath).",
+    "expected_answer_raw": "* **Answer:**\n  1. **Annamaya Kosha** (Physical Sheath)[11][12].\n  2. **Pranamaya Kosha** (Vital Energy Sheath)[11][12].\n  3. **Manomaya Kosha** (Mental Sheath)[11][12].\n  4. **Vigyanamaya Kosha** (Wisdom/Intellectual Sheath)[11][12].\n  5. **Anandamaya Kosha** (Bliss Sheath)[11][12].",
+    "bold_concepts": [
+      "Annamaya Kosha",
+      "Pranamaya Kosha",
+      "Manomaya Kosha",
+      "Vigyanamaya Kosha",
+      "Anandamaya Kosha"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q020",
+    "q_num": 20,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What is the Annamaya Kosha and how is it purified?",
+    "expected_answer": "It represents the gross physical body. It is purified through **dietary discipline (Aahar-Sanyam), fasting (Upavas), Asanas, and Surya Namaskar**.",
+    "expected_answer_raw": "* **Answer:** It represents the gross physical body. It is purified through **dietary discipline (Aahar-Sanyam), fasting (Upavas), Asanas, and Surya Namaskar**[11].",
+    "bold_concepts": [
+      "dietary discipline (Aahar-Sanyam), fasting (Upavas), Asanas, and Surya Namaskar"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q021",
+    "q_num": 21,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What practices activate and strengthen the Pranamaya Kosha?",
+    "expected_answer": "It is awakened through **Pranayama, Pranakarshan (absorbing vitality), three Bandhas (Mula, Uddiyana, Jalandhara), and nine specific Mudras**.",
+    "expected_answer_raw": "* **Answer:** It is awakened through **Pranayama, Pranakarshan (absorbing vitality), three Bandhas (Mula, Uddiyana, Jalandhara), and nine specific Mudras**[11].",
+    "bold_concepts": [
+      "Pranayama, Pranakarshan (absorbing vitality), three Bandhas (Mula, Uddiyana, Jalandhara), and nine specific Mudras"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q022",
+    "q_num": 22,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "How is the Manomaya Kosha cleansed and cultivated?",
+    "expected_answer": "Through **Dhyana (meditation), Trataka (concentrated gazing), Japa, and Tanmatra Sadhana**.",
+    "expected_answer_raw": "* **Answer:** Through **Dhyana (meditation), Trataka (concentrated gazing), Japa, and Tanmatra Sadhana**[11].",
+    "bold_concepts": [
+      "Dhyana (meditation), Trataka (concentrated gazing), Japa, and Tanmatra Sadhana"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q023",
+    "q_num": 23,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What spiritual practices lead to the awakening of the Vigyanamaya Kosha?",
+    "expected_answer": "Through **'So-ham' Sadhana, self-contemplation (Aatma-Chintan), Aatmanubhuti-Yoga, and Swara Yoga**.",
+    "expected_answer_raw": "* **Answer:** Through **'So-ham' Sadhana, self-contemplation (Aatma-Chintan), Aatmanubhuti-Yoga, and Swara Yoga**[11].",
+    "bold_concepts": [
+      "'So-ham' Sadhana, self-contemplation (Aatma-Chintan), Aatmanubhuti-Yoga, and Swara Yoga"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q024",
+    "q_num": 24,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "How is the Anandamaya Kosha realized?",
+    "expected_answer": "Through **Naad Sadhana (inner sound meditation), Bindu Sadhana, Kala Sadhana, and reaching Turiya (the state of supreme bliss)**.",
+    "expected_answer_raw": "* **Answer:** Through **Naad Sadhana (inner sound meditation), Bindu Sadhana, Kala Sadhana, and reaching Turiya (the state of supreme bliss)**[11].",
+    "bold_concepts": [
+      "Naad Sadhana (inner sound meditation), Bindu Sadhana, Kala Sadhana, and reaching Turiya (the state of supreme bliss)"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q025",
+    "q_num": 25,
+    "section": "Theme 2: Syllables, Vyahritis, and Pancha-Koshas",
+    "question": "What is the symbolic meaning of Panchamukhi Gayatri (Five-faced Gayatri)?",
+    "expected_answer": "The five faces symbolize the **Five Sheaths (Pancha-Koshas)** and the divine energies that protect against impurities coming from the ten directions (represented by Her ten hands).\n\n---",
+    "expected_answer_raw": "* **Answer:** The five faces symbolize the **Five Sheaths (Pancha-Koshas)** and the divine energies that protect against impurities coming from the ten directions (represented by Her ten hands)[11].\n\n---",
+    "bold_concepts": [
+      "Five Sheaths (Pancha-Koshas)"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q026",
+    "q_num": 26,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What are the three primary energy channels (Nadis) along the spine?",
+    "expected_answer": "1. **Ida:** Moon channel (Chandra Nadi / negative electrical charge).\n  2. **Pingala:** Sun channel (Surya Nadi / positive electrical charge).\n  3. **Sushumna:** Central channel along the spinal cord.",
+    "expected_answer_raw": "* **Answer:**\n  1. **Ida:** Moon channel (Chandra Nadi / negative electrical charge)[13].\n  2. **Pingala:** Sun channel (Surya Nadi / positive electrical charge)[13].\n  3. **Sushumna:** Central channel along the spinal cord[13].",
+    "bold_concepts": [
+      "Ida:",
+      "Pingala:",
+      "Sushumna:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q027",
+    "q_num": 27,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What is the significance of the 33 vertebrae of the spinal column?",
+    "expected_answer": "The 33 spinal bone segments represent the seed centers of the **33 Kotis (categories) of Divine Beings** (8 Vasus, 11 Rudras, 12 Adityas, 1 Indra, 1 Prajapati).",
+    "expected_answer_raw": "* **Answer:** The 33 spinal bone segments represent the seed centers of the **33 Kotis (categories) of Divine Beings** (8 Vasus, 11 Rudras, 12 Adityas, 1 Indra, 1 Prajapati)[13].",
+    "bold_concepts": [
+      "33 Kotis (categories) of Divine Beings"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q028",
+    "q_num": 28,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What are the six primary Chakras (Shat-Chakra) and their exact locations?",
+    "expected_answer": "1. **Muladhara Chakra:** Perineum / Base of spine.\n  2. **Swadhisthana Chakra:** Lower abdomen / Pelvis.\n  3. **Manipura Chakra:** Navel region.\n  4. **Anahata Chakra:** Heart region.\n  5. **Vishuddha Chakra:** Throat region.\n  6. **Ajna Chakra:** Eyebrow center (Third Eye).",
+    "expected_answer_raw": "* **Answer:**\n  1. **Muladhara Chakra:** Perineum / Base of spine[14].\n  2. **Swadhisthana Chakra:** Lower abdomen / Pelvis[14].\n  3. **Manipura Chakra:** Navel region[14].\n  4. **Anahata Chakra:** Heart region[14].\n  5. **Vishuddha Chakra:** Throat region[14].\n  6. **Ajna Chakra:** Eyebrow center (Third Eye)[15].",
+    "bold_concepts": [
+      "Muladhara Chakra:",
+      "Swadhisthana Chakra:",
+      "Manipura Chakra:",
+      "Anahata Chakra:",
+      "Vishuddha Chakra:",
+      "Ajna Chakra:"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q029",
+    "q_num": 29,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What are the qualities, seed mantra, and element of Muladhara Chakra?",
+    "expected_answer": "Element: **Earth (Prithvi)**; Seed Mantra: **'Lam' (लं)**; Color: **Red**; Deity Power: **Dakini**.",
+    "expected_answer_raw": "* **Answer:** Element: **Earth (Prithvi)**; Seed Mantra: **'Lam' (लं)**; Color: **Red**; Deity Power: **Dakini**[14].",
+    "bold_concepts": [
+      "Earth (Prithvi)",
+      "'Lam' (लं)",
+      "Red",
+      "Dakini"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q030",
+    "q_num": 30,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What are the features and element of Swadhisthana Chakra?",
+    "expected_answer": "Element: **Water (Jala)**; Seed Mantra: **'Bam' (बं)**; Color: **Vermillion**; Vehicle: **Crocodile**; Deity Power: **Rakini/Dakini**.",
+    "expected_answer_raw": "* **Answer:** Element: **Water (Jala)**; Seed Mantra: **'Bam' (बं)**; Color: **Vermillion**; Vehicle: **Crocodile**; Deity Power: **Rakini/Dakini**[14].",
+    "bold_concepts": [
+      "Water (Jala)",
+      "'Bam' (बं)",
+      "Vermillion",
+      "Crocodile",
+      "Rakini/Dakini"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q031",
+    "q_num": 31,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What are the features, element, and benefits of meditating on Manipura Chakra?",
+    "expected_answer": "Element: **Fire (Agni)**; Seed Mantra: **'Ram' (रं)**; Color: **Blue**; Benefits: **Power over speech, destruction of delusion, and vitality**.",
+    "expected_answer_raw": "* **Answer:** Element: **Fire (Agni)**; Seed Mantra: **'Ram' (रं)**; Color: **Blue**; Benefits: **Power over speech, destruction of delusion, and vitality**[14].",
+    "bold_concepts": [
+      "Fire (Agni)",
+      "'Ram' (रं)",
+      "Blue",
+      "Power over speech, destruction of delusion, and vitality"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q032",
+    "q_num": 32,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What are the characteristics and element of Anahata Chakra?",
+    "expected_answer": "Element: **Air (Vayu)**; Seed Mantra: **'Yam' (यं)**; Color: **Crimson/Rose**; Deity Power: **Kakini**; Benefit: **Mastery over senses and awakening of spiritual love**.",
+    "expected_answer_raw": "* **Answer:** Element: **Air (Vayu)**; Seed Mantra: **'Yam' (यं)**; Color: **Crimson/Rose**; Deity Power: **Kakini**; Benefit: **Mastery over senses and awakening of spiritual love**[14].",
+    "bold_concepts": [
+      "Air (Vayu)",
+      "'Yam' (यं)",
+      "Crimson/Rose",
+      "Kakini",
+      "Mastery over senses and awakening of spiritual love"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q033",
+    "q_num": 33,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What are the properties and element of Vishuddha Chakra?",
+    "expected_answer": "Element: **Space/Ether (Akasha)**; Seed Mantra: **'Ham' (हं)**; Color: **Smoky**; Deity Power: **Shakini / Panchamukhi Sadashiva**; Benefit: **Longevity, radiance, and tranquility**.",
+    "expected_answer_raw": "* **Answer:** Element: **Space/Ether (Akasha)**; Seed Mantra: **'Ham' (हं)**; Color: **Smoky**; Deity Power: **Shakini / Panchamukhi Sadashiva**; Benefit: **Longevity, radiance, and tranquility**[14][15].",
+    "bold_concepts": [
+      "Space/Ether (Akasha)",
+      "'Ham' (हं)",
+      "Smoky",
+      "Shakini / Panchamukhi Sadashiva",
+      "Longevity, radiance, and tranquility"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q034",
+    "q_num": 34,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What is the location, seed mantra, and significance of Ajna Chakra?",
+    "expected_answer": "Location: **Eyebrow center (Bhrumadhya)**; Seed Mantra: **Om (ॐ)**; Color: **White**; Significance: **Seat of intuition, divine vision, and command**.",
+    "expected_answer_raw": "* **Answer:** Location: **Eyebrow center (Bhrumadhya)**; Seed Mantra: **Om (ॐ)**; Color: **White**; Significance: **Seat of intuition, divine vision, and command**[15].",
+    "bold_concepts": [
+      "Eyebrow center (Bhrumadhya)",
+      "Om (ॐ)",
+      "White",
+      "Seat of intuition, divine vision, and command"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q035",
+    "q_num": 35,
+    "section": "Theme 3: Shat-Chakra, Nadis & Kundalini Science",
+    "question": "What is Sahasrara (the Crown Center) and how does it relate to Kundalini awakening?",
+    "expected_answer": "Located at the top of the skull (Brahmarandhra), Sahasrara is the thousand-petaled lotus representing the supreme residence of Param-Brahma and cosmic consciousness. Kundalini awakening involves piercing the six chakras (Shat-Chakra Vedhan) so the latent spiritual energy unites with Sahasrara.\n\n---",
+    "expected_answer_raw": "* **Answer:** Located at the top of the skull (Brahmarandhra), Sahasrara is the thousand-petaled lotus representing the supreme residence of Param-Brahma and cosmic consciousness[13]. Kundalini awakening involves piercing the six chakras (Shat-Chakra Vedhan) so the latent spiritual energy unites with Sahasrara[15][16].\n\n---",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q036",
+    "q_num": 36,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "How does Gayatri Sadhana transform the sub-conscious mind (Manobhoomi)?",
+    "expected_answer": "It infuses **Satoguna (purity)** into the subconscious, dissolving deep-rooted negative impressions (*Samskaras*) and replacing them with wisdom (*Vivek*), patience (*Dhairya*), and moral courage.",
+    "expected_answer_raw": "* **Answer:** It infuses **Satoguna (purity)** into the subconscious, dissolving deep-rooted negative impressions (*Samskaras*) and replacing them with wisdom (*Vivek*), patience (*Dhairya*), and moral courage[17].",
+    "bold_concepts": [
+      "Satoguna (purity)"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q037",
+    "q_num": 37,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "How does Gayatri Sadhana assist someone struggling with addictions and vices?",
+    "expected_answer": "Intellectual knowledge alone cannot overcome bad habits. Gayatri Sadhana generates **soul-force (Aatma-bal)** that weakens animalistic urges, purifies subconscious desires, and redirects sensual energy into self-control and constructive living.",
+    "expected_answer_raw": "* **Answer:** Intellectual knowledge alone cannot overcome bad habits. Gayatri Sadhana generates **soul-force (Aatma-bal)** that weakens animalistic urges, purifies subconscious desires, and redirects sensual energy into self-control and constructive living[17].",
+    "bold_concepts": [
+      "soul-force (Aatma-bal)"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q038",
+    "q_num": 38,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "What are the three root causes of human suffering and how does Gayatri eliminate them?",
+    "expected_answer": "1. **Ignorance (अज्ञान):** Removed by *Hreem* (Saraswati / Wisdom stream).\n  2. **Weakness (अशक्ति):** Removed by *Kleem* (Kali / Vitality stream).\n  3. **Scarcity/Poverty (अभाव):** Removed by *Shreem* (Lakshmi / Prosperity stream).",
+    "expected_answer_raw": "* **Answer:**\n  1. **Ignorance (अज्ञान):** Removed by *Hreem* (Saraswati / Wisdom stream)[10].\n  2. **Weakness (अशक्ति):** Removed by *Kleem* (Kali / Vitality stream)[10].\n  3. **Scarcity/Poverty (अभाव):** Removed by *Shreem* (Lakshmi / Prosperity stream)[10].",
+    "bold_concepts": [
+      "Ignorance (अज्ञान):",
+      "Weakness (अशक्ति):",
+      "Scarcity/Poverty (अभाव):"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q039",
+    "q_num": 39,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "What is the difference between Nishkam (Selfless) and Sakam (Desire-oriented) Sadhana?",
+    "expected_answer": "Nishkam Sadhana aims purely at self-realization and divine love, whereas Sakam Sadhana seeks worldly results. While Nishkam is superior, both yield beneficial and protective results.",
+    "expected_answer_raw": "* **Answer:** Nishkam Sadhana aims purely at self-realization and divine love, whereas Sakam Sadhana seeks worldly results[23][24]. While Nishkam is superior, both yield beneficial and protective results[23][24].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q040",
+    "q_num": 40,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "How does Gayatri Sadhana alter a person's experience of negative Prarabdha (Destiny)?",
+    "expected_answer": "It builds immense spiritual strength and inner peace (*Aatma-bal*), causing severe karmic afflictions that would otherwise crush a person to feel light and manageable.",
+    "expected_answer_raw": "* **Answer:** It builds immense spiritual strength and inner peace (*Aatma-bal*), causing severe karmic afflictions that would otherwise crush a person to feel light and manageable[18].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q041",
+    "q_num": 41,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "What visible personality changes occur in a regular practitioner of Gayatri Sadhana?",
+    "expected_answer": "The facial aura brightens, eyes become radiant, speech becomes persuasive and gentle, and the mind remains calm amid adversity.",
+    "expected_answer_raw": "* **Answer:** The facial aura brightens, eyes become radiant, speech becomes persuasive and gentle, and the mind remains calm amid adversity[17].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q042",
+    "q_num": 42,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "How does Gayatri Upasana enhance intelligence, memory, and concentration?",
+    "expected_answer": "Gayatri is the deity of **Sadbuddhi** (righteous intellect). Chanting during dawn stimulates brain cells, calms mental turbulence, and sharpens memory and clarity.",
+    "expected_answer_raw": "* **Answer:** Gayatri is the deity of **Sadbuddhi** (righteous intellect). Chanting during dawn stimulates brain cells, calms mental turbulence, and sharpens memory and clarity[17].",
+    "bold_concepts": [
+      "Sadbuddhi"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q043",
+    "q_num": 43,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "Why is Gayatri described as \"Kamadhenu\" (the wish-fulfilling cosmic cow)?",
+    "expected_answer": "Just as the celestial cow Kamadhenu grants all desires, Gayatri Sadhana satisfies spiritual hunger and resolves worldly distresses by granting wisdom, strength, and peace.",
+    "expected_answer_raw": "* **Answer:** Just as the celestial cow Kamadhenu grants all desires, Gayatri Sadhana satisfies spiritual hunger and resolves worldly distresses by granting wisdom, strength, and peace[10].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q044",
+    "q_num": 44,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "Why is sincerity and faith (Shraddha) crucial for Mantra Sadhana?",
+    "expected_answer": "A mantra acts as a science of sound, but faith (*Shraddha*) acts as the electrical current that activates its subtle energy; without faith, chanting remains merely mechanical.",
+    "expected_answer_raw": "* **Answer:** A mantra acts as a science of sound, but faith (*Shraddha*) acts as the electrical current that activates its subtle energy; without faith, chanting remains merely mechanical[5].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q045",
+    "q_num": 45,
+    "section": "Theme 4: Personal Transformation, Psychology & Vices",
+    "question": "How does Gayatri Upasana cultivate Satoguna (Purity) over Rajoguna and Tamoguna?",
+    "expected_answer": "Regular contemplation on the mantra's light cleanses mental impurities, naturally reducing greed, anger, and lethargy while enhancing virtuous traits.\n\n---",
+    "expected_answer_raw": "* **Answer:** Regular contemplation on the mantra's light cleanses mental impurities, naturally reducing greed, anger, and lethargy while enhancing virtuous traits[17].\n\n---",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q046",
+    "q_num": 46,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What are the three modes of Mantra Japa and which is the most powerful?",
+    "expected_answer": "1. **Vachik:** Audible chanting.\n  2. **Upanshu:** Whispering / lip movement without audible sound.\n  3. **Mansik:** Silent mental chanting.\n  4. **Mansik Japa** is considered the most potent.",
+    "expected_answer_raw": "* **Answer:**\n  1. **Vachik:** Audible chanting[33].\n  2. **Upanshu:** Whispering / lip movement without audible sound[33].\n  3. **Mansik:** Silent mental chanting[33].\n  4. **Mansik Japa** is considered the most potent[33].",
+    "bold_concepts": [
+      "Vachik:",
+      "Upanshu:",
+      "Mansik:",
+      "Mansik Japa"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q047",
+    "q_num": 47,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What directions should a practitioner face during morning and evening worship?",
+    "expected_answer": "Face **East** in the morning (towards the rising sun) and **West** in the evening.",
+    "expected_answer_raw": "* **Answer:** Face **East** in the morning (towards the rising sun) and **West** in the evening[34][35].",
+    "bold_concepts": [
+      "East",
+      "West"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q048",
+    "q_num": 48,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What is the best timing (Muhurta) for daily Gayatri Upasana?",
+    "expected_answer": "**Brahma Muhurta** (early dawn before sunrise) and sunset during *Sandhya* times.",
+    "expected_answer_raw": "* **Answer:** **Brahma Muhurta** (early dawn before sunrise) and sunset during *Sandhya* times[34].",
+    "bold_concepts": [
+      "Brahma Muhurta"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q049",
+    "q_num": 49,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What type of seat (Asana) should be used during meditation and why?",
+    "expected_answer": "Mats made of **Kusha grass, cotton, or wool**. Bare ground should be avoided so that generated spiritual electricity is not grounded into the earth.",
+    "expected_answer_raw": "* **Answer:** Mats made of **Kusha grass, cotton, or wool**[34]. Bare ground should be avoided so that generated spiritual electricity is not grounded into the earth[34].",
+    "bold_concepts": [
+      "Kusha grass, cotton, or wool"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q050",
+    "q_num": 50,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What type of rosary (Mala) is recommended for Gayatri Japa?",
+    "expected_answer": "**Tulsi or Sandalwood (Chandan) malas** are best for Satoguni Sadhana.",
+    "expected_answer_raw": "* **Answer:** **Tulsi or Sandalwood (Chandan) malas** are best for Satoguni Sadhana[34].",
+    "bold_concepts": [
+      "Tulsi or Sandalwood (Chandan) malas"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q051",
+    "q_num": 51,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What dietary rules (Aahar) must be observed during Sadhana?",
+    "expected_answer": "Food should be **Sattvic**, simple, easily digestible, fresh, and earned through honest labor (*Neeti-uparjit*).",
+    "expected_answer_raw": "* **Answer:** Food should be **Sattvic**, simple, easily digestible, fresh, and earned through honest labor (*Neeti-uparjit*)[17].",
+    "bold_concepts": [
+      "Sattvic"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q052",
+    "q_num": 52,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "How can someone perform Gayatri Upasana during illness, bedridden states, or travel?",
+    "expected_answer": "Strict physical rituals are relaxed; the person can perform **Mental Chanting (Mansik Japa)** lying down or while resting.",
+    "expected_answer_raw": "* **Answer:** Strict physical rituals are relaxed; the person can perform **Mental Chanting (Mansik Japa)** lying down or while resting[24][36].",
+    "bold_concepts": [
+      "Mental Chanting (Mansik Japa)"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q053",
+    "q_num": 53,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What are the five preparatory steps (Panch-Karma) of Gayatri Sandhyavandan?",
+    "expected_answer": "1. **Aachaman** (Water purification).\n  2. **Shikha-Bandhan** (Tying the tuft).\n  3. **Pranayama** (Breath regulation).\n  4. **Aghamarsan** (Shattering negative tendencies).\n  5. **Nyasa** (Establishing divine energy in body parts).",
+    "expected_answer_raw": "* **Answer:**\n  1. **Aachaman** (Water purification)[37][38].\n  2. **Shikha-Bandhan** (Tying the tuft)[37][38].\n  3. **Pranayama** (Breath regulation)[37][38].\n  4. **Aghamarsan** (Shattering negative tendencies)[37][38].\n  5. **Nyasa** (Establishing divine energy in body parts)[38].",
+    "bold_concepts": [
+      "Aachaman",
+      "Shikha-Bandhan",
+      "Pranayama",
+      "Aghamarsan",
+      "Nyasa"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q054",
+    "q_num": 54,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What is the spiritual and scientific significance of Shikha-Bandhan (tying the tuft)?",
+    "expected_answer": "The tuft (*Shikha*) is the crown center of mental electricity. Tying it prevents energy leakage and protects the brain during meditation.",
+    "expected_answer_raw": "* **Answer:** The tuft (*Shikha*) is the crown center of mental electricity. Tying it prevents energy leakage and protects the brain during meditation[37][38].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q055",
+    "q_num": 55,
+    "section": "Theme 5: Upasana Rules, Daily Routine & Lifestyle",
+    "question": "What is the meaning and practice of Nyasa in Sandhyavandan?",
+    "expected_answer": "Nyasa involves touching body parts (head, eyes, ears, mouth, throat, heart, navel, limbs) while chanting mantras, instilling divine energy into each organ.\n\n---",
+    "expected_answer_raw": "* **Answer:** Nyasa involves touching body parts (head, eyes, ears, mouth, throat, heart, navel, limbs) while chanting mantras, instilling divine energy into each organ[38].\n\n---",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q056",
+    "q_num": 56,
+    "section": "Theme 6: The Ten Tapas (Austerities) & Self-Purification",
+    "question": "What are the 10 Tapas (austerities) outlined in Gayatri Mahavigyan?",
+    "expected_answer": "**1\\. Aswada, 2\\. Titiksha, 3\\. Karshan, 4\\. Upavas, 5\\. Gavya Kalpa, 6\\. Pradatavya, 7\\. Nishkasan, 8\\. Sadhana, 9\\. Brahmacharya, 10\\. Chandrayana**.",
+    "expected_answer_raw": "* **Answer:** **1\\. Aswada, 2\\. Titiksha, 3\\. Karshan, 4\\. Upavas, 5\\. Gavya Kalpa, 6\\. Pradatavya, 7\\. Nishkasan, 8\\. Sadhana, 9\\. Brahmacharya, 10\\. Chandrayana**[39].",
+    "bold_concepts": [
+      "1\\. Aswada, 2\\. Titiksha, 3\\. Karshan, 4\\. Upavas, 5\\. Gavya Kalpa, 6\\. Pradatavya, 7\\. Nishkasan, 8\\. Sadhana, 9\\. Brahmacharya, 10\\. Chandrayana"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q057",
+    "q_num": 57,
+    "section": "Theme 6: The Ten Tapas (Austerities) & Self-Purification",
+    "question": "What is Aswada Tapa (अस्वाद तप) and what is its objective?",
+    "expected_answer": "Eating simple, saltless, and sugarless bland food to gain control over palate cravings and sensory urges.",
+    "expected_answer_raw": "* **Answer:** Eating simple, saltless, and sugarless bland food to gain control over palate cravings and sensory urges[39].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q058",
+    "q_num": 58,
+    "section": "Theme 6: The Ten Tapas (Austerities) & Self-Purification",
+    "question": "What is Titiksha Tapa (तितिक्षा तप) and how is it practiced?",
+    "expected_answer": "Enduring weather extremes (heat, cold) and basic physical discomforts cheerfully to build endurance.",
+    "expected_answer_raw": "* **Answer:** Enduring weather extremes (heat, cold) and basic physical discomforts cheerfully to build endurance[39].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q059",
+    "q_num": 59,
+    "section": "Theme 6: The Ten Tapas (Austerities) & Self-Purification",
+    "question": "What is Karshan Tapa (कर्षण तप) and how does it build discipline?",
+    "expected_answer": "Performing personal chores oneself, walking, living simply, and reducing personal luxuries.",
+    "expected_answer_raw": "* **Answer:** Performing personal chores oneself, walking, living simply, and reducing personal luxuries[40].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q060",
+    "q_num": 60,
+    "section": "Theme 6: The Ten Tapas (Austerities) & Self-Purification",
+    "question": "What is Chandrayana Tapa and how does it cleanse accumulated karmic impurities?",
+    "expected_answer": "Adjusting daily food intake according to the waxing and waning phases of the moon, accompanied by introspection and self-discipline.\n\n---",
+    "expected_answer_raw": "* **Answer:** Adjusting daily food intake according to the waxing and waning phases of the moon, accompanied by introspection and self-discipline[41].\n\n---",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q061",
+    "q_num": 61,
+    "section": "Theme 7: Yajna, Yagyopaveet & Women's Vedic Rights",
+    "question": "What is the relationship between Gayatri and Yajna (Fire Ritual)?",
+    "expected_answer": "Gayatri is considered the **Mother** and Yajna the **Father** of Indian spiritual culture; together they grant spiritual rebirth (*Dwijatva*).",
+    "expected_answer_raw": "* **Answer:** Gayatri is considered the **Mother** and Yajna the **Father** of Indian spiritual culture; together they grant spiritual rebirth (*Dwijatva*)[42][43].",
+    "bold_concepts": [
+      "Mother",
+      "Father"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q062",
+    "q_num": 62,
+    "section": "Theme 7: Yajna, Yagyopaveet & Women's Vedic Rights",
+    "question": "What do the three strands and knots of the Yagyopaveet (Janeu) symbolize?",
+    "expected_answer": "They represent the **three feet of the Gayatri Mantra**, the three Vyahritis (Bhooh, Bhuvah, Swah), and vows of self-restraint.",
+    "expected_answer_raw": "* **Answer:** They represent the **three feet of the Gayatri Mantra**, the three Vyahritis (Bhooh, Bhuvah, Swah), and vows of self-restraint[44].",
+    "bold_concepts": [
+      "three feet of the Gayatri Mantra"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q063",
+    "q_num": 63,
+    "section": "Theme 7: Yajna, Yagyopaveet & Women's Vedic Rights",
+    "question": "What is the book's position on women's right to chant Gayatri and study the Vedas?",
+    "expected_answer": "Women have an **equal, divine birthright** to chant Gayatri and study the Vedas, as supported by ancient Vedic texts and Rishis.",
+    "expected_answer_raw": "* **Answer:** Women have an **equal, divine birthright** to chant Gayatri and study the Vedas, as supported by ancient Vedic texts and Rishis[45].",
+    "bold_concepts": [
+      "equal, divine birthright"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q064",
+    "q_num": 64,
+    "section": "Theme 7: Yajna, Yagyopaveet & Women's Vedic Rights",
+    "question": "Who are some of the prominent ancient female Rishis (Rishikas) cited in the book?",
+    "expected_answer": "**Gargi, Maitreyi, Lopamudra, Anusuya, Arundhati, Sulabha, Madalasa, Ghosha, Apala, and Katyayani**.",
+    "expected_answer_raw": "* **Answer:** **Gargi, Maitreyi, Lopamudra, Anusuya, Arundhati, Sulabha, Madalasa, Ghosha, Apala, and Katyayani**[45].",
+    "bold_concepts": [
+      "Gargi, Maitreyi, Lopamudra, Anusuya, Arundhati, Sulabha, Madalasa, Ghosha, Apala, and Katyayani"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q065",
+    "q_num": 65,
+    "section": "Theme 7: Yajna, Yagyopaveet & Women's Vedic Rights",
+    "question": "What was the historic resolution passed by Mahamana Madan Mohan Malaviya regarding women's Vedic rights?",
+    "expected_answer": "In August 1946 at Banaras Hindu University, a scholar council led by Malaviya Ji officially declared that women have full scriptural rights to study the Vedas and practice Gayatri Upasana.\n\n---",
+    "expected_answer_raw": "* **Answer:** In August 1946 at Banaras Hindu University, a scholar council led by Malaviya Ji officially declared that women have full scriptural rights to study the Vedas and practice Gayatri Upasana[48][49].\n\n---",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q066",
+    "q_num": 66,
+    "section": "Theme 8: Specific Applications, Test Cases & Remedial Uses",
+    "question": "Test Case: How can Gayatri Sadhana be applied for severe illness and health recovery?",
+    "expected_answer": "Chanting facing East during sunrise, absorbing solar rays onto a wet forehead, rubbing warmed palms over the face and eyes, and consuming sanctified water (*Abhimantrit Jal*) accelerates healing.",
+    "expected_answer_raw": "* **Answer:** Chanting facing East during sunrise, absorbing solar rays onto a wet forehead, rubbing warmed palms over the face and eyes, and consuming sanctified water (*Abhimantrit Jal*) accelerates healing[29].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q067",
+    "q_num": 67,
+    "section": "Theme 8: Specific Applications, Test Cases & Remedial Uses",
+    "question": "Test Case: What specific ritual variation removes poverty, debt, and financial hardship?",
+    "expected_answer": "Practicing Sadhana with the **'Shreem' (श्रीं) seed syllable Samput**, wearing yellow attire, using a yellow mat, offering yellow flowers, and observing a Sunday fast.",
+    "expected_answer_raw": "* **Answer:** Practicing Sadhana with the **'Shreem' (श्रीं) seed syllable Samput**, wearing yellow attire, using a yellow mat, offering yellow flowers, and observing a Sunday fast[29].",
+    "bold_concepts": [
+      "'Shreem' (श्रीं) seed syllable Samput"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q068",
+    "q_num": 68,
+    "section": "Theme 8: Specific Applications, Test Cases & Remedial Uses",
+    "question": "Test Case: What variation is recommended for protection against enemies, false lawsuits, and fear?",
+    "expected_answer": "Facing West, using the **'Kleem' (क्लीं) seed syllable Samput**, and meditating on the divine protective aspect (Durga/Kali) to neutralize malice and grant justice.",
+    "expected_answer_raw": "* **Answer:** Facing West, using the **'Kleem' (क्लीं) seed syllable Samput**, and meditating on the divine protective aspect (Durga/Kali) to neutralize malice and grant justice[51].",
+    "bold_concepts": [
+      "'Kleem' (क्लीं) seed syllable Samput"
+    ],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q069",
+    "q_num": 69,
+    "section": "Theme 8: Specific Applications, Test Cases & Remedial Uses",
+    "question": "Test Case: How can Gayatri Sadhana resolve severe domestic conflicts (Grah-Klesh)?",
+    "expected_answer": "Regular chanting by a family member creates a peaceful aura that dissolves anger and egoism, restoring harmony, duty-consciousness, and mutual affection.",
+    "expected_answer_raw": "* **Answer:** Regular chanting by a family member creates a peaceful aura that dissolves anger and egoism, restoring harmony, duty-consciousness, and mutual affection[25].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  },
+  {
+    "id": "EN_Q070",
+    "q_num": 70,
+    "section": "Theme 8: Specific Applications, Test Cases & Remedial Uses",
+    "question": "How is a Gayatri Raksha-Kavach (protective amulet) created and used?",
+    "expected_answer": "Written on Bhojpatra using ink made of Saffron, Musk, Nutmeg, Mace, and Gorochan, then encased in a silver talisman to protect against accidents, illness, and negative influences.",
+    "expected_answer_raw": "* **Answer:** Written on Bhojpatra using ink made of Saffron, Musk, Nutmeg, Mace, and Gorochan, then encased in a silver talisman to protect against accidents, illness, and negative influences[2].",
+    "bold_concepts": [],
+    "language": "en",
+    "answerable": true
+  }
+]

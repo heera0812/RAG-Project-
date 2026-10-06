@@ -1,0 +1,50 @@
+{
+  "evaluated_questions": 5,
+  "results": [
+    {
+      "id": "q001",
+      "question": "वेद के कितने भेद हैं और उनका क्या स्वरूप है?",
+      "answerable": true,
+      "evidence_status": "insufficient_evidence",
+      "retrieval_confidence": "medium",
+      "citations_returned": 0,
+      "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय उत्तर देने के लिए पर्याप्त आधा..."
+    },
+    {
+      "id": "q002",
+      "question": "गायत्री को चारों वेदों की माता क्यों कहा जाता है?",
+      "answerable": true,
+      "evidence_status": "partial_support",
+      "retrieval_confidence": "high",
+      "citations_returned": 1,
+      "answer_preview": "प्रमाणित स्रोत के अनुसार, गायत्री मंत्र के चौबीस अक्षरों से वैदिक साहित्य के अंग-प्रत्यंगों का प्रादुर्भाव हुआ है। स्रोत..."
+    },
+    {
+      "id": "q003",
+      "question": "ब्रह्माजी के चार मुख किन चार ज्ञान धाराओं का प्रतीक हैं?",
+      "answerable": true,
+      "evidence_status": "insufficient_evidence",
+      "retrieval_confidence": "high",
+      "citations_returned": 0,
+      "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय उत्तर देने के लिए पर्याप्त आधा..."
+    },
+    {
+      "id": "q004",
+      "question": "गायत्री मन्त्र के चौबीस अक्षरों का क्या महत्व है?",
+      "answerable": true,
+      "evidence_status": "supported",
+      "retrieval_confidence": "high",
+      "citations_returned": 1,
+      "answer_preview": "प्रदान किए गए स्रोतों के अनुसार, गायत्री मंत्र के चौबीस अक्षरों का महत्व यह है कि इन चौबीस अक्षरों से वैदिक साहित्य के अ..."
+    },
+    {
+      "id": "q005",
+      "question": "व्याकरण शास्त्र का उद्गम कैसे हुआ था?",
+      "answerable": true,
+      "evidence_status": "insufficient_evidence",
+      "retrieval_confidence": "medium",
+      "citations_returned": 0,
+      "answer_preview": "वर्तमान में उपलब्ध और प्राप्त प्रमाणित शांतिकुंज ज्ञान-सामग्री में इस प्रश्न का विश्वसनीय उत्तर देने के लिए पर्याप्त आधा..."
+    }
+  ]
+}

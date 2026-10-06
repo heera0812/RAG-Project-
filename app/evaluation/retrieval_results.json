@@ -1,0 +1,213 @@
+{
+  "total_questions": 25,
+  "answerable_questions": 20,
+  "unanswerable_questions": 5,
+  "hit_at_1": 0.2,
+  "hit_at_3": 0.3,
+  "hit_at_5": 0.35,
+  "mrr": 0.2625,
+  "abstention_correctness": 0.6,
+  "avg_latency_seconds": 0.2759,
+  "detailed_results": [
+    {
+      "id": "q001",
+      "question": "वेद के कितने भेद हैं और उनका क्या स्वरूप है?",
+      "answerable": true,
+      "found_rank": 1,
+      "confidence": "medium",
+      "latency_sec": 0.5315
+    },
+    {
+      "id": "q002",
+      "question": "गायत्री को चारों वेदों की माता क्यों कहा जाता है?",
+      "answerable": true,
+      "found_rank": 2,
+      "confidence": "high",
+      "latency_sec": 0.2738
+    },
+    {
+      "id": "q003",
+      "question": "ब्रह्माजी के चार मुख किन चार ज्ञान धाराओं का प्रतीक हैं?",
+      "answerable": true,
+      "found_rank": 2,
+      "confidence": "high",
+      "latency_sec": 0.2629
+    },
+    {
+      "id": "q004",
+      "question": "गायत्री मन्त्र के चौबीस अक्षरों का क्या महत्व है?",
+      "answerable": true,
+      "found_rank": 1,
+      "confidence": "high",
+      "latency_sec": 0.2713
+    },
+    {
+      "id": "q005",
+      "question": "व्याकरण शास्त्र का उद्गम कैसे हुआ था?",
+      "answerable": true,
+      "found_rank": 1,
+      "confidence": "medium",
+      "latency_sec": 0.2628
+    },
+    {
+      "id": "q006",
+      "question": "गायत्री को कामधेनु क्यों कहा गया है?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.2586
+    },
+    {
+      "id": "q007",
+      "question": "गायत्री और ब्रह्म की एकता का क्या तात्पर्य है?",
+      "answerable": true,
+      "found_rank": 4,
+      "confidence": "high",
+      "latency_sec": 0.2711
+    },
+    {
+      "id": "q008",
+      "question": "गायत्री साधना से सतोगुण की वृद्धि के क्या लाभ बताए गए हैं?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.2763
+    },
+    {
+      "id": "q009",
+      "question": "महापुरुषों ने गायत्री की महिमा का क्या वर्णन किया है?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.256
+    },
+    {
+      "id": "q010",
+      "question": "क्या स्त्रियों को गायत्री साधना और वेद का अधिकार है?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.2595
+    },
+    {
+      "id": "q011",
+      "question": "स्त्रियों के गायत्री जप के विषय में पं० मदनमोहन मालवीय जी का क्या निर्णय था?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.2772
+    },
+    {
+      "id": "q012",
+      "question": "gayatri ko vedmata kyu kaha jata hai?",
+      "answerable": true,
+      "found_rank": 1,
+      "confidence": "low",
+      "latency_sec": 0.2624
+    },
+    {
+      "id": "q013",
+      "question": "kya women gayatri sadhana kar sakti hain?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "low",
+      "latency_sec": 0.2601
+    },
+    {
+      "id": "q014",
+      "question": "gayatri sadhana se satogun kaise badhta hai?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "low",
+      "latency_sec": 0.2581
+    },
+    {
+      "id": "q015",
+      "question": "Why is Gayatri worshipped as Vedmata according to Gurudev?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "insufficient_evidence",
+      "latency_sec": 0.2585
+    },
+    {
+      "id": "q016",
+      "question": "What are the four branches of spiritual knowledge described in Gayatri Mahavigyan?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "insufficient_evidence",
+      "latency_sec": 0.2527
+    },
+    {
+      "id": "q017",
+      "question": "Do women have the full right to practice Gayatri worship according to the book?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "insufficient_evidence",
+      "latency_sec": 0.2588
+    },
+    {
+      "id": "q018",
+      "question": "गायत्री साधना से आपत्तियों का निवारण किस प्रकार होता है?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.264
+    },
+    {
+      "id": "q019",
+      "question": "देवियों द्वारा गायत्री साधना के क्या नियम हैं?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.3151
+    },
+    {
+      "id": "q020",
+      "question": "गायत्री साधना से शक्ति-कोशों का उद्भव कैसे होता है?",
+      "answerable": true,
+      "found_rank": null,
+      "confidence": "high",
+      "latency_sec": 0.263
+    },
+    {
+      "id": "q021",
+      "question": "How to deploy a Docker container on Kubernetes cluster?",
+      "answerable": false,
+      "correctly_abstained": true,
+      "confidence": "insufficient_evidence",
+      "latency_sec": 0.2535
+    },
+    {
+      "id": "q022",
+      "question": "गूगल और माइक्रोसॉफ्ट के शेयर आज कितने रुपये के हैं?",
+      "answerable": false,
+      "correctly_abstained": false,
+      "confidence": "medium",
+      "latency_sec": 0.2845
+    },
+    {
+      "id": "q023",
+      "question": "who won the 2023 cricket world cup final?",
+      "answerable": false,
+      "correctly_abstained": true,
+      "confidence": "insufficient_evidence",
+      "latency_sec": 0.2483
+    },
+    {
+      "id": "q024",
+      "question": "गुस्सा शांत करने के लिए कौन सी एलोपैथिक दवाई सबसे असरदार है?",
+      "answerable": false,
+      "correctly_abstained": false,
+      "confidence": "high",
+      "latency_sec": 0.26
+    },
+    {
+      "id": "q025",
+      "question": "What is the capital city of Australia and its population?",
+      "answerable": false,
+      "correctly_abstained": true,
+      "confidence": "insufficient_evidence",
+      "latency_sec": 0.2583
+    }
+  ]
+}

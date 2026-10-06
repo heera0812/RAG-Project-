@@ -1,0 +1,788 @@
+[
+  {
+    "id": "H_Q001",
+    "q_num": 1,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "Gayatri Mantra ke har ek shabd ka WhatsApp-style simplified meaning kya hai?",
+    "expected_answer": "* **Om (ॐ):** God / Eternal Sound (Param-Brahma).\n  * **Bhooh (भूः):** Life-force / Dukh door karne wala.\n  * **Bhuvah (भुवः):** Sabhi klesh aur tensions ko khatam karne wala.\n  * **Swah (स्वः):** Sachha anand aur peace dene wala.\n  * **Tat (तत्):** Voh God.\n  * **Savituh (सवितुः):** Sun jaisa bright aur sabko create karne wala.\n  * **Varenyam (वरेण्यम्):** Sabse best / accept karne yogya.\n  * **Bhargah (भर्गः):** Sins aur negativity ko burn karne wala.\n  * **Devasya (देवस्य):** Divine God ka.\n  * **Dheemahi (धीमहि):** Hum apne andar dharan / meditate karte hain.\n  * **Dhiyo (धियो):** Intellect / Buddhi.\n  * **Yo (यो):** Jo.\n  * **Nah (नः):** Humari.\n  * **Prachodayat (प्रचोदयात्):** Right path pe inspire kare.",
+    "expected_answer_raw": "* **Ans:**\n  * **Om (ॐ):** God / Eternal Sound (Param-Brahma).\n  * **Bhooh (भूः):** Life-force / Dukh door karne wala.\n  * **Bhuvah (भुवः):** Sabhi klesh aur tensions ko khatam karne wala.\n  * **Swah (स्वः):** Sachha anand aur peace dene wala.\n  * **Tat (तत्):** Voh God.\n  * **Savituh (सवितुः):** Sun jaisa bright aur sabko create karne wala.\n  * **Varenyam (वरेण्यम्):** Sabse best / accept karne yogya.\n  * **Bhargah (भर्गः):** Sins aur negativity ko burn karne wala.\n  * **Devasya (देवस्य):** Divine God ka.\n  * **Dheemahi (धीमहि):** Hum apne andar dharan / meditate karte hain.\n  * **Dhiyo (धियो):** Intellect / Buddhi.\n  * **Yo (यो):** Jo.\n  * **Nah (नः):** Humari.\n  * **Prachodayat (प्रचोदयात्):** Right path pe inspire kare.",
+    "bold_concepts": [
+      "Om (ॐ):",
+      "Bhooh (भूः):",
+      "Bhuvah (भुवः):",
+      "Swah (स्वः):",
+      "Tat (तत्):",
+      "Savituh (सवितुः):",
+      "Varenyam (वरेण्यम्):",
+      "Bhargah (भर्गः):",
+      "Devasya (देवस्य):",
+      "Dheemahi (धीमहि):",
+      "Dhiyo (धियो):",
+      "Yo (यो):",
+      "Nah (नः):",
+      "Prachodayat (प्रचोदयात्):"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q002",
+    "q_num": 2,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "Gayatri Mantra ke 24 akshar human body se kaise connected hain?",
+    "expected_answer": "Body me 24 subtle nerve glands (**Yogic Granthiyan**) hoti hain. Mantra bolte waqt tongue aur mouth ki vibrations in glands ko strike karti hain, jisse gupt shaktiyan awaken ho jaati hain.",
+    "expected_answer_raw": "* **Ans:** Body me 24 subtle nerve glands (**Yogic Granthiyan**) hoti hain. Mantra bolte waqt tongue aur mouth ki vibrations in glands ko strike karti hain, jisse gupt shaktiyan awaken ho jaati hain.",
+    "bold_concepts": [
+      "Yogic Granthiyan"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q003",
+    "q_num": 3,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "Pehle akshar 'Tat' (तत्) ka gland, power aur message kya hai?",
+    "expected_answer": "Gland: **Tapini**. Power: **Success**. Message: Aatma-kalyan (self-realization) hi life ka real goal hai.",
+    "expected_answer_raw": "* **Ans:** Gland: **Tapini**. Power: **Success**. Message: Aatma-kalyan (self-realization) hi life ka real goal hai.",
+    "bold_concepts": [
+      "Tapini",
+      "Success"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q004",
+    "q_num": 4,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Sa' (स) akshar se konsi gland aur power active hoti hai?",
+    "expected_answer": "Gland: **Saphala**. Power: **Valor (Parakram)**. Message: Weak logo ki help karo aur burai se darr ke mat bhaago.",
+    "expected_answer_raw": "* **Ans:** Gland: **Saphala**. Power: **Valor (Parakram)**. Message: Weak logo ki help karo aur burai se darr ke mat bhaago.",
+    "bold_concepts": [
+      "Saphala",
+      "Valor (Parakram)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q005",
+    "q_num": 5,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Vi' (वि) akshar money aur wealth ke baare me kya seekh deta hai?",
+    "expected_answer": "Gland: **Vishwa**. Power: **Nourishment**. Message: Money hamesha honesty se kamao aur sahi jagah spend karo, show-off ke liye nahi.",
+    "expected_answer_raw": "* **Ans:** Gland: **Vishwa**. Power: **Nourishment**. Message: Money hamesha honesty se kamao aur sahi jagah spend karo, show-off ke liye nahi.",
+    "bold_concepts": [
+      "Vishwa",
+      "Nourishment"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q006",
+    "q_num": 6,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Tu' (तु) akshar ka kya message hai?",
+    "expected_answer": "Gland: **Tushti**. Power: **Welfare**. Message: Laziness chhoro aur mehnat se apna duty poora karo.",
+    "expected_answer_raw": "* **Ans:** Gland: **Tushti**. Power: **Welfare**. Message: Laziness chhoro aur mehnat se apna duty poora karo.",
+    "bold_concepts": [
+      "Tushti",
+      "Welfare"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q007",
+    "q_num": 7,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Va' (व) akshar ka women empowerment se kya connection hai?",
+    "expected_answer": "Gland: **Varada**. Power: **Yoga**. Message: Woman hi society ki builder hai, isliye unko educate aur respect dena sabse zaroori hai.",
+    "expected_answer_raw": "* **Ans:** Gland: **Varada**. Power: **Yoga**. Message: Woman hi society ki builder hai, isliye unko educate aur respect dena sabse zaroori hai.",
+    "bold_concepts": [
+      "Varada",
+      "Yoga"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q008",
+    "q_num": 8,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Re' (रे) akshar ka main lesson kya hai?",
+    "expected_answer": "Gland: **Revati**. Power: **Love**. Message: Women ko divine energy samajhkar respect do.",
+    "expected_answer_raw": "* **Ans:** Gland: **Revati**. Power: **Love**. Message: Women ko divine energy samajhkar respect do.",
+    "bold_concepts": [
+      "Revati",
+      "Love"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q009",
+    "q_num": 9,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Ni' (णि) akshar kis gland ko trigger karta hai?",
+    "expected_answer": "Gland: **Sookshma**. Power: **Prosperity (Dhan)**.",
+    "expected_answer_raw": "* **Ans:** Gland: **Sookshma**. Power: **Prosperity (Dhan)**.",
+    "bold_concepts": [
+      "Sookshma",
+      "Prosperity (Dhan)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q010",
+    "q_num": 10,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Yam' (यं) akshar kya sikhata hai?",
+    "expected_answer": "Gland: **Gyana**. Power: **Radiance (Tej)**. Message: Mind ko stable rakho aur bina wajah react mat karo.",
+    "expected_answer_raw": "* **Ans:** Gland: **Gyana**. Power: **Radiance (Tej)**. Message: Mind ko stable rakho aur bina wajah react mat karo.",
+    "bold_concepts": [
+      "Gyana",
+      "Radiance (Tej)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q011",
+    "q_num": 11,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Bhar' (भर्) akshar se kya milta hai?",
+    "expected_answer": "Gland: **Bharga**. Power: **Protection (Raksha)**.",
+    "expected_answer_raw": "* **Ans:** Gland: **Bharga**. Power: **Protection (Raksha)**.",
+    "bold_concepts": [
+      "Bharga",
+      "Protection (Raksha)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q012",
+    "q_num": 12,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Go' (गो) akshar kis nature ko develop karta hai?",
+    "expected_answer": "Gland: **Gomati**. Power: **Intellect**. Message: Clevernss aur dhokha chhor kar hamesha honest bano.",
+    "expected_answer_raw": "* **Ans:** Gland: **Gomati**. Power: **Intellect**. Message: Clevernss aur dhokha chhor kar hamesha honest bano.",
+    "bold_concepts": [
+      "Gomati",
+      "Intellect"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q013",
+    "q_num": 13,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'De' (दे) akshar ka kya matlab hai?",
+    "expected_answer": "Gland: **Devika**. Power: **Self-control**. Message: Apni indriyon (senses) par control rakho.",
+    "expected_answer_raw": "* **Ans:** Gland: **Devika**. Power: **Self-control**. Message: Apni indriyon (senses) par control rakho.",
+    "bold_concepts": [
+      "Devika",
+      "Self-control"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q014",
+    "q_num": 14,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Va' (Devasya ka Va) kya sikhaata hai?",
+    "expected_answer": "Gland: **Varahi**. Power: **Purity**. Message: Body aur mind dono ki cleanliness maintain rakho.",
+    "expected_answer_raw": "* **Ans:** Gland: **Varahi**. Power: **Purity**. Message: Body aur mind dono ki cleanliness maintain rakho.",
+    "bold_concepts": [
+      "Varahi",
+      "Purity"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q015",
+    "q_num": 15,
+    "section": "Section 1: Mantra Word-Meaning & 24 Akshar (मन्त्र अर्थ एवं २४ अक्षर)",
+    "question": "'Sya' (स्य) akshar ka social message kya hai?",
+    "expected_answer": "Gland: **Simhani**. Power: **Retention**. Message: Selfishness chhor kar dusron ki help aur service karo.\n\n---",
+    "expected_answer_raw": "* **Ans:** Gland: **Simhani**. Power: **Retention**. Message: Selfishness chhor kar dusron ki help aur service karo.\n\n---",
+    "bold_concepts": [
+      "Simhani",
+      "Retention"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q016",
+    "q_num": 16,
+    "section": "Section 2: Pancha-Kosha & Vyahriti (पंचकोश एवं व्याहृतियाँ)",
+    "question": "Human soul ke 5 layers (Pancha-Kosha) kaunse hain?",
+    "expected_answer": "1. **Annamaya Kosha** (Physical Body)\n  2. **Pranamaya Kosha** (Energy / Breath)\n  3. **Manomaya Kosha** (Mind &amp; Emotions)\n  4. **Vigyanamaya Kosha** (Wisdom &amp; Intellect)\n  5. **Anandamaya Kosha** (Bliss / Supreme Peace)",
+    "expected_answer_raw": "* **Ans:**\n  1. **Annamaya Kosha** (Physical Body)\n  2. **Pranamaya Kosha** (Energy / Breath)\n  3. **Manomaya Kosha** (Mind &amp; Emotions)\n  4. **Vigyanamaya Kosha** (Wisdom &amp; Intellect)\n  5. **Anandamaya Kosha** (Bliss / Supreme Peace)",
+    "bold_concepts": [
+      "Annamaya Kosha",
+      "Pranamaya Kosha",
+      "Manomaya Kosha",
+      "Vigyanamaya Kosha",
+      "Anandamaya Kosha"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q017",
+    "q_num": 17,
+    "section": "Section 2: Pancha-Kosha & Vyahriti (पंचकोश एवं व्याहृतियाँ)",
+    "question": "Annamaya Kosha ko clean aur strong kaise karein?",
+    "expected_answer": "Fasting (Upavas), balanced Sattvic diet, Asanas aur Surya Namaskar se.",
+    "expected_answer_raw": "* **Ans:** Fasting (Upavas), balanced Sattvic diet, Asanas aur Surya Namaskar se.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q018",
+    "q_num": 18,
+    "section": "Section 2: Pancha-Kosha & Vyahriti (पंचकोश एवं व्याहृतियाँ)",
+    "question": "Pranamaya Kosha ko activate karne ka tareeqa kya hai?",
+    "expected_answer": "Pranayama, Pranakarshan, 3 Bandhas (Mula, Uddiyana, Jalandhara) aur Mudras dwara.",
+    "expected_answer_raw": "* **Ans:** Pranayama, Pranakarshan, 3 Bandhas (Mula, Uddiyana, Jalandhara) aur Mudras dwara.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q019",
+    "q_num": 19,
+    "section": "Section 2: Pancha-Kosha & Vyahriti (पंचकोश एवं व्याहृतियाँ)",
+    "question": "Manomaya Kosha kaise purify hota hai?",
+    "expected_answer": "Dhyan (meditation), Trataka, Japa aur Swadhyay (good books padhne) se.",
+    "expected_answer_raw": "* **Ans:** Dhyan (meditation), Trataka, Japa aur Swadhyay (good books padhne) se.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q020",
+    "q_num": 20,
+    "section": "Section 2: Pancha-Kosha & Vyahriti (पंचकोश एवं व्याहृतियाँ)",
+    "question": "Vigyanamaya Kosha ke jaagrit hone se kya milta hai?",
+    "expected_answer": "True wisdom, intuition aur 'So-ham' sadhana dwara soul-awareness.",
+    "expected_answer_raw": "* **Ans:** True wisdom, intuition aur 'So-ham' sadhana dwara soul-awareness.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q021",
+    "q_num": 21,
+    "section": "Section 2: Pancha-Kosha & Vyahriti (पंचकोश एवं व्याहृतियाँ)",
+    "question": "Anandamaya Kosha kaise realize hota hai?",
+    "expected_answer": "Naad sadhana (inner divine sound), deep meditation aur Turiya state (supreme bliss) se.",
+    "expected_answer_raw": "* **Ans:** Naad sadhana (inner divine sound), deep meditation aur Turiya state (supreme bliss) se.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q022",
+    "q_num": 22,
+    "section": "Section 2: Pancha-Kosha & Vyahriti (पंचकोश एवं व्याहृतियाँ)",
+    "question": "7 Vyahritiyan kaunsi hain?",
+    "expected_answer": "**Bhooh, Bhuvah, Swah, Mahah, Janah, Tapah, Satyam**. Ye 7 cosmic planes aur conscious layers hain.\n\n---",
+    "expected_answer_raw": "* **Ans:** **Bhooh, Bhuvah, Swah, Mahah, Janah, Tapah, Satyam**. Ye 7 cosmic planes aur conscious layers hain.\n\n---",
+    "bold_concepts": [
+      "Bhooh, Bhuvah, Swah, Mahah, Janah, Tapah, Satyam"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q023",
+    "q_num": 23,
+    "section": "Section 3: Shat-Chakra & Kundalini (षट्चक्र एवं कुण्डलिनी)",
+    "question": "Spinal cord ke paas 3 main Nadis kaunsi hain?",
+    "expected_answer": "* **Ida:** Moon Nadi (Cooling / Negative charge)\n  * **Pingala:** Sun Nadi (Heating / Positive charge)\n  * **Sushumna:** Central Channel (Spiritual path)",
+    "expected_answer_raw": "* **Ans:**\n  * **Ida:** Moon Nadi (Cooling / Negative charge)\n  * **Pingala:** Sun Nadi (Heating / Positive charge)\n  * **Sushumna:** Central Channel (Spiritual path)",
+    "bold_concepts": [
+      "Ida:",
+      "Pingala:",
+      "Sushumna:"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q024",
+    "q_num": 24,
+    "section": "Section 3: Shat-Chakra & Kundalini (षट्चक्र एवं कुण्डलिनी)",
+    "question": "6 Chakras (Shat-Chakra) ke naam aur unke exact locations kya hain?",
+    "expected_answer": "1. **Muladhara:** Base of spine (Anus region).\n  2. **Swadhisthana:** Lower abdomen / Pelvic area.\n  3. **Manipura:** Navel (Naabhi).\n  4. **Anahata:** Heart area.\n  5. **Vishuddha:** Throat area.\n  6. **Ajna:** Third eye / Between eyebrows.",
+    "expected_answer_raw": "* **Ans:**\n  1. **Muladhara:** Base of spine (Anus region).\n  2. **Swadhisthana:** Lower abdomen / Pelvic area.\n  3. **Manipura:** Navel (Naabhi).\n  4. **Anahata:** Heart area.\n  5. **Vishuddha:** Throat area.\n  6. **Ajna:** Third eye / Between eyebrows.",
+    "bold_concepts": [
+      "Muladhara:",
+      "Swadhisthana:",
+      "Manipura:",
+      "Anahata:",
+      "Vishuddha:",
+      "Ajna:"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q025",
+    "q_num": 25,
+    "section": "Section 3: Shat-Chakra & Kundalini (षट्चक्र एवं कुण्डलिनी)",
+    "question": "Muladhara Chakra ka seed mantra aur element kya hai?",
+    "expected_answer": "Element: **Earth (Prithvi)**. Seed Mantra: **'Lam' (लं)**. Color: Red.",
+    "expected_answer_raw": "* **Ans:** Element: **Earth (Prithvi)**. Seed Mantra: **'Lam' (लं)**. Color: Red.",
+    "bold_concepts": [
+      "Earth (Prithvi)",
+      "'Lam' (लं)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q026",
+    "q_num": 26,
+    "section": "Section 3: Shat-Chakra & Kundalini (षट्चक्र एवं कुण्डलिनी)",
+    "question": "Manipura Chakra ka focus area kya hai?",
+    "expected_answer": "Element: **Fire (Agni)**. Seed Mantra: **'Ram' (रं)**. Yeh energy, digestion aur confidence deta hai.",
+    "expected_answer_raw": "* **Ans:** Element: **Fire (Agni)**. Seed Mantra: **'Ram' (रं)**. Yeh energy, digestion aur confidence deta hai.",
+    "bold_concepts": [
+      "Fire (Agni)",
+      "'Ram' (रं)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q027",
+    "q_num": 27,
+    "section": "Section 3: Shat-Chakra & Kundalini (षट्चक्र एवं कुण्डलिनी)",
+    "question": "Ajna Chakra ka kya importance hai?",
+    "expected_answer": "Eyebrow center par hota hai. Seed Mantra: **Om (ॐ)**. Yeh intuition aur third-eye wisdom deta hai.",
+    "expected_answer_raw": "* **Ans:** Eyebrow center par hota hai. Seed Mantra: **Om (ॐ)**. Yeh intuition aur third-eye wisdom deta hai.",
+    "bold_concepts": [
+      "Om (ॐ)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q028",
+    "q_num": 28,
+    "section": "Section 3: Shat-Chakra & Kundalini (षट्चक्र एवं कुण्डलिनी)",
+    "question": "Sahasrara Chakra kya hai?",
+    "expected_answer": "Crown of head par 1000-petaled lotus. Kundalini jab sabhi 6 chakras ko pierce karke yahan pahunchti hai tab Moksha / Liberation milta hai.\n\n---",
+    "expected_answer_raw": "* **Ans:** Crown of head par 1000-petaled lotus. Kundalini jab sabhi 6 chakras ko pierce karke yahan pahunchti hai tab Moksha / Liberation milta hai.\n\n---",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q029",
+    "q_num": 29,
+    "section": "Section 4: Personal Growth, Mindset & Vices (व्यक्तिगत सुधार एवं मनोभूमि)",
+    "question": "[Test Case] Buri aadatein, bad company ya addictions kaise chhootein?",
+    "expected_answer": "Khali lectures se bad habits nahi chhoot te. Gayatri Sadhana se **Aatma-bal (Soul Power)** milta hai jo sub-conscious mind ke purane negative patterns ko wipe out kar deta hai.",
+    "expected_answer_raw": "* **Ans:** Khali lectures se bad habits nahi chhoot te. Gayatri Sadhana se **Aatma-bal (Soul Power)** milta hai jo sub-conscious mind ke purane negative patterns ko wipe out kar deta hai.",
+    "bold_concepts": [
+      "Aatma-bal (Soul Power)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q030",
+    "q_num": 30,
+    "section": "Section 4: Personal Growth, Mindset & Vices (व्यक्तिगत सुधार एवं मनोभूमि)",
+    "question": "[Test Case] Overthinking, anxiety aur mind restlessness ko kaise handle karein?",
+    "expected_answer": "Gayatri Sadhana **Satoguna** badhati hai. Jisse anger, fear, greed aur depression naturally kam ho jaate hain aur mind calm ho jaata hai.",
+    "expected_answer_raw": "* **Ans:** Gayatri Sadhana **Satoguna** badhati hai. Jisse anger, fear, greed aur depression naturally kam ho jaate hain aur mind calm ho jaata hai.",
+    "bold_concepts": [
+      "Satoguna"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q031",
+    "q_num": 31,
+    "section": "Section 4: Personal Growth, Mindset & Vices (व्यक्तिगत सुधार एवं मनोभूमि)",
+    "question": "Suffering aur dukho ke 3 main reasons kya hain aur Gayatri unhe kaise mitati hai?",
+    "expected_answer": "1. **Ignorance (अज्ञान):** Hreem (Saraswati energy) door karti hai.\n  2. **Weakness (अशक्ति):** Kleem (Kali energy) door karti hai.\n  3. **Poverty/Scarcity (अभाव):** Shreem (Lakshmi energy) door karti hai.",
+    "expected_answer_raw": "* **Ans:**\n  1. **Ignorance (अज्ञान):** Hreem (Saraswati energy) door karti hai.\n  2. **Weakness (अशक्ति):** Kleem (Kali energy) door karti hai.\n  3. **Poverty/Scarcity (अभाव):** Shreem (Lakshmi energy) door karti hai.",
+    "bold_concepts": [
+      "Ignorance (अज्ञान):",
+      "Weakness (अशक्ति):",
+      "Poverty/Scarcity (अभाव):"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q032",
+    "q_num": 32,
+    "section": "Section 4: Personal Growth, Mindset & Vices (व्यक्तिगत सुधार एवं मनोभूमि)",
+    "question": "Kya Gayatri Sadhana se memory aur IQ badhta hai?",
+    "expected_answer": "Haan, Gayatri **Sadbuddhi** ki Devi hain. Sunrise ke waqt Jap karne se brain cells stimulate hote hain aur concentration/memory fast hoti hai.",
+    "expected_answer_raw": "* **Ans:** Haan, Gayatri **Sadbuddhi** ki Devi hain. Sunrise ke waqt Jap karne se brain cells stimulate hote hain aur concentration/memory fast hoti hai.",
+    "bold_concepts": [
+      "Sadbuddhi"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q033",
+    "q_num": 33,
+    "section": "Section 4: Personal Growth, Mindset & Vices (व्यक्तिगत सुधार एवं मनोभूमि)",
+    "question": "Gayatri ko \"Kamadhenu\" kyu bolte hain?",
+    "expected_answer": "Jaise Kamadhenu saari wish poori karti hai, waise hi Gayatri Sadhana se sadhak ko wisdom, peace aur har problem ka solution milta hai.\n\n---",
+    "expected_answer_raw": "* **Ans:** Jaise Kamadhenu saari wish poori karti hai, waise hi Gayatri Sadhana se sadhak ko wisdom, peace aur har problem ka solution milta hai.\n\n---",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q034",
+    "q_num": 34,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Mantra Jap ke 3 types kaunse hain aur sabse best konsa hai?",
+    "expected_answer": "1. **Vachik:** Bolkar jaap.\n  2. **Upanshu:** Lips hilakar silent whisper.\n  3. **Mansik:** Mind me silent chanting.\n  4. **Mansik Jap** sabse powerful maana gaya hai.",
+    "expected_answer_raw": "* **Ans:**\n  1. **Vachik:** Bolkar jaap.\n  2. **Upanshu:** Lips hilakar silent whisper.\n  3. **Mansik:** Mind me silent chanting.\n  4. **Mansik Jap** sabse powerful maana gaya hai.",
+    "bold_concepts": [
+      "Vachik:",
+      "Upanshu:",
+      "Mansik:",
+      "Mansik Jap"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q035",
+    "q_num": 35,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Pooja ke waqt kis direction me baithna chahiye?",
+    "expected_answer": "Subah **East** (Ugte hue suraj ki taraf) aur shaam ko **West** ki taraf.",
+    "expected_answer_raw": "* **Ans:** Subah **East** (Ugte hue suraj ki taraf) aur shaam ko **West** ki taraf.",
+    "bold_concepts": [
+      "East",
+      "West"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q036",
+    "q_num": 36,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Gayatri Jap ke liye best timing kya hai?",
+    "expected_answer": "**Brahma Muhurta** (Sunrise se pehle) aur Shaam ko Sunset ke waqt (Sandhya kaal).",
+    "expected_answer_raw": "* **Ans:** **Brahma Muhurta** (Sunrise se pehle) aur Shaam ko Sunset ke waqt (Sandhya kaal).",
+    "bold_concepts": [
+      "Brahma Muhurta"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q037",
+    "q_num": 37,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Kaisa Asana use karna chahiye?",
+    "expected_answer": "**Kusha grass, cotton ya wool** ka mat. Bare floor par baithne se body ki spiritual electricity earth me chali jaati hai.",
+    "expected_answer_raw": "* **Ans:** **Kusha grass, cotton ya wool** ka mat. Bare floor par baithne se body ki spiritual electricity earth me chali jaati hai.",
+    "bold_concepts": [
+      "Kusha grass, cotton ya wool"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q038",
+    "q_num": 38,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Konsi Mala use karni chahiye?",
+    "expected_answer": "**Tulsi ya Chandan ki mala** best hai.",
+    "expected_answer_raw": "* **Ans:** **Tulsi ya Chandan ki mala** best hai.",
+    "bold_concepts": [
+      "Tulsi ya Chandan ki mala"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q039",
+    "q_num": 39,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Sick ya bedridden condition me Sadhana kaise karein?",
+    "expected_answer": "Physical rules flex ho jaate hain. Bed par lete-lete bhi **Mansik Jap** kar sakte hain.",
+    "expected_answer_raw": "* **Ans:** Physical rules flex ho jaate hain. Bed par lete-lete bhi **Mansik Jap** kar sakte hain.",
+    "bold_concepts": [
+      "Mansik Jap"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q040",
+    "q_num": 40,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Sandhyavandan ke 5 steps (Panch-Karma) kya hain?",
+    "expected_answer": "**Aachaman, Shikha-Bandhan, Pranayama, Aghamarsan, aur Nyasa**.",
+    "expected_answer_raw": "* **Ans:** **Aachaman, Shikha-Bandhan, Pranayama, Aghamarsan, aur Nyasa**.",
+    "bold_concepts": [
+      "Aachaman, Shikha-Bandhan, Pranayama, Aghamarsan, aur Nyasa"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q041",
+    "q_num": 41,
+    "section": "Section 5: Daily Routine & Upasana Rules (नियम एवं जीवनशैली)",
+    "question": "Shikha (Choti) baandhne ka scientific reason kya hai?",
+    "expected_answer": "Shikha brain ka electric center hai. Use tie karne se mental energy leak nahi hoti aur concentration banti hai.\n\n---",
+    "expected_answer_raw": "* **Ans:** Shikha brain ka electric center hai. Use tie karne se mental energy leak nahi hoti aur concentration banti hai.\n\n---",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q042",
+    "q_num": 42,
+    "section": "Section 6: The 10 Tapas (१० तप एवं आत्मशोधन)",
+    "question": "Book me diye gaye 10 Tapas kaunse hain?",
+    "expected_answer": "**Aswada, Titiksha, Karshan, Upavas, Gavya Kalpa, Pradatavya, Nishkasan, Sadhana, Brahmacharya, aur Chandrayana**.",
+    "expected_answer_raw": "* **Ans:** **Aswada, Titiksha, Karshan, Upavas, Gavya Kalpa, Pradatavya, Nishkasan, Sadhana, Brahmacharya, aur Chandrayana**.",
+    "bold_concepts": [
+      "Aswada, Titiksha, Karshan, Upavas, Gavya Kalpa, Pradatavya, Nishkasan, Sadhana, Brahmacharya, aur Chandrayana"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q043",
+    "q_num": 43,
+    "section": "Section 6: The 10 Tapas (१० तप एवं आत्मशोधन)",
+    "question": "'Aswada Tapa' kya hota hai?",
+    "expected_answer": "Bina namak/meethe ka simple aur plain khana khana taaki taste ke chakar me craving na ho.",
+    "expected_answer_raw": "* **Ans:** Bina namak/meethe ka simple aur plain khana khana taaki taste ke chakar me craving na ho.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q044",
+    "q_num": 44,
+    "section": "Section 6: The 10 Tapas (१० तप एवं आत्मशोधन)",
+    "question": "'Titiksha Tapa' kise kehte hain?",
+    "expected_answer": "Sardi, garmi aur basic physical hardships ko bina complain kiye cheerfully face karna.",
+    "expected_answer_raw": "* **Ans:** Sardi, garmi aur basic physical hardships ko bina complain kiye cheerfully face karna.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q045",
+    "q_num": 45,
+    "section": "Section 6: The 10 Tapas (१० तप एवं आत्मशोधन)",
+    "question": "'Pradatavya Tapa' ka matlab kya hai?",
+    "expected_answer": "Apni earnings aur time ka kuch part society aur poor logo ki help ke liye daan karna.",
+    "expected_answer_raw": "* **Ans:** Apni earnings aur time ka kuch part society aur poor logo ki help ke liye daan karna.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q046",
+    "q_num": 46,
+    "section": "Section 6: The 10 Tapas (१० तप एवं आत्मशोधन)",
+    "question": "'Chandrayana Tapa' kya hai?",
+    "expected_answer": "Moon ke phases (waxing/waning) ke hisab se apna diet adjust karke body aur soul ko purify karna.\n\n---",
+    "expected_answer_raw": "* **Ans:** Moon ke phases (waxing/waning) ke hisab se apna diet adjust karke body aur soul ko purify karna.\n\n---",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q047",
+    "q_num": 47,
+    "section": "Section 7: Yajna & Yagyopaveet (यज्ञ एवं यज्ञोपवीत)",
+    "question": "Gayatri aur Yajna ka aapas me kya connection hai?",
+    "expected_answer": "Gayatri **Mata** hai aur Yajna **Pita**. Dono ke combination se hi person ka spiritual rebirth (Dwijatva) hota hai.",
+    "expected_answer_raw": "* **Ans:** Gayatri **Mata** hai aur Yajna **Pita**. Dono ke combination se hi person ka spiritual rebirth (Dwijatva) hota hai.",
+    "bold_concepts": [
+      "Mata",
+      "Pita"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q048",
+    "q_num": 48,
+    "section": "Section 7: Yajna & Yagyopaveet (यज्ञ एवं यज्ञोपवीत)",
+    "question": "Janeu (Yagyopaveet) ki 3 strings kiska symbol hain?",
+    "expected_answer": "Gayatri Mantra ke **3 steps**, 3 Vyahritis (Bhooh, Bhuvah, Swah) aur self-control ke vows ka symbol hain.",
+    "expected_answer_raw": "* **Ans:** Gayatri Mantra ke **3 steps**, 3 Vyahritis (Bhooh, Bhuvah, Swah) aur self-control ke vows ka symbol hain.",
+    "bold_concepts": [
+      "3 steps"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q049",
+    "q_num": 49,
+    "section": "Section 7: Yajna & Yagyopaveet (यज्ञ एवं यज्ञोपवीत)",
+    "question": "Yajna se environment par kya effect padta hai?",
+    "expected_answer": "Havandham se air ke bacteria/viruses destroy hote hain, environment clean hota hai aur herbs micro-form me lungs me jaakar health improve karti hain.\n\n---",
+    "expected_answer_raw": "* **Ans:** Havandham se air ke bacteria/viruses destroy hote hain, environment clean hota hai aur herbs micro-form me lungs me jaakar health improve karti hain.\n\n---",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q050",
+    "q_num": 50,
+    "section": "Section 8: Women's Vedic Rights (स्त्री अधिकार)",
+    "question": "[Test Case] Kya women ko Gayatri Mantra jaap aur Veda padhne ka right hai?",
+    "expected_answer": "**Haan, 100% full right hai.** Book me ancient scriptures ke proof diye hain ki God ki nazar me male aur female dono equal hain.",
+    "expected_answer_raw": "* **Ans:** **Haan, 100% full right hai.** Book me ancient scriptures ke proof diye hain ki God ki nazar me male aur female dono equal hain.",
+    "bold_concepts": [
+      "Haan, 100% full right hai."
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q051",
+    "q_num": 51,
+    "section": "Section 8: Women's Vedic Rights (स्त्री अधिकार)",
+    "question": "Ancient time ki kaunsi female Rishis (Rishikas) Vedic scholars thi?",
+    "expected_answer": "**Gargi, Maitreyi, Lopamudra, Anusuya, Arundhati, Sulabha, Madalasa, Ghosha, aur Apala**.",
+    "expected_answer_raw": "* **Ans:** **Gargi, Maitreyi, Lopamudra, Anusuya, Arundhati, Sulabha, Madalasa, Ghosha, aur Apala**.",
+    "bold_concepts": [
+      "Gargi, Maitreyi, Lopamudra, Anusuya, Arundhati, Sulabha, Madalasa, Ghosha, aur Apala"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q052",
+    "q_num": 52,
+    "section": "Section 8: Women's Vedic Rights (स्त्री अधिकार)",
+    "question": "Middle ages me women par restrictions kyu lage the?",
+    "expected_answer": "Foreign invasions, social insecurity aur narrow-minded scholars ne texts me wrong additions (Prakshepa) karke rights cheene the.",
+    "expected_answer_raw": "* **Ans:** Foreign invasions, social insecurity aur narrow-minded scholars ne texts me wrong additions (Prakshepa) karke rights cheene the.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q053",
+    "q_num": 53,
+    "section": "Section 8: Women's Vedic Rights (स्त्री अधिकार)",
+    "question": "Mahamana Madan Mohan Malaviya ji ka women rights par kya decision tha?",
+    "expected_answer": "August 1946 me BHU ki Vidwat Sabha ne Malaviya Ji ki chairmanship me unanimously pass kiya ki women ko Vedo aur Gayatri Upasana ka poora scriptural right hai.\n\n---",
+    "expected_answer_raw": "* **Ans:** August 1946 me BHU ki Vidwat Sabha ne Malaviya Ji ki chairmanship me unanimously pass kiya ki women ko Vedo aur Gayatri Upasana ka poora scriptural right hai.\n\n---",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q054",
+    "q_num": 54,
+    "section": "Section 9: Family & Relationships (पारिवारिक जीवन)",
+    "question": "[Test Case] Gharelu klesh aur family fights ko Gayatri Sadhana kaise thik karti hai?",
+    "expected_answer": "Sadhak ki positive aura ghar ka atmosphere change kar deti hai. Anger aur ego khatam hota hai aur mutual love aur respect badhta hai.",
+    "expected_answer_raw": "* **Ans:** Sadhak ki positive aura ghar ka atmosphere change kar deti hai. Anger aur ego khatam hota hai aur mutual love aur respect badhta hai.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q055",
+    "q_num": 55,
+    "section": "Section 9: Family & Relationships (पारिवारिक जीवन)",
+    "question": "[Test Case] Husband-Wife relationship me conflict ho toh kya karein?",
+    "expected_answer": "Regular Gayatri Jap karne se mind calm hota hai. Book me Vimala Devi ka example hai, jiske Gayatri Jap se uske abusive husband ka nature completely transform ho gaya.",
+    "expected_answer_raw": "* **Ans:** Regular Gayatri Jap karne se mind calm hota hai. Book me Vimala Devi ka example hai, jiske Gayatri Jap se uske abusive husband ka nature completely transform ho gaya.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q056",
+    "q_num": 56,
+    "section": "Section 9: Family & Relationships (पारिवारिक जीवन)",
+    "question": "Children ki upbringing aur sharp memory ke liye parents kya karein?",
+    "expected_answer": "Mother child ke head par hand rakh kar mentally Gayatri chant kare aur energised water (Abhimantrit Jal) pilaye.\n\n---",
+    "expected_answer_raw": "* **Ans:** Mother child ke head par hand rakh kar mentally Gayatri chant kare aur energised water (Abhimantrit Jal) pilaye.\n\n---",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q057",
+    "q_num": 57,
+    "section": "Section 10: Special Applications & Remedies (विशिष्ट प्रयोग Test Cases)",
+    "question": "[Test Case] Severe illness ya health issues me Gayatri ka use kaise karein?",
+    "expected_answer": "Sunrise ke waqt East face karke wet forehead par sunlight lein, palms rub karke face/eyes par lagayein aur energised water (Abhimantrit Jal) piyein.",
+    "expected_answer_raw": "* **Ans:** Sunrise ke waqt East face karke wet forehead par sunlight lein, palms rub karke face/eyes par lagayein aur energised water (Abhimantrit Jal) piyein.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q058",
+    "q_num": 58,
+    "section": "Section 10: Special Applications & Remedies (विशिष्ट प्रयोग Test Cases)",
+    "question": "[Test Case] Debt (Karza) aur Financial Crises door karne ka vishesh prayog kya hai?",
+    "expected_answer": "**'Shreem' (श्रीं)** seed syllable ka Samput lagakar Jap karein, yellow clothes pehnein, yellow mat use karein aur Sunday fast rakhein.",
+    "expected_answer_raw": "* **Ans:** **'Shreem' (श्रीं)** seed syllable ka Samput lagakar Jap karein, yellow clothes pehnein, yellow mat use karein aur Sunday fast rakhein.",
+    "bold_concepts": [
+      "'Shreem' (श्रीं)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q059",
+    "q_num": 59,
+    "section": "Section 10: Special Applications & Remedies (विशिष्ट प्रयोग Test Cases)",
+    "question": "[Test Case] Court cases, false litigation aur enemy fear se bachne ke liye kya karein?",
+    "expected_answer": "West direction face karke **'Kleem' (क्लीं)** seed syllable Samput ke saath Jap karein aur Divine Protective Energy (Durga/Kali) ka dhyan karein.",
+    "expected_answer_raw": "* **Ans:** West direction face karke **'Kleem' (क्लीं)** seed syllable Samput ke saath Jap karein aur Divine Protective Energy (Durga/Kali) ka dhyan karein.",
+    "bold_concepts": [
+      "'Kleem' (क्लीं)"
+    ],
+    "language": "hinglish",
+    "answerable": true
+  },
+  {
+    "id": "H_Q060",
+    "q_num": 60,
+    "section": "Section 10: Special Applications & Remedies (विशिष्ट प्रयोग Test Cases)",
+    "question": "Gayatri Raksha-Kavach kaise banta hai?",
+    "expected_answer": "Saffron, Musk, Nutmeg, Mace aur Gorochan ki ink se Bhojpatra par Gayatri Mantra likhkar silver talisman (taabiz) me pehanne se accidents aur negative energies se protection milti hai.",
+    "expected_answer_raw": "* **Ans:** Saffron, Musk, Nutmeg, Mace aur Gorochan ki ink se Bhojpatra par Gayatri Mantra likhkar silver talisman (taabiz) me pehanne se accidents aur negative energies se protection milti hai.",
+    "bold_concepts": [],
+    "language": "hinglish",
+    "answerable": true
+  }
+]
