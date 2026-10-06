@@ -1,4 +1,4 @@
-# Shantikunj AI
+# Pragya GPT by Shantikunj 
 
 A source-grounded, multilingual Retrieval-Augmented Generation (RAG) knowledge assistant for the verified and authorized literature of **Shantikunj, Gayatri Pariwar, and Pandit Shriram Sharma Acharya**.
 
