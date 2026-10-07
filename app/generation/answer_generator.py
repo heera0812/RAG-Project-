@@ -24,6 +24,40 @@ class AnswerGenerator:
         )
         self.model = settings.LLM_MODEL
 
+    def _try_generate_via_google_gemini(self, prompt_text: str) -> Optional[dict]:
+        """Directly call Google Gemini / Generative Language API without third-party proxies."""
+        if not getattr(settings, "GEMINI_API_KEY", ""):
+            return None
+        try:
+            import requests
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{settings.GEMINI_MODEL}:generateContent?key={settings.GEMINI_API_KEY}"
+            payload = {
+                "contents": [{"parts": [{"text": prompt_text}]}],
+                "generationConfig": {"temperature": 0.1},
+            }
+            resp = requests.post(url, json=payload, timeout=20.0)
+            if resp.status_code == 200:
+                data_resp = resp.json()
+                candidates = data_resp.get("candidates", [])
+                if candidates:
+                    raw_text = candidates[0].get("content", {}).get("parts", [{}])[0].get("text", "")
+                    clean_json = raw_text.strip()
+                    if "```json" in clean_json:
+                        clean_json = clean_json.split("```json")[1].split("```")[0].strip()
+                    elif "```" in clean_json:
+                        clean_json = clean_json.split("```")[1].split("```")[0].strip()
+                    try:
+                        return json.loads(clean_json)
+                    except Exception:
+                        return {
+                            "answer": raw_text.strip(),
+                            "evidence_status": "supported",
+                            "used_source_ids": [],
+                        }
+        except Exception as e:
+            logger.warning(f"Direct Google Gemini generation encountered error: {e}")
+        return None
+
     def generate_answer(
         self,
         question: str,
@@ -76,7 +110,16 @@ class AnswerGenerator:
             except Exception as e:
                 logger.warning(f"NotebookLM generation bypassed: {e}. Falling back to OpenRouter...")
 
-        # 2b. Candidate model fallback loop if NotebookLM not used
+        # 2b. Try direct Google Gemini API if GEMINI_API_KEY is configured
+        if not data and getattr(settings, "GEMINI_API_KEY", ""):
+            try:
+                gemini_data = self._try_generate_via_google_gemini(f"{STRICT_SYSTEM_PROMPT}\n\n{user_message}")
+                if gemini_data:
+                    data = gemini_data
+            except Exception as e:
+                logger.warning(f"Google Gemini API call bypassed: {e}")
+
+        # 2c. Candidate model fallback loop if direct engines not used
         if not data:
             candidate_models = [self.model] + [m for m in getattr(settings, "FALLBACK_MODELS", []) if m != self.model]
 
