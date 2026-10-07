@@ -35,7 +35,7 @@ class AnswerGenerator:
                 "contents": [{"parts": [{"text": prompt_text}]}],
                 "generationConfig": {"temperature": 0.1},
             }
-            resp = requests.post(url, json=payload, timeout=20.0)
+            resp = requests.post(url, json=payload, timeout=35.0)
             if resp.status_code == 200:
                 data_resp = resp.json()
                 candidates = data_resp.get("candidates", [])
