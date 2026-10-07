@@ -1,0 +1,562 @@
+[
+  {
+    "id": "DIFF_HI_001",
+    "q_num": 1,
+    "q_global_index": 1,
+    "theme": "1\\. Advanced Metaphysics & Subtle Sound Science (सूक्ष्म शब्द विज्ञान एवं दर्शन)",
+    "language": "hi",
+    "question": "गायत्री महाविज्ञान के अनुसार सृष्टि उत्पत्ति के क्रम में ॐ (प्रणव) से पंचभूतों तथा पंचकोशों के निर्माण का क्या सूक्ष्म वैज्ञानिक तंत्र है?",
+    "expected_answer": "सृष्टि रचना के प्रारंभ में ज्योतिर्मय परब्रह्म ने जल की रचना की और उंगलियों से मथन किया, जिससे फेन और बुद्बुद बने[1]। इसके घर्षण से वायु उत्पन्न हुई तथा वायु के वेग से अग्नि और ॐ की ब्रह्म-ध्वनि (आकाश) प्रकट हुई[1]। इस प्रक्रिया में स्वाद-अनुभूति से **आनंदमय कोश**, मथन की इच्छा से **विज्ञानमय कोश**, गति से **मनोमय कोश**, ऊष्मा व क्रियाशीलता से **प्राणमय कोश**, तथा स्थूल पिण्ड के रूप में **अन्नमय कोश** की रचना हुई[1][2]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_001",
+    "q_num": 1,
+    "q_global_index": 1,
+    "theme": "1\\. Advanced Metaphysics & Subtle Sound Science (सूक्ष्म शब्द विज्ञान एवं दर्शन)",
+    "language": "en",
+    "question": "What is the subtle scientific mechanism of creation of the five elements (Panchabhuta) and five sheaths (Panchakosha) from Om according to Gayatri Mahavigyan?",
+    "expected_answer": "At the inception of cosmic creation, the Supreme Light-Being created water and churned it, generating foam and bubbles[1]. Friction produced air, whose movement created fire and the cosmic sound of Om (ether/space)[1]. In this sequence, the taste-experience formed the **Anandamaya Kosha**, the creative urge formed the **Vigyanamaya Kosha**, movement formed the **Manomaya Kosha**, thermal activity formed the **Pranamaya Kosha**, and the physical body formed the **Annamaya Kosha**[1][2].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_001",
+    "q_num": 1,
+    "q_global_index": 1,
+    "theme": "1\\. Advanced Metaphysics & Subtle Sound Science (सूक्ष्म शब्द विज्ञान एवं दर्शन)",
+    "language": "hinglish",
+    "question": "Gayatri Mahavigyan ke mutabiq Om se Panchabhuta aur Panchakosha ki srishti ka kya subtle scientific mechanism hai?",
+    "expected_answer": "Srishti ke aagman me Supreme Being ne jal create karke use churn kiya, jisse foam aur bubbles bane[1]. Friction se vayu, uski gati se agni aur Om ki brahm-dhwani (akash) bani[1]. Isme swad-anubhuti se **Anandamaya Kosha**, khoj ki ichha se **Vigyanamaya Kosha**, vayu ki gati se **Manomaya Kosha**, agni ki ushma se **Pranamaya Kosha**, aur sthool pindiya roop me **Annamaya Kosha** ki rachna hui[1][2].\n\n---",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_002",
+    "q_num": 2,
+    "q_global_index": 2,
+    "theme": "2\\. Deep Esoteric Science of Shaap-Vimochan & Utkeelan (शाप-विमोचन एवं उत्कीलन)",
+    "language": "hi",
+    "question": "'ह्रीं', 'श्रीं' तथा 'क्लीं' बीज मन्त्रों का गायत्री की सूक्ष्म प्रकृति तथा मानव के तीन मूल कष्टों से क्या सम्बन्ध है?",
+    "expected_answer": "गायत्री त्रिगुणात्मक आद्याशक्ति है, जिसकी तीन सूक्ष्म शब्द-धाराएँ हैं—सत् प्रवाह से **'ह्रीं'** (सरस्वती), रज प्रवाह से **'श्रीं'** (लक्ष्मी), और तम प्रवाह से **'क्लीं'** (काली)[3]। मानव जीवन के तीन मुख्य कष्टों—**अज्ञान**, **अभाव** तथा **अशक्ति** का निवारण क्रमशः ह्रीं (ज्ञान), श्रीं (समृद्धि/साधन) तथा क्लीं (बल/सामर्थ्य) की साधना से होता है[4]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_002",
+    "q_num": 2,
+    "q_global_index": 2,
+    "theme": "2\\. Deep Esoteric Science of Shaap-Vimochan & Utkeelan (शाप-विमोचन एवं उत्कीलन)",
+    "language": "en",
+    "question": "How do the seed mantras 'Hreem', 'Shreem', and 'Kleem' relate to Gayatri's subtle nature and the three root human afflictions?",
+    "expected_answer": "Gayatri is the primordial energy (*Aadya-Shakti*) comprising three qualities (*Trigunatmaka*). Its three subtle sound currents are **'Hreem'** (Saraswati / Sattva), **'Shreem'** (Lakshmi / Rajas), and **'Kleem'** (Kali / Tamas)[3]. The three fundamental human afflictions—**Ignorance (Agyan)**, **Scarcity (Abhav)**, and **Weakness (Ashakti)**—are dispelled respectively by Hreem, Shreem, and Kleem[4].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_002",
+    "q_num": 2,
+    "q_global_index": 2,
+    "theme": "2\\. Deep Esoteric Science of Shaap-Vimochan & Utkeelan (शाप-विमोचन एवं उत्कीलन)",
+    "language": "hinglish",
+    "question": "'Hreem', 'Shreem' aur 'Kleem' beej mantras ka Gayatri ki sukshma prakriti aur 3 mukhya dukhon se kya relation hai?",
+    "expected_answer": "Gayatri Trigunatmaka Aadya-Shakti hai. Uski 3 sukshma sound streams hain—Sat se **'Hreem'** (Saraswati), Raj se **'Shreem'** (Lakshmi), aur Tam se **'Kleem'** (Kali)[3]. Human life ke 3 mukhya dukh—**Agyan**, **Abhav**, aur **Ashakti**—kramashah Hreem, Shreem, aur Kleem ki sadhana se door hote hain[4].\n\n---\n\n### **2\\. Deep Esoteric Science of Shaap-Vimochan &amp; Utkeelan (शाप-विमोचन एवं उत्कीलन)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_003",
+    "q_num": 3,
+    "q_global_index": 3,
+    "theme": "3\\. Advanced Shat-Chakra & Kundalini Mechanics (षट्चक्र एवं कुण्डलिनी वेधन)",
+    "language": "hi",
+    "question": "वशिष्ठ और विश्वामित्र द्वारा गायत्री मन्त्र को कीलित (शापित) किए जाने का वास्तविक अर्थ क्या है और इसका विमोचन कैसे होता है?",
+    "expected_answer": "शास्त्रोक्त कथन कि वशिष्ठ व विश्वामित्र ने गायत्री को शाप दिया, एक गम्भीर रूपक है[5]। वशिष्ठ का अर्थ है **\"विशेष रूप से श्रेष्ठ व अनुभवी पथ-प्रदर्शक\"** (सद्गुरु) और विश्वामित्र का अर्थ है **\"संसार का कल्याण करने वाला, निष्काम व उदार साधक\"**[5][6]। जब तक साधक किसी अनुभवी गुरु की छत्रछाया में (वशिष्ठ शाप-विमोचन) तथा लोक-कल्याणकारी निष्काम भावना से (विश्वामित्र शाप-विमोचन) साधना नहीं करता, तब तक मन्त्र कीलित रहता है और पूर्ण फलदायी नहीं होता[6][7]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_003",
+    "q_num": 3,
+    "q_global_index": 3,
+    "theme": "3\\. Advanced Shat-Chakra & Kundalini Mechanics (षट्चक्र एवं कुण्डलिनी वेधन)",
+    "language": "en",
+    "question": "What is the true esoteric meaning of the Gayatri Mantra being cursed/locked by Vashistha and Vishwamitra, and how is Shaap-Vimochan achieved?",
+    "expected_answer": "The scriptural myth of Vashistha and Vishwamitra cursing Gayatri is a profound metaphor[5]. Vashistha signifies an **\"eminently experienced spiritual guide\"** (Sadguru), while Vishwamitra signifies a **\"selfless benefactor of the world\"**[5][6]. Until a practitioner operates under competent guidance (Vashistha Shaap-Vimochan) and maintains an unselfish, public-spirited intent (Vishwamitra Shaap-Vimochan), the mantra remains locked (*Keelit*)[6][7].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_003",
+    "q_num": 3,
+    "q_global_index": 3,
+    "theme": "3\\. Advanced Shat-Chakra & Kundalini Mechanics (षट्चक्र एवं कुण्डलिनी वेधन)",
+    "language": "hinglish",
+    "question": "Vashistha aur Vishwamitra dwara Gayatri ko shaapit/keelit karne ka asli matlab kya hai aur Shaap-Vimochan kaise hota hai?",
+    "expected_answer": "Yeh Puranic katha ek deep metaphor hai[5]. Vashistha ka matlab hai **\"experienced spiritual guide (Guru)\"** aur Vishwamitra ka matlab hai **\"duniya ka kalyan karne wala nishkam sadhak\"**[5][6]. Jab tak sadhak experienced Guru ke under (Vashistha shaap-vimochan) aur nishkam lok-sewa ki bhavna se (Vishwamitra shaap-vimochan) sadhana nahi karta, tab tak mantra keelit rehta hai[6][7].\n\n---\n\n### **3\\. Advanced Shat-Chakra &amp; Kundalini Mechanics (षट्चक्र एवं कुण्डलिनी वेधन)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_004",
+    "q_num": 4,
+    "q_global_index": 4,
+    "theme": "4\\. Subtle Mind Architecture & Psychology (मानसिक कायाकल्प एवं चित्त-संरचना)",
+    "language": "hi",
+    "question": "मेरुदण्ड के ३३ अस्थि-खण्डों तथा ६ चक्रों पर लगे ६ तालों का कुण्डलिनी जागरण प्रक्रिया में क्या रहस्य है?",
+    "expected_answer": "मेरुदण्ड के ३३ अस्थि-खण्ड ३३ कोटि देव-शक्तियों के केंद्र हैं[8]। मेरुदण्ड में स्थित ब्रह्मनाड़ी पर ६ चक्र (मूलाधार, स्वाधिष्ठान, मणिपूर, अनाहत, विशुद्ध, आज्ञा) सूक्ष्म ग्रन्थियाँ हैं, जो कुण्डलिनी शक्ति के मार्ग में ६ तालों की भाँति कार्य करती हैं[9][10]। ध्यान-शक्ति तथा ब्रह्मनाड़ी में प्राण-प्रवाह के आघात से इन ६ चक्रों का वेधन (ताले खोलना) होता है, जिससे कुण्डलिनी जाग्रत होकर सहस्रार (शून्य चक्र) में परब्रह्म से एकीकृत होती है[10]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_004",
+    "q_num": 4,
+    "q_global_index": 4,
+    "theme": "4\\. Subtle Mind Architecture & Psychology (मानसिक कायाकल्प एवं चित्त-संरचना)",
+    "language": "en",
+    "question": "What is the hidden mystery of the 33 spinal vertebrae and the 6 locks (chakras) in the process of Kundalini awakening?",
+    "expected_answer": "The 33 vertebrae of the spine represent the energy centers of the 33 categories (*Kotis*) of divine powers[8]. The 6 Chakras along the Brahma-nadi act as six subtle locks guarding the latent Kundalini force[9][10]. Through concentrated meditation and directed Pranic impulses, these 6 chakras are pierced (*Shat-Chakra Vedhan*), unlocking the Kundalini serpent to unite with the Supreme Consciousness in the Sahasrara[10].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_004",
+    "q_num": 4,
+    "q_global_index": 4,
+    "theme": "4\\. Subtle Mind Architecture & Psychology (मानसिक कायाकल्प एवं चित्त-संरचना)",
+    "language": "hinglish",
+    "question": "Spine ke 33 vertebrae aur 6 chakro par lage 6 taalon ka Kundalini awakening me kya rahasya hai?",
+    "expected_answer": "Spine ke 33 bone segments 33 Koti dev-shaktiyon ke seed centers hain[8]. Brahma-nadi par sthit 6 chakras Kundalini ke raste me 6 taalon (locks) ka kaam karte hain[9][10]. Dhyan-shakti aur Prana ke aaghat se in 6 chakro ka vedhan (locks kholna) hota hai, jisse Kundalini jaagrit hokar Sahasrara me Param-Brahma se milti hai[10].\n\n---\n\n### **4\\. Subtle Mind Architecture &amp; Psychology (मानसिक कायाकल्प एवं चित्त-संरचना)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_005",
+    "q_num": 5,
+    "q_global_index": 5,
+    "theme": "5\\. Rigorous Rituals & Sandhyavandan Mechanics (सन्ध्यावन्दन एवं पञ्चकर्म की सूक्ष्म कार्यप्रणाली)",
+    "language": "hi",
+    "question": "गायत्री महाविज्ञान के अनुसार मनःक्षेत्र के स्थूल (मन, बुद्धि) तथा सूक्ष्म (चित्त, अहंकार) परतों का आपसी सम्बन्ध क्या है?",
+    "expected_answer": "मनःक्षेत्र में चार परतें हैं: स्थूल मनःक्षेत्र में **मन** (इच्छाएँ/वासनाएँ उत्पन्न करना) और **बुद्धि** (तर्क/निर्णय करना) आते हैं[13][14]। सूक्ष्म मनःक्षेत्र में **चित्त** (जन्म-जन्मान्तरों के संचित संस्कार व भावनाएँ) और **अहंकार** (आत्मा की स्वयं के प्रति मान्यता/अहं-भाव) कार्य करते हैं[13][14]। जब तक गायत्री साधना द्वारा चित्त के अज्ञान व कुसंस्कारों की सफाई नहीं होती, केवल बौद्धिक ज्ञान से जीवन का कायाकल्प नहीं हो सकता[13][15]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_005",
+    "q_num": 5,
+    "q_global_index": 5,
+    "theme": "5\\. Rigorous Rituals & Sandhyavandan Mechanics (सन्ध्यावन्दन एवं पञ्चकर्म की सूक्ष्म कार्यप्रणाली)",
+    "language": "en",
+    "question": "According to Gayatri Mahavigyan, what is the interrelationship between the gross (Mind, Intellect) and subtle (Chitta, Ego) layers of the mental field?",
+    "expected_answer": "The mental field comprises four levels: the gross realm consists of **Manas** (generating desires) and **Buddhi** (reasoning/decision-making)[13][14]. The subtle realm consists of **Chitta** (storehouse of deep past-life impressions/Samskaras) and **Ahankar** (self-identity/ego)[13][14]. Unless Gayatri Sadhana cleanses the Chitta's deep impressions, intellectual reasoning alone cannot transform character[13][15].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_005",
+    "q_num": 5,
+    "q_global_index": 5,
+    "theme": "5\\. Rigorous Rituals & Sandhyavandan Mechanics (सन्ध्यावन्दन एवं पञ्चकर्म की सूक्ष्म कार्यप्रणाली)",
+    "language": "hinglish",
+    "question": "Gayatri Mahavigyan ke mutabiq mind ki sthool (Mind, Intellect) aur sukshma (Chitta, Ego) layers ka aapas me kya relation hai?",
+    "expected_answer": "Mind field me 4 layers hain: Sthool area me **Man** (desires create karna) aur **Buddhi** (decide karna) hain[13][14]. Sukshma area me **Chitta** (purane janmo ke samskar) aur **Ahankar** (self-identity) hain[13][14]. Jab tak Gayatri sadhana se Chitta ke samskar saf nahi hote, kewal intellect se character change nahi ho sakta[13][15].\n\n---\n\n### **5\\. Rigorous Rituals &amp; Sandhyavandan Mechanics (सन्ध्यावन्दन एवं पञ्चकर्म की सूक्ष्म कार्यप्रणाली)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_006",
+    "q_num": 6,
+    "q_global_index": 6,
+    "theme": "6\\. Advanced Tapas & Self-Purification (१० तप एवं आत्मशोधन की उच्च साधना)",
+    "language": "hi",
+    "question": "सन्ध्यावन्दन के अंतर्गत 'अघमर्षण' तथा 'न्यास' क्रियाओं का क्या सूक्ष्म आध्यात्मिक उद्देश्य है?",
+    "expected_answer": "**अघमर्षण** में दाहिनी हथेली में जल लेकर नासिका द्वारा पाप-पुरुष व कुसंस्कारों को श्वास के साथ खींचकर जल में विसर्जित किया जाता है, जिससे काया, प्राण व मन के पाप नष्ट होते हैं[16]। **न्यास** द्वारा शरीर के ७ प्रमुख अंगों (मूर्धा, नेत्र, कर्ण, मुख, कण्ठ, हृदय, नाभि) का स्पर्श करके गायत्री की सतोगुणी देव-शक्तियों को उन अंगों में स्थापित व कीलित किया जाता है[17]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_006",
+    "q_num": 6,
+    "q_global_index": 6,
+    "theme": "6\\. Advanced Tapas & Self-Purification (१० तप एवं आत्मशोधन की उच्च साधना)",
+    "language": "en",
+    "question": "What is the subtle spiritual objective of 'Aghamarsan' and 'Nyasa' in Sandhyavandan?",
+    "expected_answer": "In **Aghamarsan**, water held in the palm is used while exhaling to mentally pull out past sins and negative impressions, casting them away to destroy physical, vital, and mental sins[16]. In **Nyasa**, touching 7 vital body parts (head, eyes, ears, mouth, throat, heart, navel) establishes and seals Gayatri's divine Sattvic forces within those organs[17].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_006",
+    "q_num": 6,
+    "q_global_index": 6,
+    "theme": "6\\. Advanced Tapas & Self-Purification (१० तप एवं आत्मशोधन की उच्च साधना)",
+    "language": "hinglish",
+    "question": "Sandhyavandan ke andar 'Aghamarsan' aur 'Nyasa' kriyaon ka kya subtle spiritual objective hai?",
+    "expected_answer": "**Aghamarsan** me palm me paani lekar breath ke saath andar ke paap/kasht bahar nikal kar paani me phenke jaate hain[16]. **Nyasa** me body ke 7 main organs (head, eyes, ears, mouth, throat, heart, navel) ko touch karke Gayatri ki divine shaktiyon ko unme establish kiya jaata hai[17].\n\n---\n\n### **6\\. Advanced Tapas &amp; Self-Purification (१० तप एवं आत्मशोधन की उच्च साधना)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_007",
+    "q_num": 7,
+    "q_global_index": 7,
+    "theme": "7\\. Upanishadic Dialogue & Vedic Structure (उपनिषद् व्याख्या एवं मैत्रेय-मोद्गल्य सम्वाद)",
+    "language": "hi",
+    "question": "'गव्य कल्प तप' तथा 'निष्कासन तप' (पाप-प्रकाशन) का कायिक व मानसिक शुद्धिकरण में क्या विशेष योगदान है?",
+    "expected_answer": "**गव्य कल्प तप** में केवल गौ-दुग्ध, छाछ, घृत या पंचगव्य पर रहकर शरीर के पुराने रक्त-दोषों तथा कायिक विकारों को समूल नष्ट किया जाता है[18]। **निष्कासन तप** में मन में छिपे गुप्त पापों, अपराधों व दुराचारों को किसी विश्वस्त मार्गदर्शक/मित्र के समक्ष प्रकट (प्रकाशित) करके पश्चात्ताप किया जाता है, जिससे चित्त का भारी बोझ उतर जाता है[19]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_007",
+    "q_num": 7,
+    "q_global_index": 7,
+    "theme": "7\\. Upanishadic Dialogue & Vedic Structure (उपनिषद् व्याख्या एवं मैत्रेय-मोद्गल्य सम्वाद)",
+    "language": "en",
+    "question": "What is the specific contribution of 'Gavya Kalpa Tapa' and 'Nishkasan Tapa' to physical and mental purification?",
+    "expected_answer": "**Gavya Kalpa Tapa** involves subsisting exclusively on cow's milk, buttermilk, or Panchagavya, purging deep-seated metabolic toxins and blood impurities[18]. **Nishkasan Tapa** involves openly confessing hidden sins, mistakes, and guilt before a trusted guide/friend, relieving the subconscious mind of heavy psychological burdens[19].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_007",
+    "q_num": 7,
+    "q_global_index": 7,
+    "theme": "7\\. Upanishadic Dialogue & Vedic Structure (उपनिषद् व्याख्या एवं मैत्रेय-मोद्गल्य सम्वाद)",
+    "language": "hinglish",
+    "question": "'Gavya Kalpa Tapa' aur 'Nishkasan Tapa' ka physical aur mental cleaning me kya vishesh role hai?",
+    "expected_answer": "**Gavya Kalpa Tapa** me kewal gaay ke doodh/chhachh par rehkar body ke purane toxins aur blood defects saf kiye jaate hain[18]। **Nishkasan Tapa** me apne andar chhupe paap aur mistakes ko kisi trustworthy guide ke samne confess karke mind ka bojh halka kiya jaata hai[19]।\n\n---\n\n### **7\\. Upanishadic Dialogue &amp; Vedic Structure (उपनिषद् व्याख्या एवं मैत्रेय-मोद्गल्य सम्वाद)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_008",
+    "q_num": 8,
+    "q_global_index": 8,
+    "theme": "8\\. Scriptural Proofs & Rishika Traditions (शास्त्र-प्रमाण एवं ब्रह्मवादिनी परम्परा)",
+    "language": "hi",
+    "question": "मैत्रेय और मोद्गल्य के संवाद के अनुसार सविता, सावित्री तथा भर्ग का वास्तविक तात्विक स्वरूप क्या है?",
+    "expected_answer": "महर्षि मोद्गल्य के अनुसार, **सविता** तेजस्वी परब्रह्म परमात्मा हैं और **सावित्री** उनकी अभिव्यक्ति/अविच्छिन्न शक्ति हैं[20]। अन्न को **भर्ग** (देवता का तेजस्वी रूप) कहा गया है, वेद व छन्द सविता के **वरेण्य** हैं, और कर्म ही वह **'धी'** तत्त्व है जिसके द्वारा सविता सबको प्रेरणा देता है[21]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_008",
+    "q_num": 8,
+    "q_global_index": 8,
+    "theme": "8\\. Scriptural Proofs & Rishika Traditions (शास्त्र-प्रमाण एवं ब्रह्मवादिनी परम्परा)",
+    "language": "en",
+    "question": "According to the dialogue between Maitreya and Maudgalya, what is the essential philosophical nature of Savita, Savitri, and Bharga?",
+    "expected_answer": "According to Maharshi Maudgalya, **Savita** is the Supreme Luminous Consciousness (Parabrahma), while **Savitri** is His inseparable manifest power (*Shakti*)[20]. Food (*Ann*) is declared to be **Bharga**, the Vedas/metres are Savita's **Varenyam**, and righteous Action (*Karma*) is the **'Dhi'** element through which Savita inspires all[21].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_008",
+    "q_num": 8,
+    "q_global_index": 8,
+    "theme": "8\\. Scriptural Proofs & Rishika Traditions (शास्त्र-प्रमाण एवं ब्रह्मवादिनी परम्परा)",
+    "language": "hinglish",
+    "question": "Maitreya aur Maudgalya dialogue ke mutabiq Savita, Savitri aur Bharga ka asli philosophical nature kya hai?",
+    "expected_answer": "Maharshi Maudgalya ke mutabiq, **Savita** Supreme Consciousness (Brahma) hain aur **Savitri** unki inseparable Shakti hain[20]. Food (*Ann*) ko **Bharga** kaha gaya hai, Veda **Varenyam** hain, aur Karma hi voh **'Dhi'** hai jisse Savita sabko inspire karta hai[21].\n\n---\n\n### **8\\. Scriptural Proofs &amp; Rishika Traditions (शास्त्र-प्रमाण एवं ब्रह्मवादिनी परम्परा)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_009",
+    "q_num": 9,
+    "q_global_index": 9,
+    "theme": "9\\. Specialized Anushthan & Yajna Calculations (अनुष्ठान गणित एवं यज्ञ विज्ञान)",
+    "language": "hi",
+    "question": "हारीत धर्मसूत्र तथा तैत्तिरीय ब्राह्मण के अनुसार 'ब्रह्मवादिनी' तथा 'सद्योवधू' में क्या अन्तर है, और यह स्त्रियों के वेदाधिकार को कैसे सिद्ध करता है?",
+    "expected_answer": "हारीत धर्मसूत्र का वचन है: *\"द्विविधाः स्त्रियः। ब्रह्मवादिन्यः सद्योवध्वश्च।\"*[22]। **ब्रह्मवादिनी** नारियाँ यज्ञोपवीत धारण कर अग्निहोत्र, वेदाध्ययन व भिक्षाचर्या करती थीं, जबकि **सद्योवधू** विवाह के समय संक्षिप्त उपनयन संस्कार करके गृहस्थ आश्रम में प्रवेश करती थीं[22]। यह सिद्ध करता है कि स्त्रियों को यज्ञोपवीत तथा वेदाध्ययन का पूर्ण अधिकार था[22][23]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_009",
+    "q_num": 9,
+    "q_global_index": 9,
+    "theme": "9\\. Specialized Anushthan & Yajna Calculations (अनुष्ठान गणित एवं यज्ञ विज्ञान)",
+    "language": "en",
+    "question": "According to Harita Dharmasutra and Taittiriya Brahmana, what is the distinction between 'Brahmawadini' and 'Sadhvovadhu', and how does it establish women's Vedic rights?",
+    "expected_answer": "Harita Dharmasutra states: *\"Two types of women exist: Brahmawadini and Sadhvovadhu\"*[22]. **Brahmawadini** women underwent thread ceremony (*Upanayana*), maintained sacrificial fire (*Agnihotra*), and studied Vedas[22]. **Sadhvovadhu** women underwent brief Upanayana prior to marriage[22]. This proves women's indisputable scriptural right to sacred thread and Vedic study[22][23].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_009",
+    "q_num": 9,
+    "q_global_index": 9,
+    "theme": "9\\. Specialized Anushthan & Yajna Calculations (अनुष्ठान गणित एवं यज्ञ विज्ञान)",
+    "language": "hinglish",
+    "question": "Harita Dharmasutra aur Taittiriya Brahmana ke mutabiq 'Brahmawadini' aur 'Sadhvovadhu' me kya difference hai aur yeh women ke Vedic rights ko kaise prove karta hai?",
+    "expected_answer": "Harita Dharmasutra kehta hai ki do tarah ki women hoti hain: Brahmawadini aur Sadhvovadhu[22]. **Brahmawadini** Janeu pehan kar Agnihotra aur Veda adhyayan karti thi[22]. **Sadhvovadhu** shaadi ke waqt short Upanayana karke grihasth ashram me jaati thi[22]. Isse prove hota hai ki women ko Veda aur Gayatri ka poora right hai[22][23].\n\n---\n\n### **9\\. Specialized Anushthan &amp; Yajna Calculations (अनुष्ठान गणित एवं यज्ञ विज्ञान)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_010",
+    "q_num": 10,
+    "q_global_index": 10,
+    "theme": "10\\. High-Level Tantric Remedies & Technical Applications (विशिष्ट तांत्रिक/नैमित्तिक प्रयोग)",
+    "language": "hi",
+    "question": "गायत्री महाविज्ञान के अनुसार सवा-लाख अनुष्ठान तथा लघु अनुष्ठान के क्या निश्चित नियम, अवधि तथा पूर्णाहुति विधान हैं?",
+    "expected_answer": "**पूर्ण अनुष्ठान** में ४० दिनों में १,२५,००० (सवा लाख) मन्त्र जप (प्रतिदिन ३१-३२ माला) किया जाता है[19][24]। **लघु अनुष्ठान** (जैसे नवदुर्गा में) ९ दिनों में २४,००० मन्त्र जप (प्रतिदिन २७ माला) किया जाता है[25]। अनुष्ठान के अंत में जप संख्या का **दशमांश (१०%)** अथवा परिस्थितिवश **शतांश (१%)** हवन, तर्पण, मार्जन तथा ब्रह्मभोज कराना अनिवार्य है[24][26]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_010",
+    "q_num": 10,
+    "q_global_index": 10,
+    "theme": "10\\. High-Level Tantric Remedies & Technical Applications (विशिष्ट तांत्रिक/नैमित्तिक प्रयोग)",
+    "language": "en",
+    "question": "According to Gayatri Mahavigyan, what are the exact rules, timelines, and Yajna completion ratios for Sawa-Laksh and Mini (Laghu) Anushthans?",
+    "expected_answer": "A **Full Anushthan** requires 1,25,000 chants in 40 days (\\~31-32 rounds daily)[19][24]. A **Laghu Anushthan** (such as during Navratri) requires 24,000 chants in 9 days (27 rounds daily)[25]. Upon completion, a Yajna offering of **10% (Dashansh)** or at least **1% (Shatansh)** of total chant count, along with Tarpan, Marjan, and Brahmabhoj, is mandatory[24][26].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_010",
+    "q_num": 10,
+    "q_global_index": 10,
+    "theme": "10\\. High-Level Tantric Remedies & Technical Applications (विशिष्ट तांत्रिक/नैमित्तिक प्रयोग)",
+    "language": "hinglish",
+    "question": "Gayatri Mahavigyan ke mutabiq Sawa-laksh aur Laghu Anushthan ke kya exact rules, timeline aur Yajna ratios hain?",
+    "expected_answer": "**Poorna Anushthan** me 40 days me 1,25,000 jaap (daily 31-32 mala) hota hai[19][24]. **Laghu Anushthan** (jaise Navratri me) 9 days me 24,000 jaap (daily 27 mala) hota hai[25]. End me jaap count ka **10% (Dashansh)** ya kam se kam **1% (Shatansh)** Yajna, Tarpan aur Brahmabhoj karna zaroori hai[24][26].\n\n---\n\n### **10\\. High-Level Tantric Remedies &amp; Technical Applications (विशिष्ट तांत्रिक/नैमित्तिक प्रयोग)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_011",
+    "q_num": 11,
+    "q_global_index": 11,
+    "theme": "1\\. Trikal Sandhya & The Three Divine Forms (त्रिकाल सन्ध्या एवं रूप-विज्ञान)",
+    "language": "hi",
+    "question": "'श्रीं' तथा 'क्लीं' सम्पुटित गायत्री प्रयोगों की विशेष तांत्रिक सामग्रियाँ, दिशाएँ तथा ध्यान-रूप क्या हैं?",
+    "expected_answer": "**श्रीं प्रयोग (दरिद्रता-नाश):** पीत वस्त्र, पीला आसन, पीला तिलक, पीले पुष्प, पूर्व दिशा, रविवार का उपवास तथा पीताम्बरधारी गजारूढ़ लक्ष्मी-गायत्री का ध्यान[27]। **क्लीं प्रयोग (शत्रु-बाधा/मुकदमा निवारण):** रक्त चन्दन माला, लाल वस्त्र, ऊन का आसन, पश्चिम दिशा, मस्तक पर यज्ञ-भस्म का तिलक तथा खड्गहस्ता सिंहारूढ़ दुर्गा-गायत्री का ध्यान[28]।",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_011",
+    "q_num": 11,
+    "q_global_index": 11,
+    "theme": "1\\. Trikal Sandhya & The Three Divine Forms (त्रिकाल सन्ध्या एवं रूप-विज्ञान)",
+    "language": "en",
+    "question": "What are the specialized ritual directions, ingredients, and visualizations for 'Shreem' and 'Kleem' Samputit Gayatri applications?",
+    "expected_answer": "**Shreem Application (Poverty Removal):** Yellow attire, yellow mat, yellow tilak, yellow flowers, facing East, Sunday fast, meditating on yellow-complexioned Lakshmi-Gayatri seated on an elephant[27]. **Kleem Application (Enemy/Lawsuit Removal):** Red sandalwood rosary, red attire, wool mat, facing West, Yajna-ash tilak, meditating on fierce Durga-Gayatri holding a sword and riding a lion[28].",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_011",
+    "q_num": 11,
+    "q_global_index": 11,
+    "theme": "1\\. Trikal Sandhya & The Three Divine Forms (त्रिकाल सन्ध्या एवं रूप-विज्ञान)",
+    "language": "hinglish",
+    "question": "'Shreem' aur 'Kleem' Samputit Gayatri prayogo ki vishesh directions, materials aur visualizations kya hain?",
+    "expected_answer": "**Shreem Prayog (Poverty removal):** Yellow clothes, yellow mat, yellow flowers, East face, Sunday fast, elephant par baithi yellow Lakshmi-Gayatri ka dhyan[27]. **Kleem Prayog (Enemy/Court case removal):** Red sandalwood mala, red clothes, wool mat, West face, Yajna bhasm tilak, lion par baithi sword-holding Durga-Gayatri ka dhyan[28]\n\n  ### **1\\. Trikal Sandhya &amp; The Three Divine Forms (त्रिकाल सन्ध्या एवं रूप-विज्ञान)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_012",
+    "q_num": 1,
+    "q_global_index": 12,
+    "theme": "2\\. Dream Science & Subconscious Cleansing (साधक का स्वप्न-विज्ञान)",
+    "language": "hi",
+    "question": "त्रिकाल सन्ध्या के अंतर्गत प्रातः (ब्राह्मी), मध्याह्न (सावित्री/माहेश्वरी) तथा सायं (सरस्वती/वैष्णवी) संध्या के ध्यान-रूप, वर्ण, वाहन तथा वेद-सम्बन्ध का क्या शास्त्रीय विधान है?[3]",
+    "expected_answer": "* **प्रातः सन्ध्या (ब्राह्मी):** कुमारी रूप, रक्त वर्ण (लाल), हंसवाहिनी, तीन नेत्र, हाथ में कमण्डलु, जपमाला, पाश व अंकुश; ऋग्वेद संहिता से सम्बद्ध तथा भूलोक स्थित।[3]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_012",
+    "q_num": 1,
+    "q_global_index": 12,
+    "theme": "2\\. Dream Science & Subconscious Cleansing (साधक का स्वप्न-विज्ञान)",
+    "language": "en",
+    "question": "What is the scriptural specification for the three forms, colors, mounts, and Vedic associations during Trikal Sandhya (Morning, Noon, Evening)?[3]",
+    "expected_answer": "* **Morning (Brahmi):** Maiden form, red complexioned, mounted on a Swan (*Hansavahini*), holding rosary, kamandalu, noose, and goad; associated with **Rigveda** and *Bhoohloka*.[3]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_012",
+    "q_num": 1,
+    "q_global_index": 12,
+    "theme": "2\\. Dream Science & Subconscious Cleansing (साधक का स्वप्न-विज्ञान)",
+    "language": "hinglish",
+    "question": "Trikal Sandhya me Morning (Brahmi), Noon (Savitri) aur Evening (Saraswati) ke roop, color, vahan aur Veda connection kya hain?[3]",
+    "expected_answer": "* **Morning (Brahmi):** Red color, Swan (Hans) vahan, 3 eyes, Rigveda connection, Bhoohloka.[3]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_013",
+    "q_num": 2,
+    "q_global_index": 13,
+    "theme": "3\\. Physical & Subtle Signs of Sadhana Completion (साधना परिपाक के १० लक्षण)",
+    "language": "hi",
+    "question": "गायत्री साधना परिपक्व होने पर साधक को आने वाले सार्थक स्वप्नों के ४ मुख्य प्रकार कौन-से हैं?[4][5]",
+    "expected_answer": "1. **कुसंस्कारों का निष्कासन:** भयानक, हिंसक पशुओं, प्राकृतिक आपदाओं या आक्रमण के स्वप्न, जो संचित पाप-संस्कारों के नष्ट होकर बाहर निकलने का प्रतीक हैं।[4]\n    2. **श्रेष्ठ तत्त्वों का प्रकटीकरण:** तीर्थ, मंदिर, देव-प्रतिमाएँ या महापुरुषों के दर्शन।[4]\n    3. **भविष्य-सम्भावना का पूर्वाभास:** भावी घटनाओं का सूक्ष्म संकेत या पूर्व-ज्ञान।[4][5]\n    4. **दिव्य-दर्शन:** इष्टदेव या भगवती का प्रत्यक्ष तेजोमय रूप में दर्शन एवं संवाद।[4][5]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_013",
+    "q_num": 2,
+    "q_global_index": 13,
+    "theme": "3\\. Physical & Subtle Signs of Sadhana Completion (साधना परिपाक के १० लक्षण)",
+    "language": "en",
+    "question": "What are the 4 main categories of meaningful dreams experienced by a practitioner as Gayatri Sadhana matures?[4][5]",
+    "expected_answer": "1. **Purging of Past Samskaras:** Nightmare-like dreams of wild animals or disasters, signifying the explosion and purging of latent karmic impressions.[4]\n    2. **Manifestation of Virtue:** Vision of pilgrimage sites, temples, or holy personages.[4]\n    3. **Precognition:** Forewarning or glimpses of impending future events.[4][5]\n    4. **Divine Vision (Divya-Darshan):** Direct vision, light, or communication from the Divine Mother or Deity.[4][5]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_013",
+    "q_num": 2,
+    "q_global_index": 13,
+    "theme": "3\\. Physical & Subtle Signs of Sadhana Completion (साधना परिपाक के १० लक्षण)",
+    "language": "hinglish",
+    "question": "Gayatri sadhana ke mature hone par sadhak ko aane wale 4 type ke meaningful dreams kaunse hain?[4][5]",
+    "expected_answer": "1. **Purane Samskaro ka Niskasan:** Dangerous animals/disasters ke sapne jo purane paap-samskar bahar nikalne ka sign hain.[4]\n    2. **Good Elements Prakat hona:** Teerth, mandir aur mahapurusho ke darshan.[4]\n    3. **Bhavishya ka Purvabhas:** Future events ke advance clues milna.[4][5]\n    4. **Divya-Darshan:** Direct Divine Mother ya Ishta-dev ke darshan aur baat hona.[4][5]\n\n---\n\n### **3\\. Physical &amp; Subtle Signs of Sadhana Completion (साधना परिपाक के १० लक्षण)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_014",
+    "q_num": 3,
+    "q_global_index": 14,
+    "theme": "4\\. Mantra Anatomy: Gotra, Feet, & Vedangas (गायत्री मन्त्र का कुल-गोत्र विज्ञान)",
+    "language": "hi",
+    "question": "गायत्री साधना के परिपक्व (गर्भ पकने) होने पर साधक के शरीर व चित्त में कौन-से १० प्रत्यक्ष लक्षण प्रकट होते हैं?[6]",
+    "expected_answer": "१. शरीर में हल्कापन व मन में उत्साह, २. अंग-प्रत्यंग से विशेष सुगंध आना, ३. त्वचा में स्निग्धता व कोमलता, ४. तामसिक आहार से अरुचि व सात्त्विक में रुचि, ५. स्वार्थ घटाकर परमार्थ में मन लगना, ६. नेत्रों में ओज-तेज, ७. दूसरों के विचार व कार्य का स्वतः बोध होना, ८. दूसरों के मनोभाव तुरंत समझ आना, ९. भावी घटनाओं का पूर्वाभास, और १०. शाप व आशीर्वाद का तुरंत प्रभावकारी होना।[6]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_014",
+    "q_num": 3,
+    "q_global_index": 14,
+    "theme": "4\\. Mantra Anatomy: Gotra, Feet, & Vedangas (गायत्री मन्त्र का कुल-गोत्र विज्ञान)",
+    "language": "en",
+    "question": "What are the 10 specific physical and mental signs that indicate a practitioner's Sadhana has fully matured (*Siddhi-Prasava*)?[6]",
+    "expected_answer": "1\\. Physical lightness and mental enthusiasm, 2\\. Emanation of a subtle natural fragrance from the body, 3\\. Softness and luster of skin, 4\\. Natural aversion to Tamasik food and love for Sattva, 5\\. Predominance of altruism over selfishness, 6\\. Radiance in eyes, 7\\. Spontaneous verification of thoughts/actions, 8\\. Ability to read others' inner feelings, 9\\. Intuitive precognition of future events, and 10\\. Efficacy of curses and blessings.[6]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_014",
+    "q_num": 3,
+    "q_global_index": 14,
+    "theme": "4\\. Mantra Anatomy: Gotra, Feet, & Vedangas (गायत्री मन्त्र का कुल-गोत्र विज्ञान)",
+    "language": "hinglish",
+    "question": "Gayatri sadhana mature hone par body aur mind me konse 10 signs dikhte hain?[6]",
+    "expected_answer": "1\\. Body me halkapan aur mind me excitement, 2\\. Natural subtle fragrance aana, 3\\. Skin me smoothness aur glow, 4\\. Tamasik khane se nafrat aur Sattvic me interest, 5\\. Selfishness kam hona aur public service me dhyan, 6\\. Aankhon me tej, 7\\. Dusron ke baare me sahi guess hona, 8\\. Dusro ki feeling read kar pana, 9\\. Future events ka pehle se pata chalna, aur 10\\. Curse/Blessing ka immediately work karna.[6]\n\n---\n\n### **4\\. Mantra Anatomy: Gotra, Feet, &amp; Vedangas (गायत्री मन्त्र का कुल-गोत्र विज्ञान)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_015",
+    "q_num": 4,
+    "q_global_index": 15,
+    "theme": "5\\. Four-Part Pranayama Mechanism (प्राणायाम के ४ चरण एवं मन्त्र-विनियोग)",
+    "language": "hi",
+    "question": "सन्ध्या विधान में वर्णित गायत्री का गोत्र, पाद (चरण), कुक्षि (कोख) तथा शीर्ष (मस्तक) क्या हैं?[7]",
+    "expected_answer": "* **गोत्र:** सांख्ययन गोत्र।[7]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_015",
+    "q_num": 4,
+    "q_global_index": 15,
+    "theme": "5\\. Four-Part Pranayama Mechanism (प्राणायाम के ४ चरण एवं मन्त्र-विनियोग)",
+    "language": "en",
+    "question": "What are Gayatri's Gotra, Feet (*Paada*), Directions (*Kukshi*), and Heads (*Sheersha*) according to scriptural commentary?[7]",
+    "expected_answer": "* **Gotra:** Sankhyayana Gotra.[7]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_015",
+    "q_num": 4,
+    "q_global_index": 15,
+    "theme": "5\\. Four-Part Pranayama Mechanism (प्राणायाम के ४ चरण एवं मन्त्र-विनियोग)",
+    "language": "hinglish",
+    "question": "Gayatri ka Gotra, 3 Paada (Feet), 6 Kukshi aur 5 Sheersha (Heads) kya hain?[7]",
+    "expected_answer": "* **Gotra:** Sankhyayana Gotra.[7]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_016",
+    "q_num": 5,
+    "q_global_index": 16,
+    "theme": "6\\. Yagyopaveet's 9 Threads & The 'Naulakha Haar' Metaphor (नवलखा हार रूपक)",
+    "language": "hi",
+    "question": "गायत्री प्राणायाम के ४ चरणों (पूरक, अन्तः कुम्भक, रेचक, बाह्य कुम्भक) में गायत्री मन्त्र के किन-किन भागों का जप तथा क्या भावना की जाती है?[8][9]",
+    "expected_answer": "1. **पूरक (श्वास खींचना):** **'ॐ भूर्भुवः स्वः'** — भावना करें कि विश्वव्यापी दुःखनाशक, सुखस्वरूप ब्रह्म की प्राण-शक्ति नासिका द्वारा भीतर खींच रहे हैं।[9]\n    2. **अन्तः कुम्भक (श्वास रोकना):** **'तत्सवितुर्वरेण्यं'** — भावना करें कि खींचकर लाया गया सविता का तेजस्वी प्राण रोम-रोम में भर रहा है।[9]\n    3. **रेचक (श्वास छोड़ना):** **'भर्गो देवस्य धीमहि'** — भावना करें कि यह दिव्य प्राण पापों का नाश करता हुआ अशुद्धियों को बाहर निकाल रहा है।[9]\n    4. **बाह्य कुम्भक (बाहर रोकना):** **'धियो यो नः प्रचोदयात्'** — भावना करें कि वेदमाता गायत्री हमारी बुद्धि को निरंतर सन्मार्ग में प्रेरित कर रही हैं।[9]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_016",
+    "q_num": 5,
+    "q_global_index": 16,
+    "theme": "6\\. Yagyopaveet's 9 Threads & The 'Naulakha Haar' Metaphor (नवलखा हार रूपक)",
+    "language": "en",
+    "question": "What are the assigned mantra portions and visualizations for the 4 stages of Gayatri Pranayama (Puraka, Antah-Kumbhaka, Rechaka, Bahya-Kumbhaka)?[8][9]",
+    "expected_answer": "1. **Puraka (Inhalation):** **'Om Bhoor Bhuva Swah'** — Visualize inhaling the cosmic life-force of God into the body.[9]\n  2. **Antah-Kumbhaka (Retention inside):** **'Tatsavitur Varenyam'** — Visualize the radiant solar energy pervading every cell and organ.[9]\n  3. **Rechaka (Exhalation):** **'Bhargo Devasya Dheemahi'** — Visualize exhaling all internal sins, impurities, and diseases out of the system.[9]\n  4. **Bahya-Kumbhaka (Retention outside):** **'Dhiyo Yo Nah Prachodayat'** — Visualize Mother Gayatri inspiring the intellect towards righteousness.[9]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_017",
+    "q_num": 6,
+    "q_global_index": 17,
+    "theme": "7\\. Annual Udyapan Sadhana for Busy Practitioners (एक वर्ष की उद्यापन साधना)",
+    "language": "hi",
+    "question": "गायत्री महाविज्ञान में यज्ञोपवीत के ९ तन्तुओं (धागों) को 'नवलखा हार' क्यों कहा गया है और ये ९ तन्तु किन ९ जीवन-सिद्धान्तों के आदेश देते हैं?[10]",
+    "expected_answer": "जैसे ९ लाख रुपये का बहुमूल्य हार 'नवलखा हार' कहलाता है, वैसे ही यज्ञोपवीत के ९ तन्तु ९ अमूल्य आध्यात्मिक रत्नों (गुणों) के प्रतीक हैं:[10] १. **जीवन विज्ञान** (आत्मा-परमात्मा का ज्ञान), २. **शक्ति संचय** (स्वास्थ्य व प्राण संरक्षण), ३. **श्रेष्ठता** (उच्च आदर्श), ४. **सत्य**, ५. **संयम**, ६. **सेवा**, ७. **कर्तव्य-पालन**, ८. **सद्बुद्धि**, ९. **विवेक**। इन गुणों को धारण करने वाला साधक अलौकिक आत्म-सम्पदा का स्वामी बनता है।[10]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_017",
+    "q_num": 6,
+    "q_global_index": 17,
+    "theme": "7\\. Annual Udyapan Sadhana for Busy Practitioners (एक वर्ष की उद्यापन साधना)",
+    "language": "en",
+    "question": "Why are the 9 threads of the Yagyopaveet compared to a 'Naulakha Haar' (priceless necklace), and what 9 life principles do they represent?[10]",
+    "expected_answer": "Just as a priceless diamond necklace is called 'Naulakha', the 9 strands of Yagyopaveet represent 9 invaluable spiritual virtues:[10]\n    1. **Science of Life** (Soul-knowledge), 2\\. **Energy Accumulation** (Vitality/Health), 3\\. **Excellence** (High ideals), 4\\. **Truth**, 5\\. **Restraint/Control**, 6\\. **Selfless Service**, 7\\. **Duty-Consciousness**, 8\\. **Righteous Intellect**, 9\\. **Wisdom (Vivek)**. Embodying these renders a practitioner spiritually wealthy beyond measure.[10]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_017",
+    "q_num": 6,
+    "q_global_index": 17,
+    "theme": "7\\. Annual Udyapan Sadhana for Busy Practitioners (एक वर्ष की उद्यापन साधना)",
+    "language": "hinglish",
+    "question": "Yagyopaveet ke 9 dhagon ko 'Naulakha Haar' kyu bola gaya hai aur yeh 9 threads konse principles dikhate hain?[10]",
+    "expected_answer": "Jaise 9 lakh ka necklace 'Naulakha' hota hai, waise hi Janeu ke 9 threads 9 priceless spiritual values dikhate hain:[10]\n    1. Life Science (Aatma-gyan), 2\\. Energy Collection (Health), 3\\. Excellence (High principles), 4\\. Truth (Satya), 5\\. Sanyam, 6\\. Service (Sewa), 7\\. Duty, 8\\. Sadbuddhi, 9\\. Vivek.[10]\n\n---\n\n### **7\\. Annual Udyapan Sadhana for Busy Practitioners (एक वर्ष की उद्यापन साधना)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_018",
+    "q_num": 7,
+    "q_global_index": 18,
+    "theme": "8\\. Pratigraha Neutralization Mechanism (प्रतिग्रह एवं दोष-निवारण)",
+    "language": "hi",
+    "question": "अत्यधिक व्यस्त गृहस्थों के लिए १ वर्ष की 'गायत्री उद्यापन साधना' का क्या नियमित मासिक विधान बताया गया है?[11][12]",
+    "expected_answer": "व्यस्त व्यक्तियों के लिए प्रति मास **अमावस्या तथा पूर्णिमा** को उद्यापन साधना का विधान है:[11] १. किसी सदाचारी योग्य ब्राह्मण को ब्रह्मा नियुक्त कर वरण करना।[11] २. अमावस्या व पूर्णिमा को उपवास या एक समय सात्त्विक भोजन/दुग्धाहार रखना।[11] ३. प्रातःकाल गायत्री प्रतिमा/चित्र का पूजन कर १० माला जप करना।[12] ४. माटी/तांबे के पात्र में घृत-आहुति (हवन) देना तथा आरती व नैवेद्य वितरण करना।[12] ५. वर्ष के अंत में पूर्णिमा को ब्राह्मण-भोजन, साहित्य-दान व यथाशक्ति दक्षिणा देकर विदाई करना।[12]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_018",
+    "q_num": 7,
+    "q_global_index": 18,
+    "theme": "8\\. Pratigraha Neutralization Mechanism (प्रतिग्रह एवं दोष-निवारण)",
+    "language": "en",
+    "question": "What is the specific monthly procedure for the 1-year 'Gayatri Udyapan Sadhana' designed for busy householders?[11][12]",
+    "expected_answer": "For busy individuals, Udyapan Sadhana is performed on every **Amavasya (New Moon) and Purnima (Full Moon)** for one year:[11]\n    1. Appoint a virtuous Brahmana as 'Brahma' guide.[11]\n    2. Observe fast or single Sattvic meal on Amavasya and Purnima.[11]\n    3. Perform Gayatri worship and chant 10 rounds of Mala in the morning.[12]\n    4. Offer Ghee oblations in fire, perform Aarti, and distribute Prasad.[12]\n    5. At the 1-year mark, conclude with Brahmana-bhoj, spiritual book donation, and Dakshina.[12]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_018",
+    "q_num": 7,
+    "q_global_index": 18,
+    "theme": "8\\. Pratigraha Neutralization Mechanism (प्रतिग्रह एवं दोष-निवारण)",
+    "language": "hinglish",
+    "question": "Busy logo ke liye 1 year ki 'Gayatri Udyapan Sadhana' ka monthly rules kya hain?[11][12]",
+    "expected_answer": "Har month ki **Amavasya aur Purnima** ko yeh sadhana hoti hai:[11]\n    1. Sahi Pandit ko 'Brahma' choose karein.[11]\n    2. Fast ya 1 time khana khayein.[11]\n    3. Morning me Gayatri pujan karke 10 mala jaap karein.[12]\n    4. Havan/Ghee ki aahuti dekar Aarti aur Prasad baantein.[12]\n    5. 1 year poora hone par Pandit-bhoj, Gayatri books daan aur Dakshina dekar complete karein.[12]\n\n---\n\n### **8\\. Pratigraha Neutralization Mechanism (प्रतिग्रह एवं दोष-निवारण)**",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HI_019",
+    "q_num": 8,
+    "q_global_index": 19,
+    "theme": "8\\. Pratigraha Neutralization Mechanism (प्रतिग्रह एवं दोष-निवारण)",
+    "language": "hi",
+    "question": "गायत्री मन्त्र की साधना करने वाले व्यक्ति द्वारा अवांछित दान या दान-प्रतिग्रह (Pratigraha) लेने पर भी उसका पाप-दोष क्यों नष्ट हो जाता है?[13]",
+    "expected_answer": "बृहदारण्यक उपनिषद् (५/१४/५-६) के अनुसार, यदि गायत्री साधक तीनों लोकों (पृथ्वी, अंतरिक्ष, स्वर्ग) का दान प्रतिग्रह के रूप में स्वीकार कर ले, तो भी गायत्री के **प्रथम पाद** का एक बार उच्चारण करने से उसका दोष नष्ट हो जाता है; स्थावर-जंगम प्राणियों के प्रतिग्रह का दोष **द्वितीय पाद** से, तथा संपूर्ण ब्रह्मांड के दान का दोष **तृतीय पाद** से भस्म हो जाता है।[13]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_EN_019",
+    "q_num": 8,
+    "q_global_index": 19,
+    "theme": "8\\. Pratigraha Neutralization Mechanism (प्रतिग्रह एवं दोष-निवारण)",
+    "language": "en",
+    "question": "Why does taking unearned donations/gifts (*Pratigraha*) not corrupt a dedicated Gayatri practitioner according to the Brihadaranyaka Upanishad citation in the text?[13]",
+    "expected_answer": "According to Brihadaranyaka Upanishad (5/14/5-6) cited in the text, even if a Gayatri practitioner accepts gifts equivalent to the three worlds, chanting the **1st foot** of Gayatri absolves the defect of taking earth's gifts; the **2nd foot** absolves the defect of all living beings' gifts; and the **3rd foot** absolves the cosmic gifts' defects, leaving the practitioner untainted.[13]",
+    "answerable": true
+  },
+  {
+    "id": "DIFF_HING_019",
+    "q_num": 8,
+    "q_global_index": 19,
+    "theme": "8\\. Pratigraha Neutralization Mechanism (प्रतिग्रह एवं दोष-निवारण)",
+    "language": "hinglish",
+    "question": "Gayatri sadhak jab koi unearned gift/donation (Pratigraha) leta hai toh use paap kyu nahi lagta?[13]",
+    "expected_answer": "Brihadaranyaka Upanishad ke mutabiq, Gayatri ka **1st foot** bolne se earth ke gifts ka defect saf hota hai, **2nd foot** se sabhi living beings ke gifts ka defect, aur **3rd foot** se poore universe ke gifts ka defect burn ho jaata hai, isliye sadhak pure rehta hai",
+    "answerable": true
+  }
+]
