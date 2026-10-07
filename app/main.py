@@ -1,5 +1,8 @@
+from pathlib import Path
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from app.config import settings
 from app.api import (
     health_router,
@@ -29,9 +32,17 @@ app.include_router(search_router)
 app.include_router(chat_router)
 app.include_router(ingest_router)
 
+STATIC_DIR = Path(__file__).resolve().parent / "static"
 
-@app.get("/")
+if STATIC_DIR.exists():
+    app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
+
+
+@app.get("/", include_in_schema=False)
 def root():
+    index_file = STATIC_DIR / "index.html"
+    if index_file.exists():
+        return FileResponse(str(index_file))
     return {
         "message": f"Welcome to {settings.APP_NAME}",
         "docs_url": "/docs",
