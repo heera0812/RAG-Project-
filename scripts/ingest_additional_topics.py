@@ -54,6 +54,54 @@ ADDITIONAL_KNOWLEDGE = [
         ),
         "page": 172,
     },
+    {
+        "id": "TOPIC_GAYATRI_DARSHAN_03",
+        "section": "Darshan & Divine Realization (माँ गायत्री का सुलभ दर्शन एवं साक्षात्कार)",
+        "question": "How to get darshan of lord Gayatri (माँ गायत्री का दर्शन एवं साक्षात्कार कैसे प्राप्त करें)?",
+        "question_hi": "गायत्री माता का दर्शन एवं साक्षात्कार कैसे प्राप्त करें?",
+        "content": (
+            "Scripture / Book: गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)\n"
+            "Theme / Subject: Darshan & Divine Realization (माँ गायत्री का सुलभ दर्शन एवं साक्षात्कार)\n"
+            "Question / Query: How to get darshan of lord Gayatri (divine vision, realization, or inner communion of Mother Gayatri)?\n"
+            "Authorized Spiritual Guidance: In Gayatri Mahavigyan, obtaining the Darshan (divine vision, realization, or inner communion) of Mother Gayatri "
+            "is described by Pandit Shriram Sharma Acharya as a systematic, spiritual science of inner purification and meditation:\n"
+            "1. Understanding Her True Nature: Gayatri is not merely an external physical deity, but the primordial cosmic energy (Aadya-Shakti), divine light "
+            "(Brahma-Tej), and righteous intellect residing within the inner self (Antahkaran). Therefore, Her Darshan is both an inner realization of the divine "
+            "soul-light and a direct connection with Her subtle presence.\n"
+            "2. Purification of the Inner Self (Manobhoomi Shuddhi): Just as a clean, polished mirror clearly reflects a face while a dirty mirror hides it, the mind "
+            "must be cleansed of ego, greed, and negative desires. As Satoguna (purity) increases through regular Sadhana, the dark layer covering the soul dissolves, "
+            "allowing the divine light of Mother Gayatri to manifest clearly.\n"
+            "3. Forms in Which Darshan Manifests: Luminous Light (Jyoti Roop) as a radiant flame in the heart center or eyebrow center (Triputi); Visual Form (Sakar Roop) "
+            "seeing Mother Gayatri (such as Hansvahini, seated on a lotus) during deep meditation (Dhyan), dreams (Swapna), or waking consciousness; Divine Inner Voice "
+            "(Vartalaap) receiving clear inner inspiration and intuitive wisdom within a quieted mind; Self-Realization (Aatma-Darshan) realizing the divine spark of God within one's soul.\n"
+            "4. Practical Meditation Technique for Seeking Her Darshan: Sit comfortably in a quiet, clean space; close eyes and meditate on Gayatri Shakti at the heart center "
+            "— either as radiant light (Jyoti) or Her visual form (Hansvahini) — feeling Her presence for about 10 minutes; take three slow deep breaths contemplating cosmic divine energy "
+            "entering every cell; enter thoughtless stillness (Vichar-Shoonya) releasing mental images; in this quietude, a subtle inner impulse (Sphurana) arises spontaneously granting guidance and peace.\n"
+            "5. Essential Mindset: Seeking Her Darshan requires unselfish devotion, faith, and a focus on spiritual growth, self-transformation, and noble service rather than material greed.\n"
+            "Core Spiritual Concepts: how to get darshan of lord gayatri, darshan of gayatri, gayatri darshan, gayatri sakshatkar, divine vision of gayatri, communion with gayatri, aadya shakti, brahma tej, manobhoomi shuddhi, jyoti roop, sakar roop, hansvahini, vichar-shoonya, sphurana, aatma darshan\n"
+        ),
+        "page": 173,
+    },
+    {
+        "id": "TOPIC_GAYATRI_DARSHAN_HI_04",
+        "section": "माँ गायत्री का सुलभ दर्शन एवं साक्षात्कार साधना",
+        "question": "माँ गायत्री का दर्शन और साक्षात्कार कैसे प्राप्त करें?",
+        "question_hi": "गायत्री माता का दर्शन एवं साक्षात्कार कैसे प्राप्त करें?",
+        "content": (
+            "ग्रन्थ / Book: गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)\n"
+            "विषय / Subject: माँ गायत्री का सुलभ दर्शन एवं साक्षात्कार (Darshan of Mother Gayatri)\n"
+            "जिज्ञासा / Question: माँ गायत्री का दर्शन और साक्षात्कार कैसे प्राप्त करें (How to get darshan of lord Gayatri)?\n"
+            "प्रमाणिक आध्यात्मिक मार्गदर्शन: पूज्य गुरुदेव पं. श्रीराम शर्मा आचार्य जी ने गायत्री महाविज्ञान में स्पष्ट किया है कि गायत्री कोई स्वतंत्र भौतिक देवी-देवता नहीं हैं, "
+            "बल्कि परब्रह्म परमात्मा की क्रियाशील आद्याशक्ति, ब्रह्म-तेज और अंतःकरण में प्रतिष्ठित सद्बुद्धि हैं। गायत्री का दर्शन अंतःकरण में भगवती चेतना के साक्षात्कार का विज्ञान है:\n"
+            "१. मनोभूमि की शुद्धि: जिस प्रकार स्वच्छ शीशे में ही अपना मुख स्पष्ट दिखता है, उसी प्रकार वासनाओं, अहंकार और लोभ से मुक्त निर्मल अंतःकरण में ही माँ गायत्री का प्रकाश झलकता है। "
+            "साधना से सतोगुण की वृद्धि होने पर मलिनता हटती है और दिव्य दर्शन सुलभ होता है।\n"
+            "२. दर्शन के मुख्य स्वरूप: ज्योति रूप (हृदय या भ्रूमध्य में ज्योतिर्मय प्रकाश का अनुभव), साकार रूप (कमल पर विराजमान हंसवाहिनी माँ का ध्यान या स्वप्न में दर्शन), अंतर्वाणी (शांत चित्त में सत्प्रेरणा व मार्गदर्शन), आत्मदर्शन (स्वयं की आत्मा में परमात्मा की उपस्थिति का साक्षात्कार)।\n"
+            "३. सुलभ ध्यान-साधना विधि: पवित्र भाव से बैठकर हृदय में माँ गायत्री के ज्योति स्वरूप या हंसवाहिनी रूप का १० मिनट ध्यान करें; तीन प्राणायाम द्वारा ब्रह्माण्डीय प्राण-शक्ति का आकर्षण करें; फिर मन को पूर्णतः विचार-शून्य (निर्विकल्प) कर दें। इस शांत अवस्था में जो स्फुरणा (दिव्य प्रेरणा) उठती है, वही माँ गायत्री का प्रत्यक्ष मार्गदर्शन व साक्षात्कार है।\n"
+            "४. आवश्यक दृष्टिकोण: निष्काम भक्ति, सेवाभाव और आत्म-परिष्कार ही दर्शन का मूल आधार है।\n"
+            "मुख्य पारिभाषिक शब्द: गायत्री दर्शन, माँ गायत्री का दर्शन, Gayatri Darshan, how to get darshan of lord gayatri, साक्षात्कार, सुलभ दर्शन, ज्योति रूप, हंसवाहिनी, मनोभूमि शुद्धि, विचार-शून्य, स्फुरणा, आत्मदर्शन\n"
+        ),
+        "page": 174,
+    },
 ]
 
 
