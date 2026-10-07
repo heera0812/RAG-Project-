@@ -1,4 +1,5 @@
 import os
+from typing import Optional
 from pathlib import Path
 from pydantic_settings import BaseSettings
 from pydantic import ConfigDict
@@ -43,6 +44,10 @@ class Settings(BaseSettings):
     ]
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")
     COLLECTION_NAME: str = "shantikunj_authorized_chunks"
+
+    # NotebookLM Integration
+    NOTEBOOKLM_ENABLED: bool = os.getenv("NOTEBOOKLM_ENABLED", "true").lower() in ("true", "1")
+    NOTEBOOKLM_NOTEBOOK_ID: Optional[str] = os.getenv("NOTEBOOKLM_NOTEBOOK_ID", None)
 
     # Retrieval Tuning
     RETRIEVAL_CANDIDATES: int = 10

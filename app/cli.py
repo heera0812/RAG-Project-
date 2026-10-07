@@ -78,13 +78,20 @@ def ask_question(question: str, language: Optional[str] = None):
     print("=" * 65 + "\n")
 
 
+from app.retrieval.notebooklm_engine import notebooklm_engine
+
+
 def interactive_loop(default_lang: Optional[str] = None):
     """Run an interactive conversation loop in the terminal."""
+    nlm_auth = notebooklm_engine.is_authenticated()
+    nlm_status = "🟢 Connected (Google Gemini Notebook)" if nlm_auth else "⚪ Ready (type 'login' or run 'python -m notebooklm login' to connect)"
+
     print("=" * 65)
     print("    🕊️  SHANTIKUNJ AI — INTERACTIVE TERMINAL ASSISTANT  🕊️")
     print("=" * 65)
     print("Role: Interpreter & Applicator of Gurudev's Thoughts (AI is NOT Guru)")
     print("Formula: Gurudev ka Sandesh → Samajhna → Jeevan me Lagu Karna")
+    print(f"Gemini NotebookLM: {nlm_status}")
     print("-" * 65)
     print("Ask questions in Hindi, Hinglish, or English.")
     print("Tip: Type 'suvichar' or 'aaj ka sandesh' for daily reflection.")
