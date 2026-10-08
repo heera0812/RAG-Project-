@@ -12,7 +12,7 @@ def get_health():
     chunk_count = metadata_repo.count_chunks()
     vector_count = vector_repo.count()
 
-    return {
+    response = {
         "status": "healthy",
         "app_name": settings.APP_NAME,
         "version": settings.APP_VERSION,
@@ -23,3 +23,13 @@ def get_health():
         "embedding_model": settings.EMBEDDING_MODEL,
         "llm_model": settings.LLM_MODEL,
     }
+
+    if settings.RAG_BEGINNERS_URL:
+        response["internal_services"] = {
+            "rag_for_beginners": {
+                "bound": True,
+                "url": settings.RAG_BEGINNERS_URL,
+            }
+        }
+
+    return response

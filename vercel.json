@@ -1,0 +1,31 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "app": {
+      "root": ".",
+      "framework": "fastapi",
+      "entrypoint": "main.py",
+      "bindings": [
+        {
+          "type": "service",
+          "service": "rag-for-beginners",
+          "format": "url",
+          "env": "RAG_BEGINNERS_URL"
+        }
+      ]
+    },
+    "rag-for-beginners": {
+      "root": "rag-for-beginners",
+      "framework": "fastapi",
+      "entrypoint": "main.py"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": {
+        "service": "app"
+      }
+    }
+  ]
+}

@@ -49,6 +49,9 @@ class Settings(BaseSettings):
     NOTEBOOKLM_ENABLED: bool = os.getenv("NOTEBOOKLM_ENABLED", "true").lower() in ("true", "1")
     NOTEBOOKLM_NOTEBOOK_ID: Optional[str] = os.getenv("NOTEBOOKLM_NOTEBOOK_ID", None)
 
+    # Vercel Internal Service Bindings
+    RAG_BEGINNERS_URL: Optional[str] = os.getenv("RAG_BEGINNERS_URL", None)
+
     # Retrieval Tuning
     RETRIEVAL_CANDIDATES: int = 10
     RETRIEVAL_TOP_K: int = 4
