@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const deviceFrame = document.getElementById("deviceFrame");
   const togglePhoneBtn = document.getElementById("togglePhoneBtn");
   const toggleFullBtn = document.getElementById("toggleFullBtn");
+  const toggleThemeBtn = document.getElementById("toggleThemeBtn");
   const currentTimeEl = document.getElementById("currentTime");
   const headerStatusEl = document.getElementById("headerStatus");
   const chatArea = document.getElementById("chatArea");
@@ -19,6 +20,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   let conversationId = "conv_" + Math.random().toString(36).substring(2, 10);
   let isSending = false;
+
+  // Set Emerald Theme by default matching reference artwork & screenshot
+  document.body.classList.add("emerald-theme");
 
   // 1. Time Update
   function updateClock() {
@@ -43,7 +47,15 @@ document.addEventListener("DOMContentLoaded", () => {
     return `${hours}:${minutes} ${ampm}`;
   }
 
-  // 2. View Mode Toggling (Phone Frame vs Full View)
+  // 2. View Mode & Theme Toggling
+  if (toggleThemeBtn) {
+    toggleThemeBtn.addEventListener("click", () => {
+      const isEmerald = document.body.classList.toggle("emerald-theme");
+      toggleThemeBtn.textContent = isEmerald ? "🌿 Emerald Theme" : "☀️ Classic Theme";
+      toggleThemeBtn.classList.toggle("active", isEmerald);
+    });
+  }
+
   if (togglePhoneBtn && toggleFullBtn && deviceFrame) {
     togglePhoneBtn.addEventListener("click", () => {
       deviceFrame.classList.remove("full-view");
@@ -65,7 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 50);
   }
 
-  // 4. Format Text (Markdown-like bold & linebreaks)
+  // 4. Format Text (Markdown-like bold & linebreaks, structured reflection)
   function formatText(text) {
     if (!text) return "";
     let safe = text
@@ -79,7 +91,16 @@ document.addEventListener("DOMContentLoaded", () => {
     // Split paragraphs
     const paragraphs = safe.split(/\n\s*\n/);
     return paragraphs
-      .map((p) => `<p>${p.replace(/\n/g, "<br>")}</p>`)
+      .map((p) => {
+        let trimmed = p.trim();
+        if (trimmed.startsWith("📜 ANSWER:") || trimmed.startsWith("📜 उत्तर:")) {
+          const lines = trimmed.split(/\n/);
+          const header = lines[0];
+          const rest = lines.slice(1).join("<br>");
+          return `<div class="answer-header">${header}</div>` + (rest ? `<p class="reflection-p">${rest}</p>` : "");
+        }
+        return `<p class="reflection-p">${trimmed.replace(/\n/g, "<br>")}</p>`;
+      })
       .join("");
   }
 

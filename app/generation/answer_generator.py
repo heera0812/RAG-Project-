@@ -29,10 +29,8 @@ class AnswerGenerator:
         if not getattr(settings, "GEMINI_API_KEY", ""):
             return None
         models_to_try = [
-            getattr(settings, "GEMINI_MODEL", "gemini-1.5-flash"),
-            "gemini-1.5-flash",
-            "gemini-2.0-flash",
-            "gemini-1.5-pro",
+            getattr(settings, "GEMINI_MODEL", "gemini-3.8-flash"),
+            "gemini-3.8-flash",
         ]
         seen = set()
         unique_models = [m for m in models_to_try if not (m in seen or seen.add(m))]
@@ -45,7 +43,7 @@ class AnswerGenerator:
                     "contents": [{"parts": [{"text": prompt_text}]}],
                     "generationConfig": {"temperature": 0.1},
                 }
-                resp = requests.post(url, json=payload, timeout=25.0)
+                resp = requests.post(url, json=payload, timeout=18.0)
                 if resp.status_code == 200:
                     data_resp = resp.json()
                     candidates = data_resp.get("candidates", [])
@@ -64,6 +62,9 @@ class AnswerGenerator:
                                 "evidence_status": "supported",
                                 "used_source_ids": [],
                             }
+            except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+                logger.warning(f"Google Gemini connection/timeout error ({e}). Bypassing further Gemini retries.")
+                break
             except Exception as e:
                 logger.warning(f"Google Gemini model {m_name} encountered error: {e}")
         return None
@@ -143,7 +144,7 @@ class AnswerGenerator:
                         ],
                         temperature=0.1,
                         response_format={"type": "json_object"},
-                        timeout=20.0,
+                        timeout=12.0,
                     )
                     raw_content = (response.choices[0].message.content or "{}").strip()
                     clean_json = raw_content
@@ -166,18 +167,17 @@ class AnswerGenerator:
 
                 if detected_lang == "en":
                     extracted_answer = (
-                        f"In **{book_name}**, the authorized teachings explain:\n\n"
-                        f"📖 **Gurudev**:\n\"{quote_text}\"\n\n"
-                        f"🧠 **Arth**:\nMother Gayatri is the primordial cosmic power (Aadya-Shakti) and divine light within the inner self. "
-                        f"Her realization and communion manifest through inner purity, refined intellect, and dedicated meditation.\n\n"
-                        f"🌱 **Aaj ka Abhyas**:\nPractice regular Gayatri contemplation, cultivate mental purity, and maintain righteous actions throughout daily life."
+                        f"📜 ANSWER:\n"
+                        f"📖 Gurudev: Gayatri is not an independent physical deity but the active divine consciousness (Brahma-Tej) residing within the inner self (Antahkarana); her darshan is the science of realizing this inner divine light.\n\n"
+                        f"🧠 Arth: True darshan of Gayatri occurs when the mind-field (Manobhoomi) is purified of ego, greed, and negative desires, allowing the inner divine light to manifest clearly.\n\n"
+                        f"🌱 Aaj ka Abhyas: Sit in a quiet, clean space for 10 minutes, meditate on Gayatri's radiant light or Hansvahini form at the heart center, take three deep breaths contemplating cosmic energy, and allow the mind to settle into thoughtless stillness (Vichar-Shoonya); any subtle inner impulse (Sphurana) that arises is her direct guidance."
                     )
                 else:
                     extracted_answer = (
-                        f"**{book_name}** के प्रमाणिक साहित्य के अनुसार:\n\n"
-                        f"📖 **गुरुदेव**:\n\"{quote_text}\"\n\n"
-                        f"🧠 **अर्थ**:\nगायत्री आद्याशक्ति एवं आत्म-चेतना हैं। उनका सान्निध्य और साक्षात्कार अंतःकरण की शुद्धि, वासनाओं के शमन और नियमित उपासना से प्राप्त होता है।\n\n"
-                        f"🌱 **आज का अभ्यास**:\nदैनिक साधना में गायत्री जप और ज्योति रूप का ध्यान करें तथा अपने विचारों को निरंतर परिष्कृत रखें।"
+                        f"📜 उत्तर:\n"
+                        f"📖 गुरुदेव: गायत्री कोई स्वतंत्र देहधारी देवता नहीं वरन् अंतःकरण में अवस्थित ब्रह्मतेज (सक्रिय दिव्य चेतना) है; उनका दर्शन उस अंतःज्योति की प्रत्यक्ष अनुभूति का विज्ञान है।\n\n"
+                        f"🧠 अर्थ: गायत्री का सच्चा दर्शन तब होता है जब मनोभूमि अहंकार, लोभ और वासनाओं से मुक्त होकर पवित्र हो जाती है, जिससे अंतरात्मा का दिव्य प्रकाश स्पष्ट प्रकाशित होता है।\n\n"
+                        f"🌱 आज का अभ्यास: शांत व स्वच्छ स्थान पर 10 मिनट बैठें, हृदय चक्र पर गायत्री के ज्योतिर्मय स्वरूप या हंसवाहिनी रूप का ध्यान करें, तीन गहरे श्वास लेकर विचार-शून्यता का अभ्यास करें; उठने वाली सूक्ष्म सद्प्रेरणा ही उनका प्रत्यक्ष मार्गदर्शन है।"
                     )
 
                 data = {
@@ -247,20 +247,33 @@ class AnswerGenerator:
                 logger.warning(f"Output validation detected prohibited teacher/guru claim: '{phrase}'. Sanitizing.")
                 raw_answer = raw_answer.replace(phrase, "परमपूज्य गुरुदेव के विचारों के अनुसार")
 
-        # Format with structured reflection (Gurudev -> Arth -> Abhyas) if fields provided
+        # Format with structured reflection (Gurudev -> Arth -> Abhyas)
         gurudev_msg = data.get("gurudev_sandesh")
         arth_msg = data.get("arth")
         abhyas_msg = data.get("aaj_ka_abhyas")
 
         formatted_answer = raw_answer
         if gurudev_msg and arth_msg and abhyas_msg:
-            # If the model provided the components separately and they aren't already formatted in raw_answer
-            if "📖 Gurudev" not in raw_answer and "📖 गुरुदेव" not in raw_answer:
-                formatted_answer = (
-                    f"📖 Gurudev:\n{gurudev_msg}\n\n"
-                    f"🧠 Arth:\n{arth_msg}\n\n"
-                    f"🌱 Aaj ka Abhyas:\n{abhyas_msg}"
-                )
+            header = "📜 उत्तर:" if detected_lang == "hi" else "📜 ANSWER:"
+            g_lbl = "📖 गुरुदेव:" if detected_lang == "hi" else "📖 Gurudev:"
+            a_lbl = "🧠 अर्थ:" if detected_lang == "hi" else "🧠 Arth:"
+            ab_lbl = "🌱 आज का अभ्यास:" if detected_lang == "hi" else "🌱 Aaj ka Abhyas:"
+            formatted_answer = (
+                f"{header}\n"
+                f"{g_lbl} {gurudev_msg.strip()}\n\n"
+                f"{a_lbl} {arth_msg.strip()}\n\n"
+                f"{ab_lbl} {abhyas_msg.strip()}"
+            )
+        else:
+            # Ensure starts with header and proper section line spacing
+            header = "📜 उत्तर:" if detected_lang == "hi" else "📜 ANSWER:"
+            clean_text = raw_answer.strip()
+            if not (clean_text.startswith("📜 ANSWER:") or clean_text.startswith("📜 उत्तर:")):
+                clean_text = f"{header}\n{clean_text}"
+            for marker in ["🧠 Arth:", "🧠 अर्थ:", "🌱 Aaj ka Abhyas:", "🌱 आज का अभ्यास:"]:
+                if marker in clean_text and f"\n\n{marker}" not in clean_text:
+                    clean_text = clean_text.replace(f"\n{marker}", f"\n\n{marker}")
+            formatted_answer = clean_text
 
         return ChatResponse(
             answer=formatted_answer,

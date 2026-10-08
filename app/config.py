@@ -32,17 +32,15 @@ class Settings(BaseSettings):
     OPENROUTER_BASE_URL: str = os.getenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
     OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
-    GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+    GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 
     # Models
     LLM_MODEL: str = os.getenv("LLM_MODEL", "nvidia/nemotron-3.5-lightning:free")
     OCR_MODEL: str = os.getenv("OCR_MODEL", "google/gemma-4-26b-a4b-it:free")
     FALLBACK_MODELS: list = [
         "nvidia/nemotron-3.5-lightning:free",
-        "meta-llama/llama-3.3-70b-instruct:free",
-        "mistralai/mistral-small-24b-instruct-2501:free",
-        "google/gemma-4-26b-a4b-it:free",
-        "google/gemma-4-31b-it:free",
+        "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "liquid/lfm-2.5-2.6b:free",
     ]
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")
     COLLECTION_NAME: str = "shantikunj_authorized_chunks"

@@ -58,7 +58,10 @@ def ask_question(question: str, language: Optional[str] = None):
     print(f"🎯 RETRIEVAL CONFIDENCE: {response.retrieval_confidence.upper()}")
     print("-" * 65)
 
-    print("\n📜 ANSWER:")
+    if not (response.answer.startswith("📜 ANSWER:") or response.answer.startswith("📜 उत्तर:")):
+        print("\n📜 ANSWER:")
+    else:
+        print()
     print(response.answer)
 
     if response.sources:
