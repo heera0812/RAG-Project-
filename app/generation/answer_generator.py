@@ -131,7 +131,7 @@ class AnswerGenerator:
 
         # 2c. Candidate model fallback loop if direct engines not used
         if not data:
-            candidate_models = [self.model] + [m for m in getattr(settings, "FALLBACK_MODELS", []) if m != self.model]
+            candidate_models = [settings.LLM_MODEL] + [m for m in getattr(settings, "FALLBACK_MODELS", []) if m != settings.LLM_MODEL]
 
             for model_name in candidate_models:
                 try:

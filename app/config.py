@@ -35,13 +35,13 @@ class Settings(BaseSettings):
     GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
 
     # Models
-    LLM_MODEL: str = os.getenv("LLM_MODEL", "google/gemma-4-26b-a4b-it:free")
+    LLM_MODEL: str = os.getenv("LLM_MODEL", "nvidia/nemotron-3.5-lightning:free")
     OCR_MODEL: str = os.getenv("OCR_MODEL", "google/gemma-4-26b-a4b-it:free")
     FALLBACK_MODELS: list = [
-        "google/gemma-4-26b-a4b-it:free",
         "nvidia/nemotron-3.5-lightning:free",
         "meta-llama/llama-3.3-70b-instruct:free",
         "mistralai/mistral-small-24b-instruct-2501:free",
+        "google/gemma-4-26b-a4b-it:free",
         "google/gemma-4-31b-it:free",
     ]
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")

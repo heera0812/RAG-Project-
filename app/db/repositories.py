@@ -293,6 +293,14 @@ class VectorRepository:
             metadatas=metadatas,
         )
 
+    def _init_chroma(self):
+        self.client = chromadb.PersistentClient(path=self.persist_dir)
+        self.collection = self.client.get_or_create_collection(
+            name=settings.COLLECTION_NAME,
+            embedding_function=self.embedding_fn,
+            metadata={"hnsw:space": "cosine"},
+        )
+
     def search(
         self,
         query: str,
@@ -308,12 +316,24 @@ class VectorRepository:
                 ]
             }
 
-        results = self.collection.query(
-            query_texts=[query],
-            n_results=n_results,
-            where=where_filter,
-            include=["documents", "metadatas", "distances"],
-        )
+        try:
+            results = self.collection.query(
+                query_texts=[query],
+                n_results=n_results,
+                where=where_filter,
+                include=["documents", "metadatas", "distances"],
+            )
+        except Exception:
+            try:
+                self._init_chroma()
+                results = self.collection.query(
+                    query_texts=[query],
+                    n_results=n_results,
+                    where=where_filter,
+                    include=["documents", "metadatas", "distances"],
+                )
+            except Exception:
+                return []
 
         items: List[SearchResultItem] = []
         if not results or not results["ids"] or not results["ids"][0]:

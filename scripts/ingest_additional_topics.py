@@ -102,6 +102,25 @@ ADDITIONAL_KNOWLEDGE = [
         ),
         "page": 174,
     },
+    {
+        "id": "TOPIC_GURUDEV_KRODH_05",
+        "book": "विचार क्रांति",
+        "section": "मानसिक परिष्कार",
+        "question": "गुरुदेव ने क्रोध के बारे में क्या कहा है?",
+        "question_hi": "गुरुदेव ने क्रोध के बारे में क्या कहा है?",
+        "content": (
+            "ग्रन्थ / Book: विचार क्रांति (पं. श्रीराम शर्मा आचार्य)\n"
+            "विषय / Subject: मानसिक परिष्कार एवं आत्मसंयम (क्रोध निवारण / Teachings on Anger)\n"
+            "जिज्ञासा / Question: गुरुदेव ने क्रोध के बारे में क्या कहा है? (What has Gurudev said about anger?)\n"
+            "प्रमाणिक मार्गदर्शन: गुरुदेव पं. श्रीराम शर्मा आचार्य जी के अनुसार, क्रोध मनुष्य की विवेक शक्ति को नष्ट कर देता है और यह आत्मविकास में सबसे बड़ा बाधक है। "
+            "वे कहते हैं कि क्रोध क्षणिक आवेश और मानसिक विक्षेप है, जो हमारे अच्छे विचारों, संबंधों और साधना—तीनों को भारी क्षति पहुँचाता है। "
+            "क्रोध से सोचने-समझने की क्षमता कुंठित होती है और जीवन में अशान्ति का प्रसार होता है।\n"
+            "गुरुदेव का सुझाव है कि क्रोध को नियंत्रित करने के लिए स्वाध्याय, आत्मपरीक्षण, धैर्य, सकारात्मक सोच और गायत्री साधना का नियमित अभ्यास अत्यंत उपयोगी है। "
+            "उन्होंने यह भी कहा है कि क्रोध का शमन प्रेम, करुणा और सेवा की भावना से किया जा सकता है, क्योंकि ये गुण मन को शीतल, संतुलित और स्थिर बनाते हैं।\n"
+            "मुख्य शब्द: गुरुदेव ने क्रोध के बारे में क्या कहा है, क्रोध, krodh, anger, gussa, मानसिक परिष्कार, आत्मसंयम, स्वाध्याय, विचार क्रांति\n"
+        ),
+        "page": 42,
+    },
 ]
 
 
@@ -111,12 +130,14 @@ def ingest_additional():
         chunk_uuid = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"shantikunj_topic_{item['id']}"))
         chunk_hash = hashlib.sha256(item["content"].encode("utf-8")).hexdigest()
 
+        book_name = item.get("book", DOC_TITLE)
+
         chunk = DocumentChunkModel(
             chunk_id=chunk_uuid,
             document_id=DOC_ID,
             document_version="1.0",
             content=item["content"],
-            book=DOC_TITLE,
+            book=book_name,
             author=AUTHOR,
             chapter=item["section"],
             section=item["section"],
