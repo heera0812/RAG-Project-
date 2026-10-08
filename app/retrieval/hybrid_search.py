@@ -22,7 +22,7 @@ class HybridSearchEngine:
         self,
         query: str,
         top_k: int = settings.RETRIEVAL_TOP_K,
-        use_hybrid: bool = False,
+        use_hybrid: bool = True,
         use_notebooklm: bool = True,
     ) -> Tuple[List[SearchResultItem], Literal["high", "medium", "low", "insufficient_evidence"]]:
         # Always run baseline vector search with expanded candidate pool

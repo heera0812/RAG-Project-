@@ -121,6 +121,87 @@ ADDITIONAL_KNOWLEDGE = [
         ),
         "page": 42,
     },
+    {
+        "id": "TOPIC_BRAHMACHARYA_DAINIK_JEEVAN_06",
+        "book": "गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)",
+        "section": "ब्रह्मचर्य तप एवं इन्द्रिय संयम साधना",
+        "question": "ब्रह्मचर्य को दैनिक जीवन में कैसे अपनाएँ?",
+        "question_hi": "ब्रह्मचर्य को दैनिक जीवन में कैसे अपनाएँ?",
+        "content": (
+            "ग्रन्थ / Book: गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)\n"
+            "विषय / Subject: ब्रह्मचर्य तप एवं इन्द्रिय संयम साधना (Brahmacharya in Daily Life)\n"
+            "जिज्ञासा / Question: ब्रह्मचर्य को दैनिक जीवन में कैसे अपनाएँ? (How to practice Brahmacharya in daily life?)\n"
+            "प्रमाणिक आध्यात्मिक मार्गदर्शन (Gurudev's Teachings): पूज्य गुरुदेव पं. श्रीराम शर्मा आचार्य जी ने स्पष्ट किया है कि "
+            "ब्रह्मचर्य केवल शारीरिक वीर्य-रक्षा तक सीमित कोई संकीर्ण क्रिया नहीं, वरन् 'ब्रह्मवत् आचरण'—अर्थात् अपनी चित्तवृत्तियों, ज्ञानेन्द्रियों और जीवनी-शक्ति को ईश्वरीय दिव्यता में लगाना है। "
+            "दैनिक जीवन में ब्रह्मचर्य अपनाने के मुख्य आधार इस प्रकार हैं:\n"
+            "१. विचार-संयम व दृष्टि-पवित्रता: मन को कामुक, अश्लील और विकारी विचारों से मुक्त रखना। समस्त नारियों को मातृ-शक्ति या भगिनी भाव से देखना ('मातृवत् परदारेषु')। मन में कुविचार आते ही तुरंत गायत्री मन्त्र का मानसिक जप या उच्च साहित्य का स्वाध्याय करना।\n"
+            "२. आहार-शुद्धि एवं अस्वाद व्रत: अधिक मिर्च-मसालेदार, उत्तेजक, गरिष्ठ, बासी व तामसिक भोजन काम-वासना को भड़काता है। दैनिक जीवन में सात्त्विक, सुपाच्य, ऋतु-अनुकूल शाकाहार तथा भूख से थोड़ा कम (अल्पाहार) लेना अनिवार्य है।\n"
+            "३. समय व ऊर्जा का सदुपयोग: खाली मस्तिष्क विकारों का घर बनता है। आलस्य त्यागकर समय का एक-एक पल स्वाध्याय, समाज-सेवा, ज्ञानोपार्जन और सत्कर्मों में लगाना। नियमित शारीरिक श्रम, प्राणायाम व व्यायाम द्वारा जीवनी-शक्ति को सक्रिय व सुदृढ़ रखना।\n"
+            "४. गायत्री साधना व तेजस संचय: प्रातःकाल सूर्योदय के समय गायत्री जप और सविता के स्वर्णिम तेज का ध्यान करना। इस दिव्य साधना से काम-शक्ति जलकर मेधा-शक्ति, अलौकिक ओजस और तेजस में रूपान्तरित (उन्नयन/Sublimation) हो जाती है।\n"
+            "५. गृहस्थ ब्रह्मचर्य की मर्यादा: गृहस्थों के लिए केवल धर्मानुकूल संतानोत्पत्ति हेतु ही मैथुन की शास्त्रोक्त आज्ञा है; शेष समय पूर्ण संयम, पारस्परिक निष्ठा और पवित्र मित्रवत जीवन जीना ही गृहस्थ ब्रह्मचर्य है।\n"
+            "मुख्य शब्द: ब्रह्मचर्य को दैनिक जीवन में कैसे अपनाएँ, ब्रह्मचर्य, brahmacharya, celibacy, indriya sanyam, इन्द्रिय संयम, वीर्य रक्षा, ओजस, दृष्टि पवित्रता, आहार शुद्धि, गृहस्थ ब्रह्मचर्य, विचार संयम, गायत्री महाविज्ञान\n"
+        ),
+        "page": 175,
+    },
+    {
+        "id": "TOPIC_BRAHMACHARYA_EN_07",
+        "book": "गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)",
+        "section": "Theme 9: Brahmacharya Tapa & Mastery over Senses",
+        "question": "How to adopt and practice Brahmacharya in daily life according to Gurudev?",
+        "question_hi": "दैनिक जीवन में ब्रह्मचर्य कैसे अपनाएँ?",
+        "content": (
+            "Scripture / Book: गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)\n"
+            "Theme / Subject: Theme 9: Brahmacharya Tapa & Mastery over Senses in Daily Life\n"
+            "Question / Query: How to adopt and practice Brahmacharya (celibacy / self-restraint) in daily life according to Pandit Shriram Sharma Acharya?\n"
+            "Authorized Spiritual Guidance: Gurudev Pandit Shriram Sharma Acharya established that Brahmacharya is far greater than mere physical suppression; "
+            "it literally means 'conduct aligned with the Divine (Brahma)'. Practicing Brahmacharya in daily life requires a holistic approach:\n"
+            "1. Mental Chastity & Pure Vision: Guarding the eyes and mind against vulgar, sensual stimuli. Viewing all women with reverence as mothers or sisters (Matrivat Paradhareshu). "
+            "Immediately redirecting wandering thoughts toward Gayatri Mantra japa or uplifting self-study (Swadhyaya).\n"
+            "2. Dietary Restraint (Aswada): Avoiding heavy, excessively spicy, and stimulant-laden Tamasic food that agitates the nervous system. Adopting pure, light, Sattvic meals eaten in moderate portions.\n"
+            "3. Active Routine & Physical Labor: Eliminating idleness through disciplined work, selfless service (Seva), regular exercise, and Surya Namaskar so that vital energies are harmoniously directed.\n"
+            "4. Gayatri Sadhana & Sublimation into Ojas: Meditating on the solar brilliance (Savita) at dawn transforms raw sexual energy (Kama) into spiritual radiance (Ojas, Tejas, and Medha).\n"
+            "5. Householder Brahmacharya: For married householders, Brahmacharya consists of mutual fidelity, self-restraint outside the purpose of righteous procreation, and living as spiritually uplifting companions.\n"
+            "Core Spiritual Concepts: how to adopt brahmacharya in daily life, brahmacharya, celibacy, indriya sanyam, sense control, sexual energy sublimation, ojas, tejas, mental chastity, sattvic food, swadhyaya, grihastha brahmacharya\n"
+        ),
+        "page": 176,
+    },
+    {
+        "id": "TOPIC_CHAR_SANYAM_08",
+        "book": "विचार क्रांति",
+        "section": "जीवन साधना एवं चार संयम",
+        "question": "गुरुदेव के अनुसार जीवन के चार मुख्य संयम (Char Sanyam) कौन-से हैं?",
+        "question_hi": "चार संयम कौन-से हैं और उनका क्या महत्व है?",
+        "content": (
+            "ग्रन्थ / Book: विचार क्रांति (पं. श्रीराम शर्मा आचार्य)\n"
+            "विषय / Subject: जीवन साधना एवं चार संयम (Four Foundational Disciplines of AWGP)\n"
+            "जिज्ञासा / Question: गुरुदेव के अनुसार जीवन के चार मुख्य संयम (Char Sanyam) कौन-से हैं?\n"
+            "प्रमाणिक मार्गदर्शन: युगऋषि पं. श्रीराम शर्मा आचार्य जी ने व्यक्ति-निर्माण और सफल साधना के लिए 'चार संयम' को अनिवार्य आधारस्तंभ बताया है:\n"
+            "१. इन्द्रिय संयम: जीभ (स्वाद व वाणी) और कामेन्द्रिय पर नियंत्रण रखना। सात्त्विक भोजन करना और पवित्र दृष्टि रखना।\n"
+            "२. अर्थ संयम: अपनी मेहनत की न्यायोचित कमाई पर संतोष करना, फिजूलखर्ची व विलासिता से बचना, और धन का एक अंश लोक-कल्याण में लगाना।\n"
+            "३. समय संयम: जीवन की एक-एक घड़ी को ईश्वर की अमूल्य धरोहर मानकर समय का पाबंद होना। दिनचर्या बनाकर आलस्य व प्रमाद को त्यागना।\n"
+            "४. विचार संयम: मन में नकारात्मक, ईर्ष्यापूर्ण व कामुक विचारों को स्थान न देना; सदैव श्रेष्ठ, प्रेरक व सकारात्मक विचारों का पोषण करना।\n"
+            "मुख्य शब्द: चार संयम, char sanyam, 4 sanyam, इन्द्रिय संयम, अर्थ संयम, समय संयम, विचार संयम, विचार क्रांति, शांतिकुंज\n"
+        ),
+        "page": 45,
+    },
+    {
+        "id": "TOPIC_AHAR_SHUDDHI_09",
+        "book": "गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)",
+        "section": "आहार शुद्धि एवं अस्वाद तप",
+        "question": "आहार शुद्धि और अस्वाद तप के नियम क्या हैं?",
+        "question_hi": "आहार शुद्धि और अस्वाद तप के नियम क्या हैं?",
+        "content": (
+            "ग्रन्थ / Book: गायत्री महाविज्ञान (अमृतवाणी एवं बहुभाषी भाष्य)\n"
+            "विषय / Subject: आहार शुद्धि एवं अस्वाद तप (Dietary Purity and Aswada Tapa)\n"
+            "जिज्ञासा / Question: आहार शुद्धि और अस्वाद तप के नियम क्या हैं? (Rules of dietary purity and taste control)\n"
+            "प्रमाणिक मार्गदर्शन: 'जैसा खावे अन्न, वैसा होवे मन।' गुरुदेव पं. श्रीराम शर्मा आचार्य जी के अनुसार आहार की शुद्धि अंतःकरण की पवित्रता की पहली सीढ़ी है। "
+            "अस्वाद तप का अर्थ केवल स्वादहीन भोजन करना नहीं, बल्कि जिह्वा के चटोरेपन पर विजय प्राप्त करना है। "
+            "नियम: १. भोजन सात्त्विक, पवित्र कमाई से अर्जित और प्रभु-स्मरण पूर्वक पकाया हुआ हो। २. तीखे, अधिक खट्टे, अधिक नमकीन, गरिष्ठ व बासी भोजन से परहेज। "
+            "३. भूख से एक चौथाई कम खाना (मिताहार)। ४. भोजन केवल शरीर को ऊर्जा देने वाला यज्ञीय प्रसाद समझकर शांत भाव से ग्रहण करना।\n"
+            "मुख्य शब्द: आहार शुद्धि, अस्वाद तप, aswada tapa, ahar shuddhi, mitahara, सात्त्विक भोजन, जैसा अन्न वैसा मन, गायत्री महाविज्ञान\n"
+        ),
+        "page": 177,
+    },
 ]
 
 

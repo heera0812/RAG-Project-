@@ -2,12 +2,12 @@
   "total_questions": 25,
   "answerable_questions": 20,
   "unanswerable_questions": 5,
-  "hit_at_1": 0.2,
-  "hit_at_3": 0.3,
-  "hit_at_5": 0.35,
-  "mrr": 0.2625,
+  "hit_at_1": 0.25,
+  "hit_at_3": 0.55,
+  "hit_at_5": 0.55,
+  "mrr": 0.375,
   "abstention_correctness": 0.6,
-  "avg_latency_seconds": 0.2759,
+  "avg_latency_seconds": 0.3444,
   "detailed_results": [
     {
       "id": "q001",
@@ -15,15 +15,15 @@
       "answerable": true,
       "found_rank": 1,
       "confidence": "medium",
-      "latency_sec": 0.5315
+      "latency_sec": 1.1798
     },
     {
       "id": "q002",
       "question": "गायत्री को चारों वेदों की माता क्यों कहा जाता है?",
       "answerable": true,
-      "found_rank": 2,
+      "found_rank": 1,
       "confidence": "high",
-      "latency_sec": 0.2738
+      "latency_sec": 0.3521
     },
     {
       "id": "q003",
@@ -31,7 +31,7 @@
       "answerable": true,
       "found_rank": 2,
       "confidence": "high",
-      "latency_sec": 0.2629
+      "latency_sec": 0.3024
     },
     {
       "id": "q004",
@@ -39,7 +39,7 @@
       "answerable": true,
       "found_rank": 1,
       "confidence": "high",
-      "latency_sec": 0.2713
+      "latency_sec": 0.3026
     },
     {
       "id": "q005",
@@ -47,7 +47,7 @@
       "answerable": true,
       "found_rank": 1,
       "confidence": "medium",
-      "latency_sec": 0.2628
+      "latency_sec": 0.3248
     },
     {
       "id": "q006",
@@ -55,15 +55,15 @@
       "answerable": true,
       "found_rank": null,
       "confidence": "high",
-      "latency_sec": 0.2586
+      "latency_sec": 0.29
     },
     {
       "id": "q007",
       "question": "गायत्री और ब्रह्म की एकता का क्या तात्पर्य है?",
       "answerable": true,
-      "found_rank": 4,
+      "found_rank": 1,
       "confidence": "high",
-      "latency_sec": 0.2711
+      "latency_sec": 0.2939
     },
     {
       "id": "q008",
@@ -71,7 +71,7 @@
       "answerable": true,
       "found_rank": null,
       "confidence": "high",
-      "latency_sec": 0.2763
+      "latency_sec": 0.3029
     },
     {
       "id": "q009",
@@ -79,7 +79,7 @@
       "answerable": true,
       "found_rank": null,
       "confidence": "high",
-      "latency_sec": 0.256
+      "latency_sec": 0.2955
     },
     {
       "id": "q010",
@@ -87,7 +87,7 @@
       "answerable": true,
       "found_rank": null,
       "confidence": "high",
-      "latency_sec": 0.2595
+      "latency_sec": 0.2973
     },
     {
       "id": "q011",
@@ -95,55 +95,55 @@
       "answerable": true,
       "found_rank": null,
       "confidence": "high",
-      "latency_sec": 0.2772
+      "latency_sec": 0.3034
     },
     {
       "id": "q012",
       "question": "gayatri ko vedmata kyu kaha jata hai?",
       "answerable": true,
-      "found_rank": 1,
-      "confidence": "low",
-      "latency_sec": 0.2624
+      "found_rank": 2,
+      "confidence": "medium",
+      "latency_sec": 0.2944
     },
     {
       "id": "q013",
       "question": "kya women gayatri sadhana kar sakti hain?",
       "answerable": true,
-      "found_rank": null,
-      "confidence": "low",
-      "latency_sec": 0.2601
+      "found_rank": 3,
+      "confidence": "medium",
+      "latency_sec": 0.3066
     },
     {
       "id": "q014",
       "question": "gayatri sadhana se satogun kaise badhta hai?",
       "answerable": true,
       "found_rank": null,
-      "confidence": "low",
-      "latency_sec": 0.2581
+      "confidence": "medium",
+      "latency_sec": 0.3464
     },
     {
       "id": "q015",
       "question": "Why is Gayatri worshipped as Vedmata according to Gurudev?",
       "answerable": true,
-      "found_rank": null,
-      "confidence": "insufficient_evidence",
-      "latency_sec": 0.2585
+      "found_rank": 2,
+      "confidence": "medium",
+      "latency_sec": 0.3293
     },
     {
       "id": "q016",
       "question": "What are the four branches of spiritual knowledge described in Gayatri Mahavigyan?",
       "answerable": true,
       "found_rank": null,
-      "confidence": "insufficient_evidence",
-      "latency_sec": 0.2527
+      "confidence": "medium",
+      "latency_sec": 0.3311
     },
     {
       "id": "q017",
       "question": "Do women have the full right to practice Gayatri worship according to the book?",
       "answerable": true,
-      "found_rank": null,
-      "confidence": "insufficient_evidence",
-      "latency_sec": 0.2588
+      "found_rank": 3,
+      "confidence": "medium",
+      "latency_sec": 0.3721
     },
     {
       "id": "q018",
@@ -151,7 +151,7 @@
       "answerable": true,
       "found_rank": null,
       "confidence": "high",
-      "latency_sec": 0.264
+      "latency_sec": 0.318
     },
     {
       "id": "q019",
@@ -159,15 +159,15 @@
       "answerable": true,
       "found_rank": null,
       "confidence": "high",
-      "latency_sec": 0.3151
+      "latency_sec": 0.282
     },
     {
       "id": "q020",
       "question": "गायत्री साधना से शक्ति-कोशों का उद्भव कैसे होता है?",
       "answerable": true,
-      "found_rank": null,
+      "found_rank": 3,
       "confidence": "high",
-      "latency_sec": 0.263
+      "latency_sec": 0.3066
     },
     {
       "id": "q021",
@@ -175,7 +175,7 @@
       "answerable": false,
       "correctly_abstained": true,
       "confidence": "insufficient_evidence",
-      "latency_sec": 0.2535
+      "latency_sec": 0.3205
     },
     {
       "id": "q022",
@@ -183,7 +183,7 @@
       "answerable": false,
       "correctly_abstained": false,
       "confidence": "medium",
-      "latency_sec": 0.2845
+      "latency_sec": 0.2868
     },
     {
       "id": "q023",
@@ -191,7 +191,7 @@
       "answerable": false,
       "correctly_abstained": true,
       "confidence": "insufficient_evidence",
-      "latency_sec": 0.2483
+      "latency_sec": 0.2859
     },
     {
       "id": "q024",
@@ -199,7 +199,7 @@
       "answerable": false,
       "correctly_abstained": false,
       "confidence": "high",
-      "latency_sec": 0.26
+      "latency_sec": 0.2961
     },
     {
       "id": "q025",
@@ -207,7 +207,7 @@
       "answerable": false,
       "correctly_abstained": true,
       "confidence": "insufficient_evidence",
-      "latency_sec": 0.2583
+      "latency_sec": 0.29
     }
   ]
 }
