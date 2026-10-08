@@ -1,5 +1,13 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "main.py": {
+      "excludeFiles": "{data/raw/**,data/extracted/**,data/cleaned/**,data/review/**,docs/**,tests/**,benchmark/**,rag-for-beginners/**,*.pdf,**/*.ipynb}"
+    },
+    "rag-for-beginners/main.py": {
+      "excludeFiles": "{rag-for-beginners/*.ipynb,rag-for-beginners/requirements-dev.txt,rag-for-beginners/1*.py,rag-for-beginners/2*.py,rag-for-beginners/3*.py,rag-for-beginners/4*.py,rag-for-beginners/5*.py,rag-for-beginners/6*.py,rag-for-beginners/7*.py,rag-for-beginners/8*.ipynb,rag-for-beginners/9*.py,rag-for-beginners/10*.py,rag-for-beginners/11*.py,rag-for-beginners/12*.ipynb,rag-for-beginners/13*.ipynb,data/**,docs/**}"
+    }
+  },
   "services": {
     "app": {
       "root": ".",

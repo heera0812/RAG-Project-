@@ -1,42 +1,83 @@
-# Vercel deployment ignore file
+# Vercel Deployment Ignore Configuration
 
-# Virtual environments
+# 1. Virtual Environments
 venv/
 .venv/
+**/venv/**
+**/.venv/**
+rag-for-beginners/venv/**
+rag-for-beginners/.venv/**
 
-# Raw PDF source files (very large)
-data/raw/
-data/extracted/
-data/cleaned/
-data/review/
+# 2. Package Managers & Source Control
+node_modules/
+**/node_modules/**
+.git/
+**/.git/**
+.github/
+**/.github/**
 
-# Development-only notebooks and scripts from rag-for-beginners
-rag-for-beginners/*.ipynb
-rag-for-beginners/requirements-dev.txt
-
-# Test suite (not needed at runtime)
-tests/
-
-# Python cache
+# 3. Python Cache & Build Artifacts
 __pycache__/
+**/__pycache__/**
 *.pyc
 *.pyo
 *.pyd
 .pytest_cache/
+**/.pytest_cache/**
+.cache/
+**/.cache/**
+*.egg-info/
+build/
+dist/
 
-# Logs and temp files
+# 4. Bulky Documents & Raw Ingestion Datasets (Runtime uses SQLite metadata & Chroma vector DB)
+docs/
+docs/**
+data/raw/
+data/raw/**
+data/extracted/
+data/extracted/**
+data/cleaned/
+data/cleaned/**
+data/review/
+data/review/**
+*.pdf
+
+# 5. rag-for-beginners Tutorial Notebooks, Dev Scripts & Research Packages
+rag-for-beginners/*.ipynb
+rag-for-beginners/requirements-dev.txt
+rag-for-beginners/1_*.py
+rag-for-beginners/2_*.py
+rag-for-beginners/3_*.py
+rag-for-beginners/4_*.py
+rag-for-beginners/5_*.py
+rag-for-beginners/6_*.py
+rag-for-beginners/7_*.py
+rag-for-beginners/8_*.ipynb
+rag-for-beginners/9_*.py
+rag-for-beginners/10_*.py
+rag-for-beginners/11_*.py
+rag-for-beginners/12_*.ipynb
+rag-for-beginners/13_*.ipynb
+
+# 6. Test Suites and Evaluation Benchmarks
+tests/
+tests/**
+benchmark/
+benchmark/**
+
+# 7. Local Logs, Scratch & Tooling Metadata
 *.log
 scratch/
+scratch/**
+.agents/
+**/.agents/**
+.claude/
+**/.claude/**
 .tempmediaStorage/
-
-# IDE files
-.vscode/
-.idea/
-.DS_Store
-
-# CLI entrypoint (local dev only)
+**/.tempmediaStorage/**
 app/cli.py
 
-# Secrets
+# 8. Local Environment & Secret Files
 .env
 *.env.*
