@@ -5,6 +5,7 @@
       "root": ".",
       "framework": "fastapi",
       "entrypoint": "main.py",
+      "buildCommand": "pip install -r requirements.txt",
       "bindings": [
         {
           "type": "service",
@@ -17,10 +18,23 @@
     "rag-for-beginners": {
       "root": "rag-for-beginners",
       "framework": "fastapi",
-      "entrypoint": "main.py"
+      "entrypoint": "main.py",
+      "buildCommand": "pip install -r requirements.txt"
     }
   },
   "rewrites": [
+    {
+      "source": "/static/(.*)",
+      "destination": {
+        "service": "app"
+      }
+    },
+    {
+      "source": "/api/(.*)",
+      "destination": {
+        "service": "app"
+      }
+    },
     {
       "source": "/(.*)",
       "destination": {

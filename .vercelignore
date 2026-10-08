@@ -1,0 +1,42 @@
+# Vercel deployment ignore file
+
+# Virtual environments
+venv/
+.venv/
+
+# Raw PDF source files (very large)
+data/raw/
+data/extracted/
+data/cleaned/
+data/review/
+
+# Development-only notebooks and scripts from rag-for-beginners
+rag-for-beginners/*.ipynb
+rag-for-beginners/requirements-dev.txt
+
+# Test suite (not needed at runtime)
+tests/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Logs and temp files
+*.log
+scratch/
+.tempmediaStorage/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# CLI entrypoint (local dev only)
+app/cli.py
+
+# Secrets
+.env
+*.env.*
